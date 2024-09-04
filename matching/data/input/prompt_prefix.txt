@@ -1,0 +1,62 @@
+I have a dataframe with columns 'ecoinvent_prod' and 'clustered'. Both the columns contain products that can be produced or sold by companies.
+Please assess row wise whether a product from column 'ecoinvent_prod' is a high match, medium match, low match or no match to the 'clustered' in the same row.
+
+Use the following vocabulary:
+Q: What is a product?
+A: A product is a specific item, good, or commodity that can be manufactured, produced, or sold by a company. It is a tangible or intangible entity that is created or offered to meet a particular need or desire. 
+Example of Product: In context of these examples, 'necklace,' 'timber,' and 'chalk' are individual products. These are distinct items that can be produced or sold by a company. For instance, a jewelry company can produce necklaces, a lumber company can provide timber, and a manufacturer can produce chalk.
+
+Q: What is an Attribute?
+A: An attribute is a specific characteristic or quality of a product, material, or production process that has a direct impact on the climate profile of a company, particularly in terms of carbon dioxide (CO2) equivalent emissions. 
+Example of Attribute: In the context of a company's climate profile, the attribute of a product like a gold necklace would be 'gold.' This means that the amount of gold used in the necklace production directly affects the company's carbon emissions, as gold extraction and processing can have environmental impacts.
+
+Q: What is an Irrelevant attribute?
+A: Irrelevant attributes are characteristics or qualities of a product, material, or production process that do not significantly influence or impact the climate profile of a company. These attributes do not have a substantial effect on the company's carbon emissions.
+Example of Irrelevant attribute: In the same context, the source of timber, such as whether it's Bolivian timber or from another region, is considered an irrelevant attribute. The choice of timber source does not significantly alter the company's carbon emissions, as the primary concern for emissions in this case would likely be related to deforestation and transportation, rather than the specific origin of the timber.
+
+Q: What is a Product category?
+A: Product category is a higher-level grouping or classification that encompasses a set of related products with common characteristics or functions. It serves as a way to organize and categorize products based on shared attributes or purposes.
+Example of Product category: 'fruits' is a product category. It represents a broader classification that includes various individual fruits like apples, bananas, and strawberries. These individual fruits share common characteristics of being edible, natural, and typically grown for consumption. Product categories help consumers, businesses, and marketers classify and understand products more broadly, making it easier to navigate and differentiate within a broader market.
+
+Q: What is a Main Input?
+A: Main input is the primary and essential component or material that directly defines the nature and purpose of a product.
+Example of Main input: In the case of chalk production, the main input is limestone (specifically, calcium carbonate). Limestone is the primary raw material used to make chalk. It is the central ingredient that gives chalk its fundamental properties.
+
+Q: What is a Required Input?
+A: The required input refers to a specific component, material, or element that is essential for a product to function or perform a particular feature or function.
+Example of Required Input: For a hydraulic digger to operate hydraulically, a hydraulic spring is a required input. It is a crucial component within the hydraulic system of the digger, allowing it to function effectively and perform tasks that require hydraulic power.
+
+Q: What is a Potential Input?
+A: A potential input is a material or component that has the capacity to be used in a product but is not necessarily the primary or required element. It represents an option or choice that can be considered during the product's creation or design.
+Example of Potential input: Gold could be a potential input for making a necklace. While gold is a valuable and popular material for crafting jewelry, it's not the only option. Other metals, gems, or materials could also be considered for creating a necklace. Gold becomes a potential input when deciding on the material choice during the design and crafting process.
+
+Use the following examples to assign score of 'high' match:
+
+1. Gold necklace and Gold necklace (clustered) has match of 'high' certainty because the products plus the attributes of the products are the same for 'ecoinvent_prod' and 'clustered'.
+2. Necklace and Necklace (clustered) has match of 'high' certainty because the products of 'ecoinvent_prod' and 'clustered' are the same. This also includes if the products are synonyms of each other.
+3. Structural Timber and Bolivian Timber (clustered) has match of 'high' certainty because 'Structural' and 'Bolivian' are Irrelevant attibutes which do not matter and hence, the matches are treated as not having attributes at all.
+4. Timber and Bolivian Timber (clustered) has match of 'high' certainty because 'Bolivian' is an Irrelevant attibute which do not matter and hence, the matches are treated as not having attributes at all.
+
+Use the following examples to assign score of 'medium' match:
+
+1. Necklace and Gold necklace (clustered) has match of 'medium' certainty because 'Gold necklace' is a specific product (with specific info on attribute) that can be attributed to next aggregation level (i.e. general term without attribute).
+2. Organic nutrients and 'Protein Pea, organic' (clustered) has match of 'medium' certainty because 'Protein Pea, organic' is a specific product (with specific info on attribute) that can be attributed to next aggregation level (i.e. general term without attribute).
+
+Use the following examples to assign score of 'low' match:
+
+1. 'Protein Pea, organic' and Organic nutrients (clustered) has match of 'low' certainty because 'Organic nutrients' is the product category that can be matched to a specific product 'Protein Pea, organic' that is part of the category. This introduces more uncertainty.
+2. Gold Necklace and Necklace (clustered) has match of 'low' certainty because disaggregating from general term 'necklace' to specific product with attribute 'gold necklace' introduces more uncertainty.
+3. Limestone and Chalk (clustered) has match of 'low' certainty because a product 'Chalk' can be matched to its main input good 'Limestone'. This is a matching across different chains of the value chain.
+4. Chalk and Limestone (clustered) has match of 'low' certainty because a product 'Chalk' can be matched to its main input good 'Limestone'. This is a matching across different chains of the value chain.
+5. Silver Necklace and Gold Necklace (clustered) has match of 'low' certainty because a product is the same product but it is made out of different inputs. 
+
+Use the following examples to assign score of 'no' match:
+
+1. Necklace and Gold (clustered) has 'no' match because too much uncertainty is involved when matching an input good 'Gold' to one out of many potential output goods 'Necklace'.
+2. Gold and Necklace (clustered) has 'no' match because too much uncertainty is involved when matching an input good 'Gold' to one out of many potential output goods 'Necklace'.
+3. Hydraulic spring and Hydraulic digger (clustered) has 'no' match because too much uncertainty is involved when matching an input good 'Hydraulic spring' to one out of many potential output goods 'Hydraulic digger'.
+4. Hydraulic digger and Hydraulic spring (clustered) has 'no' match because too much uncertainty is involved when matching an input good 'Hydraulic spring' to one out of many potential output goods 'Hydraulic digger'.
+
+Give the matching score for each 'ecoinvent_prod' and 'clustered' in the input table to 'Result' key.
+
+Take a deep breathe and answer my questions step by step. You are an amazing data scientist.

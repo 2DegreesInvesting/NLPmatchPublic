@@ -1,0 +1,51 @@
+I have a dataframe with columns 'main_activity', 'clustered', and 'tilt_subsector_candidates'. 
+For each given combination of 'main_activity' and 'clustered', pick from the provided 'candidates_list' the subsector the entity is primarily associated with. 
+Note:
+- Return exactly 1 subsector from the list, which cannot contain a comma. There are no exceptions.
+- Do not provide an explanation and only return the subsector without using apostrophs.
+- Take a deep breathe and answer my questions step by step. You are an amazing data scientist.
+
+Use the following vocabulary:
+Q: What is clustered?
+A: Clustered is a product that is a specific item, good, or commodity that can be manufactured, produced, or sold by a company. It is a tangible or intangible entity that is created or offered to meet a particular need or desire. 
+Example of Product: In context of these examples, 'necklace,' 'timber,' and 'chalk' are individual products. These are distinct items that can be produced or sold by a company. For instance, a jewelry company can produce necklaces, a lumber company can provide timber, and a manufacturer can produce chalk.
+
+Q: What is an Attribute?
+A: An attribute is a specific characteristic or quality of a product, material, or production process that has a direct impact on the climate profile of a company, particularly in terms of carbon dioxide (CO2) equivalent emissions. 
+Example of Attribute: In the context of a company's climate profile, the attribute of a product like a gold necklace would be 'gold.' This means that the amount of gold used in the necklace production directly affects the company's carbon emissions, as gold extraction and processing can have environmental impacts.
+
+Q: What is an Irrelevant attribute?
+A: Irrelevant attributes are characteristics or qualities of a product, material, or production process that do not significantly influence or impact the climate profile of a company. These attributes do not have a substantial effect on the company's carbon emissions.
+Example of Irrelevant attribute: In the same context, the source of timber, such as whether it's Bolivian timber or from another region, is considered an irrelevant attribute. The choice of timber source does not significantly alter the company's carbon emissions, as the primary concern for emissions in this case would likely be related to deforestation and transportation, rather than the specific origin of the timber.
+
+Q: What is a Product category?
+A: Product category is a higher-level grouping or classification that encompasses a set of related products with common characteristics or functions. It serves as a way to organize and categorize products based on shared attributes or purposes.
+Example of Product category: 'fruits' is a product category. It represents a broader classification that includes various individual fruits like apples, bananas, and strawberries. These individual fruits share common characteristics of being edible, natural, and typically grown for consumption. Product categories help consumers, businesses, and marketers classify and understand products more broadly, making it easier to navigate and differentiate within a broader market.
+
+Q: What is a Main Input?
+A: Main input is the primary and essential component or material that directly defines the nature and purpose of a product.
+Example of Main input: In the case of chalk production, the main input is limestone (specifically, calcium carbonate). Limestone is the primary raw material used to make chalk. It is the central ingredient that gives chalk its fundamental properties.
+
+Q: What is a Required Input?
+A: The required input refers to a specific component, material, or element that is essential for a product to function or perform a particular feature or function.
+Example of Required Input: For a hydraulic digger to operate hydraulically, a hydraulic spring is a required input. It is a crucial component within the hydraulic system of the digger, allowing it to function effectively and perform tasks that require hydraulic power.
+
+Q: What is a Potential Input?
+A: A potential input is a material or component that has the capacity to be used in a product but is not necessarily the primary or required element. It represents an option or choice that can be considered during the product's creation or design.
+Example of Potential input: Gold could be a potential input for making a necklace. While gold is a valuable and popular material for crafting jewelry, it's not the only option. Other metals, gems, or materials could also be considered for creating a necklace. Gold becomes a potential input when deciding on the material choice during the design and crafting process.
+
+Q: What is a subsector?
+A: Subsector: A subsector refers to a specific category or segment within an industry. 
+
+Q: How is the product related to a subsector?
+A: An entity can be associated with a subsector by being part of the main raw material, the  production process, distribution, or recycling within a subsector.
+
+Q: What is a main activity and how does it relate to a subsector?
+A: A main activity is the association of a company with the product. The main activity decides together with the product, what the related subsector is.
+There are only a few different main activities possible, which are, 'service provider', 'manufacturer/ producer', 'distributor','wholesaler', 'missing', 'subcontractor', 'agent/ representative',
+'retailer', 'multi-category'. A product can have a different subsector if it has a different main activity.
+
+An product can be associated with a subsector by being part of the main raw material, the  production process, distribution, or recycling within a subsector.
+Pick only from the 'candidates list'. Subsectors where the entity is produced, distributed, or recycled should be chosen over subsectors where the entity is used as raw material.
+Example 1: If the product is 'cars' select the subsector 'Automotive LDV' as it represents the subsector where cars are produced and distributed.
+Example 2: If the product is the activity 'automation facilities' select the subsector 'Construction Residential' as it represents the subsector where automation facilities are produced.

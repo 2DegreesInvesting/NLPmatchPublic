@@ -1,0 +1,81 @@
+geography_id,country_id,lca_geo,priority,input_priority
+6d3de8ae2ea90495c548d3bb2e38a5e08db37cc5,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,at,1,16
+445d51c4b840b9fb33b19a32e8ffce541ce15f2b,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,"iai area, eu27 & efta",2,15
+c1f68f7457b6ce95dcdfa8111260cbae86b5c4bb,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,entso-e,3,14
+808a09ad723e31b63bccd9cb525af4364010724a,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,ucte,4,13
+extra1,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,ucte without germany,5,12
+extra2,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,rer,6,11
+extra3,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,rer w/o ru,7,10
+extra4,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,rer w/o ch+de,8,9
+extra5,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,rer w/o de+nl+ru,9,8
+extra6,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,"europe, without russia and turkey",10,7
+extra7,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,europe without austria,11,6
+extra8,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,europe without switzerland,12,5
+extra9,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,europe without switzerland and austria,13,4
+extra10,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,ch,14,3
+extra11,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,row,15,2
+extra12,1fe80e506149e4b49ca3560003edd2b8d57e6d9e,glo,16,1
+11ebccb245c1d86c86b9a1578057139ee96a5cec,23e591e8c36dda987970603ad0fdd031b7dff9f9,fr,1,16
+extra13,23e591e8c36dda987970603ad0fdd031b7dff9f9,"iai area, eu27 & efta",2,15
+extra14,23e591e8c36dda987970603ad0fdd031b7dff9f9,entso-e,3,14
+extra15,23e591e8c36dda987970603ad0fdd031b7dff9f9,ucte,4,13
+extra16,23e591e8c36dda987970603ad0fdd031b7dff9f9,ucte without germany,5,12
+extra17,23e591e8c36dda987970603ad0fdd031b7dff9f9,rer,6,11
+extra18,23e591e8c36dda987970603ad0fdd031b7dff9f9,rer w/o ru,7,10
+extra19,23e591e8c36dda987970603ad0fdd031b7dff9f9,rer w/o ch+de,8,9
+extra20,23e591e8c36dda987970603ad0fdd031b7dff9f9,rer w/o de+nl+ru,9,8
+extra21,23e591e8c36dda987970603ad0fdd031b7dff9f9,"europe, without russia and turkey",10,7
+extra22,23e591e8c36dda987970603ad0fdd031b7dff9f9,europe without austria,11,6
+extra23,23e591e8c36dda987970603ad0fdd031b7dff9f9,europe without switzerland,12,5
+extra24,23e591e8c36dda987970603ad0fdd031b7dff9f9,europe without switzerland and austria,13,4
+extra25,23e591e8c36dda987970603ad0fdd031b7dff9f9,ch,14,3
+extra26,23e591e8c36dda987970603ad0fdd031b7dff9f9,row,15,2
+extra27,23e591e8c36dda987970603ad0fdd031b7dff9f9,glo,16,1
+efee2f62d3c0261a103409dc2860c4c94cd57d0f,9aec35c79b4e91fefb2a310d33bd736a14c961d8,de,1,16
+extra28,9aec35c79b4e91fefb2a310d33bd736a14c961d8,"iai area, eu27 & efta",2,15
+extra29,9aec35c79b4e91fefb2a310d33bd736a14c961d8,entso-e,3,14
+extra30,9aec35c79b4e91fefb2a310d33bd736a14c961d8,ucte,4,13
+extra31,9aec35c79b4e91fefb2a310d33bd736a14c961d8,ucte without germany,5,12
+extra32,9aec35c79b4e91fefb2a310d33bd736a14c961d8,rer,6,11
+extra33,9aec35c79b4e91fefb2a310d33bd736a14c961d8,rer w/o ru,7,10
+extra34,9aec35c79b4e91fefb2a310d33bd736a14c961d8,rer w/o ch+de,8,9
+extra35,9aec35c79b4e91fefb2a310d33bd736a14c961d8,rer w/o de+nl+ru,9,8
+extra36,9aec35c79b4e91fefb2a310d33bd736a14c961d8,"europe, without russia and turkey",10,7
+extra37,9aec35c79b4e91fefb2a310d33bd736a14c961d8,europe without austria,11,6
+extra38,9aec35c79b4e91fefb2a310d33bd736a14c961d8,europe without switzerland,12,5
+extra39,9aec35c79b4e91fefb2a310d33bd736a14c961d8,europe without switzerland and austria,13,4
+extra40,9aec35c79b4e91fefb2a310d33bd736a14c961d8,ch,14,3
+extra41,9aec35c79b4e91fefb2a310d33bd736a14c961d8,row,15,2
+extra42,9aec35c79b4e91fefb2a310d33bd736a14c961d8,glo,16,1
+43e0659a139f53c47165627064cb6cf6c7ea1eeb,51288d140528c2d5c0565891be70300a9b0e365f,es,1,16
+extra43,51288d140528c2d5c0565891be70300a9b0e365f,"iai area, eu27 & efta",2,15
+extra44,51288d140528c2d5c0565891be70300a9b0e365f,entso-e,3,14
+extra45,51288d140528c2d5c0565891be70300a9b0e365f,ucte,4,13
+extra46,51288d140528c2d5c0565891be70300a9b0e365f,ucte without germany,5,12
+extra47,51288d140528c2d5c0565891be70300a9b0e365f,rer,6,11
+extra48,51288d140528c2d5c0565891be70300a9b0e365f,rer w/o ru,7,10
+extra49,51288d140528c2d5c0565891be70300a9b0e365f,rer w/o ch+de,8,9
+extra50,51288d140528c2d5c0565891be70300a9b0e365f,rer w/o de+nl+ru,9,8
+extra51,51288d140528c2d5c0565891be70300a9b0e365f,"europe, without russia and turkey",10,7
+extra52,51288d140528c2d5c0565891be70300a9b0e365f,europe without austria,11,6
+extra53,51288d140528c2d5c0565891be70300a9b0e365f,europe without switzerland,12,5
+extra54,51288d140528c2d5c0565891be70300a9b0e365f,europe without switzerland and austria,13,4
+extra55,51288d140528c2d5c0565891be70300a9b0e365f,ch,14,3
+extra56,51288d140528c2d5c0565891be70300a9b0e365f,row,15,2
+extra57,51288d140528c2d5c0565891be70300a9b0e365f,glo,16,1
+36a8bb46349064fa9251dbbd7f4d56df1980d57a,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,nl,1,16
+extra58,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,"iai area, eu27 & efta",2,15
+extra59,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,entso-e,3,14
+extra60,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,ucte,4,13
+extra61,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,ucte without germany,5,12
+extra62,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,rer,6,11
+extra63,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,rer w/o ru,7,10
+extra64,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,rer w/o ch+de,8,9
+extra65,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,rer w/o de+nl+ru,9,8
+extra66,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,"europe, without russia and turkey",10,7
+extra67,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,europe without austria,11,6
+extra68,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,europe without switzerland,12,5
+extra69,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,europe without switzerland and austria,13,4
+extra70,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,ch,14,3
+extra71,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,row,15,2
+extra72,6ace185eedb813fe84c2eca7641f9fa0aa3bfdc3,glo,16,1

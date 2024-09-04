@@ -1,0 +1,1486 @@
+europages_prod,ecoinvent_prod,finetune_validation,prompt_validation
+intermediate layers for cardboard boxes,three and five layered board,no,medium
+intermediate layers for cardboard boxes,gypsum fibreboard,no,no
+intermediate layers for cardboard boxes,"containerboard, linerboard",no,no
+intermediate layers for cardboard boxes,"bottom ash, MSWI[F]-WWT, WW from soft fibreboard production",no,no
+intermediate layers for cardboard boxes,"fibreboard, soft, without adhesives",no,no
+construction of flues,"ventilation duct, connection piece, steel, 100x50 mm",no,medium
+construction of flues,"ventilation duct, steel, 100x50 mm",no,no
+construction of flues,"ventilation system, central, 1 x 720 m3/h, steel ducts, with earth tube heat exchanger",no,no
+construction of flues,"ventilation system, decentralized, 6 x 120 m3/h, steel ducts",no,no
+construction of flues,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+athlete's diets,protein pea,no,medium
+athlete's diets,"protein pea, feed, Swiss integrated production",no,medium
+athlete's diets,glucose,no,medium
+athlete's diets,"protein pea, Swiss integrated production",no,medium
+athlete's diets,"tilapia feed, 24-28% protein",no,medium
+3d design,"deep drawing, steel, 38000 kN press, automode",no,no
+3d design,"deep drawing, steel, 3500 kN press, automode",no,medium
+3d design,"deep drawing, steel, 10000 kN press, automode",no,no
+3d design,"deep drawing, steel, 650 kN press, automode",no,no
+3d design,"deep drawing, steel, 38000 kN press, single stroke",no,no
+"machine tools, special","laser machining, metal, with YAG-laser, 330W power",no,medium
+"machine tools, special","machine operation, diesel, < 18.64 kW, high load factor",no,medium
+"machine tools, special","metal working machine, unspecified",no,no
+"machine tools, special","machine operation, diesel, < 18.64 kW, low load factor",no,medium
+"machine tools, special","laser machining, metal, with YAG-laser, 40W power",no,medium
+feasibility analysis,airport,no,no
+feasibility analysis,"planning, heat and power co-generation unit, 160kW electrical",no,no
+feasibility analysis,"deep drawing, steel, 38000 kN press, automode",no,no
+feasibility analysis,clay pit infrastructure,no,no
+feasibility analysis,"deep drawing, steel, 10000 kN press, automode",no,no
+thermal profiling,"heat pump, diffusion absorption, 4kW, future",no,medium
+thermal profiling,"heat, diffusion absorption heat pump",no,medium
+thermal profiling,"heat, central or small-scale, Jakobsberg",no,no
+thermal profiling,"selective coat, copper sheet, physical vapour deposition",no,no
+thermal profiling,"selective coat, copper sheet, sputter deposition",no,no
+profile grinding machines for woodworking,"metal working machine, unspecified",no,no
+profile grinding machines for woodworking,"wood chipping, chipper, mobile, diesel, at forest road",no,no
+profile grinding machines for woodworking,"steel removed by drilling, computer numerical controlled",no,no
+profile grinding machines for woodworking,"wood chipping, industrial residual wood, stationary electric chipper",no,medium
+profile grinding machines for woodworking,"wood chipping, forwarder with terrain chipper, in forest",no,no
+pipe working transfer lines,"transmission network, electricity, high voltage",no,no
+pipe working transfer lines,"distribution network, electricity, low voltage",no,no
+pipe working transfer lines,"sewer grid, rural",no,no
+pipe working transfer lines,"sewer grid, 1.6E8l/year, 6 km",no,medium
+pipe working transfer lines,"transmission network, electricity, medium voltage",no,no
+printing services,"printer, laser, colour",no,no
+printing services,paper machine,no,no
+printing services,"used printer, laser",no,no
+printing services,"printer, laser, black/white",no,no
+printing services,"paper mill, integrated",no,no
+wine design,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",no,no
+wine design,"packaging glass, green",no,medium
+wine design,"glass cullet, for Saint-Gobain ISOVER SA",no,no
+wine design,"cork, raw",no,medium
+wine design,"purse seiner maintenance, wood",no,no
+kitchen furniture design studios,"wood preservation facility, oscillating pressure method",no,no
+kitchen furniture design studios,"wood preservation facility, vacuum pressure method",no,no
+kitchen furniture design studios,"joist, engineered wood",no,no
+kitchen furniture design studios,"purse seiner maintenance, wood",no,no
+kitchen furniture design studios,"sawnwood, hardwood, raw",no,no
+flat products,flat glass factory,no,high
+flat products,EUR-flat pallet,no,high
+flat products,dairy,no,no
+flat products,folding boxboard carton,no,medium
+flat products,"flat plate solar collector, Cu absorber",no,high
+long products,"protein pea, feed, Swiss integrated production",no,medium
+long products,"used long liner, steel",no,no
+long products,"protein feed, 100% crude",no,no
+long products,"long liner, steel",no,no
+long products,"protein pea, Swiss integrated production",no,medium
+mim products for medical technology,silicone product,no,medium
+mim products for medical technology,"inductor, low value multilayer chip",no,medium
+mim products for medical technology,"silicon, multi-Si, casted",no,medium
+mim products for medical technology,"solder, paste, Sn63Pb37, for electronics industry",no,no
+mim products for medical technology,"inductor, miniature radio frequency chip",no,medium
+rubber overmoulding machines,thermoforming of plastic sheets,no,no
+rubber overmoulding machines,stretch blow moulding,no,no
+rubber overmoulding machines,"extrusion of plastic sheets and thermoforming, inline",no,no
+rubber overmoulding machines,"deep drawing, steel, 38000 kN press, automode",no,no
+rubber overmoulding machines,paper machine,no,no
+blasting technology,blasting,medium,medium
+blasting technology,blow moulding,no,no
+blasting technology,blast furnace,no,medium
+blasting technology,"impact extrusion of steel, cold, initial surface treatment",no,no
+blasting technology,titanium,no,no
+citrus treatment,"orange, processing grade",no,no
+citrus treatment,"orange, fresh grade",no,medium
+citrus treatment,lemon,no,no
+citrus treatment,mustard,no,no
+citrus treatment,"tomato, fresh grade",no,no
+property valuers commercial,"land tenure, arable land, measured as carbon net primary productivity, annual crop",no,no
+property valuers commercial,"land tenure, arable land, measured as carbon net primary productivity, perennial crop",no,no
+property valuers commercial,"operation, computer, desktop, home use",no,no
+property valuers commercial,"tillage, harrowing, by offset disc harrow",no,no
+property valuers commercial,"residues, MSWI[F]-WWT, WW, average",no,no
+ultrasonic soldering iron,titanium,no,no
+ultrasonic soldering iron,iron sinter,no,no
+ultrasonic soldering iron,"cast iron removed by drilling, computer numerical controlled",no,no
+ultrasonic soldering iron,"titanium, triple-melt",no,no
+ultrasonic soldering iron,iron sulfate,no,no
+coach rental,bus,no,high
+coach rental,used bus,no,medium
+coach rental,"transport, passenger coach",no,high
+coach rental,"maintenance, bus",no,no
+coach rental,"maintenance, motor scooter",no,no
+"foods, precooked","protein feed, 100% crude",no,no
+"foods, precooked",meat and bone meal,no,no
+"foods, precooked","fishmeal, 63-65% protein",no,no
+"foods, precooked","protein pea, feed, Swiss integrated production",no,medium
+"foods, precooked","fishmeal, 65-67% protein",no,no
+"clothes, children's",waste yarn and waste textile,no,no
+"clothes, children's","textile, nonwoven polypropylene",no,medium
+"clothes, children's","textile, nonwoven polyester",no,no
+"clothes, children's","yarn, silk",no,medium
+"clothes, children's","textile, knit cotton",no,medium
+clothes,"textile, silk",no,no
+clothes,"textile, nonwoven polyester",no,no
+clothes,"textile, nonwoven polypropylene",no,no
+clothes,"textile, kenaf",no,medium
+clothes,"textile, knit cotton",no,medium
+precision machine shops,"metal working machine, unspecified",no,no
+precision machine shops,"laser machining, metal, with YAG-laser, 500W power",no,medium
+precision machine shops,"laser machining, metal, with YAG-laser, 330W power",no,medium
+precision machine shops,"laser machining, metal, with YAG-laser, 200W power",no,medium
+precision machine shops,"laser machining, metal, with YAG-laser, 30W power",no,medium
+hotel,"building, budget hotel",no,medium
+hotel,"building, luxury hotel",no,high
+hotel,"building operation, budget hotel",no,medium
+hotel,"building operation, luxury hotel",no,medium
+hotel,"building, upmarket hotel",no,high
+hi-fi system,internet access equipment,no,no
+hi-fi system,"electric connector, peripheral type buss",no,no
+hi-fi system,"electric connector, peripheral component interconnect buss",no,no
+hi-fi system,"electricity, medium voltage",no,no
+hi-fi system,"power adapter, for laptop",no,no
+industrial piping,"sewer grid, rural",no,no
+industrial piping,"polyethylene pipe, DN 200, SDR 41",no,high
+industrial piping,"polyethylene pipe, corrugated, DN 75",no,no
+industrial piping,"sewer grid, urban",no,no
+industrial piping,"sewer grid, 4.7E10l/year, 583 km",no,no
+insurance in spain,"transport, passenger car, small size, petrol, EURO 3",no,no
+insurance in spain,"transport, passenger car, small size, natural gas, EURO 3",no,no
+insurance in spain,"transport, passenger car, medium size, natural gas, EURO 5",no,no
+insurance in spain,"transport, passenger car, medium size, petrol, EURO 3",no,no
+insurance in spain,"transport, passenger car, medium size, natural gas, EURO 3",no,no
+wood lacquering,"wood preservation facility, oscillating pressure method",no,no
+wood lacquering,"wood preservation, dipping/immersion method, water-based, indoor use, occasionally wet",no,no
+wood lacquering,"wood preservation, dipping/immersion method, water-based, outdoor use, no ground contact",no,no
+wood lacquering,"wood preservation, dipping/immersion method, water-based, indoor use, dry",no,no
+wood lacquering,"wood preservation, hot/cold dipping, creosote, outdoor use, ground contact",no,no
+punching tools,keyboard,no,no
+punching tools,"laser machining, metal, with YAG-laser, 500W power",no,medium
+punching tools,"laser machining, metal, with YAG-laser, 50W power",no,medium
+punching tools,"laser machining, metal, with YAG-laser, 330W power",no,medium
+punching tools,"laser machining, metal, with YAG-laser, 60W power",no,medium
+childcare articles,milking parlour,no,no
+childcare articles,almond,no,no
+childcare articles,"paper, melamine impregnated",no,no
+childcare articles,dairy,no,no
+childcare articles,nylon 6-6,no,no
+excavation work,"excavation, skid-steer loader",medium,no
+excavation work,"excavation, hydraulic digger",medium,no match
+excavation work,"recultivation, dolomite mine",no,no
+excavation work,"mine infrastructure, open cast, lignite",no,no
+excavation work,dolomite quarry infrastructure,no,no
+rail vehicle interior fittings,"cladding, crossbar-pole, aluminium",no,medium
+rail vehicle interior fittings,"wood cladding, softwood",no,no
+rail vehicle interior fittings,"door, outer, wood-aluminium",no,medium
+rail vehicle interior fittings,"used door, outer, wood-aluminium",no,medium
+rail vehicle interior fittings,"door, inner, wood",no,no
+foam rubber case inserts,"door, inner, wood",no,no
+foam rubber case inserts,"exhaust air valve, in-wall housing, plastic/steel, DN 125",no,no
+foam rubber case inserts,"sealing tape, aluminium/PE, 50 mm wide",no,no
+foam rubber case inserts,"door, outer, wood-aluminium",no,no
+foam rubber case inserts,plastic tunnel,no,no
+farm vehicles,light commercial vehicle,no,medium
+farm vehicles,"transport, tractor and trailer, agricultural",no,high
+farm vehicles,"maintenance, light commercial vehicle",no,no
+farm vehicles,used light commercial vehicle,no,no
+farm vehicles,agricultural trailer,no,no
+plastic nets,"nylon 6, glass-filled",no,no
+plastic nets,"sealing tape, aluminium/PE, 50 mm wide",no,no
+plastic nets,"nylon 6-6, glass-filled",no,no
+plastic nets,nylon 6,no,no
+plastic nets,floating collar cage,no,no
+pasteurisers,"metallization paste, front side",no,no
+pasteurisers,"metallization paste, back side",no,no
+pasteurisers,"selective coat, copper sheet, sputter deposition",no,no
+pasteurisers,"metallization paste, back side, aluminium",no,no
+pasteurisers,"printing ink, rotogravure, without solvent, in 55% toluene solution state",no,no
+exotic plants,green asparagus,no,no
+exotic plants,"asparagus seedling, for planting",no,no
+exotic plants,"miscanthus rhizome, for planting",no,no
+exotic plants,cauliflower,no,no
+exotic plants,"willow stem cutting, for planting",no,no
+customised beakers,"carbon fibre reinforced plastic, injection moulded",no,no
+customised beakers,"exhaust air valve, in-wall housing, plastic/steel, DN 125",no,no
+customised beakers,"used outside air intake stainless steel, DN 370",no,no
+customised beakers,"used exhaust air valve in-wall housing, plastic/steel",no,no
+customised beakers,clinker,no,no
+made-to-measure lounge furniture,"furniture, wooden",medium,medium
+made-to-measure lounge furniture,"wood cladding, softwood",no,no
+made-to-measure lounge furniture,"glass fibre reinforced plastic, polyester resin, hand lay-up",no,no
+made-to-measure lounge furniture,plywood,no,no
+made-to-measure lounge furniture,"shavings, hardwood, loose, measured as dry mass",no,no
+flavourings for cooking,celery,no,no
+flavourings for cooking,"sweetening, natural gas",no,no
+flavourings for cooking,mustard,no,medium
+flavourings for cooking,"buttermilk, from cow milk",no,no
+flavourings for cooking,"used vegetable cooking oil, purified",no,medium
+recycled polyethylene terephtalate,"polystyrene foam slab with graphite, 6% recycled",no,medium
+recycled polyethylene terephtalate,"polyethylene terephthalate, granulate, amorphous, recycled",medium,medium
+recycled polyethylene terephtalate,"polyethylene, high density, granulate, recycled",no,medium
+recycled polyethylene terephtalate,"polystyrene foam slab, 10% recycled",no,medium
+recycled polyethylene terephtalate,"polyethylene terephthalate, granulate, bottle grade, recycled",medium,high
+marine propellers,marine electric motor,no,medium
+marine propellers,marine engine,no,no
+marine propellers,helicopter,no,no
+marine propellers,"wind turbine, 2MW, onshore",no,no
+marine propellers,"wind turbine, 2.3MW, onshore",no,no
+granular cocoa,cocoa bean,no,high
+granular cocoa,"activated carbon, granular",no,no
+granular cocoa,barley grain,no,no
+granular cocoa,glyphosate,no,no
+granular cocoa,"polylactide, granulate",no,medium
+food argan,meat and bone meal,no,no
+food argan,"fishmeal, 63-65% protein",no,no
+food argan,"fishmeal, 65-67% protein",no,no
+food argan,barley grain,no,no
+food argan,refrigerator,no,no
+cloves,stalk,no,no
+cloves,atrazine,no,no
+cloves,vanilla,no,no
+cloves,lemon,no,no
+cloves,"paper, melamine impregnated",no,no
+coconuts,"coconut, dehusked",no,high
+coconuts,coconut husk,no,high
+coconuts,"coconut oil, crude",no,high
+coconuts,pineapple,no,no
+coconuts,palm fruit bunch,no,no
+oat milk powders,"skimmed milk, from cow milk",no,no
+oat milk powders,"cream, from cow milk",no,no
+oat milk powders,"buttermilk, from cow milk",no,no
+oat milk powders,cow milk,no,no
+oat milk powders,oat grain,no,medium
+linear bearing,"section bar rolling, steel",no,no
+linear bearing,"impact extrusion of aluminium, deformation stroke",no,medium
+linear bearing,"impact extrusion of aluminium, 1 stroke",no,no
+linear bearing,"swath, by rotary windrower",no,no
+linear bearing,"impact extrusion of aluminium, 5 strokes",no,no
+cartridge valves,"exhaust air valve, in-wall housing, plastic/steel, DN 125",no,no
+cartridge valves,used air filter in exhaust air valve,no,no
+cartridge valves,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+cartridge valves,"used exhaust air valve in-wall housing, plastic/steel",no,no
+cartridge valves,"inductor, ring core choke type",no,no
+pipes for petrochemicals,"extrusion, plastic pipes",no,no
+pipes for petrochemicals,"polyethylene pipe, DN 200, SDR 41",no,no
+pipes for petrochemicals,"borehole heat exchanger, 150m",no,no
+pipes for petrochemicals,"pump, 40W",no,no
+pipes for petrochemicals,wastewater from tube collector production,no,no
+sectional rail couplings,"railway track, for high-speed train",no,medium
+sectional rail couplings,railway track,no,no
+sectional rail couplings,"swath, by rotary windrower",no,no
+sectional rail couplings,"electric connector, peripheral component interconnect buss",no,no
+sectional rail couplings,"spiral-seam duct, steel, DN 125",no,no
+glass mosaics,ceramic tile,medium,medium
+glass mosaics,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",no,no
+glass mosaics,"panel glass, for cathode ray tube display",no,no
+glass mosaics,clay plaster,no,no
+glass mosaics,roof tile,no,no
+high-performance flat belts,"printed wiring board, mounted mainboard, laptop computer, Pb free",no,no
+high-performance flat belts,"calendering, rigid sheets",no,no
+high-performance flat belts,"printed wiring board, mounted mainboard, desktop computer, Pb free",no,medium
+high-performance flat belts,"soft solder, Sn97Cu3",no,no
+high-performance flat belts,"printed wiring board, mounted mainboard, mobile device, double-sided, Pb free",no,medium
+welding fittings,"welding, arc, steel",no,no
+welding fittings,"welding, gas, steel",no,medium
+welding fittings,"welding, arc, aluminium",no,no
+welding fittings,"cladding, crossbar-pole, aluminium",no,no
+welding fittings,"used room-connecting overflow element steel, approx. 40 m3/h",no,no
+additives for engines,"electrolyte, KOH, LiOH additive",no,high
+additives for engines,"petrol, two-stroke blend",no,medium
+additives for engines,manual dismantling of used passenger car with internal combustion engine,no,no
+additives for engines,"catalytic converter, oxidation, 20 litre",no,no
+additives for engines,"diesel, burned in agricultural machinery",no,high
+mozzarellas,zucchini,no,no
+mozzarellas,broccoli,no,no
+mozzarellas,breadcrumbs,no,no
+mozzarellas,banana,no,no
+mozzarellas,cucumber,no,no
+organic beef,"cattle for slaughtering, live weight",high,medium
+organic beef,"soybean, Swiss integrated production",no,no
+organic beef,"chicken for slaughtering, live weight",no,medium
+organic beef,"weaned heifers, live weight",no,no
+organic beef,"soybean, organic",no,no
+chain saws,"power saw, with catalytic converter",no,medium
+chain saws,"power sawing, with catalytic converter",no,medium
+chain saws,"power saw, without catalytic converter",no,medium
+chain saws,"power sawing, without catalytic converter",no,medium
+chain saws,"wire drawing, steel",no,no
+second-hand barrels,"sawlog and veneer log, softwood, debarked, measured as solid wood",no,no
+second-hand barrels,"used silencer steel, DN 315",no,no
+second-hand barrels,"sawlog and veneer log, azobe, debarked, measured as solid wood",no,no
+second-hand barrels,"used silencer steel, DN 125",no,no
+second-hand barrels,"sawlog and veneer log, meranti, debarked, measured as solid wood",no,no
+rum,green liquor dregs,no,no
+rum,fatty alcohol,no,no
+rum,"cork, raw",no,no
+rum,fermentation filtrate,no,no
+rum,Distiller's Dried Grains with Solubles,no,no
+alloy,iron-nickel-chromium alloy,no,high
+alloy,"aluminium, cast alloy",medium,medium
+alloy,"magnesium-alloy, AZ91",medium,medium
+alloy,"magnesium-alloy, AZ91, diecast",medium,medium
+alloy,"aluminium alloy, AlLi",medium,medium
+tea bag,paper sack,no,medium
+tea bag,"tea, dried",no,high
+tea bag,white lined chipboard carton,no,no
+tea bag,folding boxboard carton,no,medium
+tea bag,"sugarcane transfer, by dump cart",no,no
+artificial flowers,"willow stem cutting, for planting",no,no
+artificial flowers,"asparagus seedling, for planting",no,no
+artificial flowers,"onion seedling, for planting",no,no
+artificial flowers,horticultural fleece,no,no
+artificial flowers,planting tree,no,no
+fittings,stretch blow moulding,no,no
+fittings,"door, outer, wood-aluminium",no,medium
+fittings,"cladding, crossbar-pole, aluminium",no,no
+fittings,"swath, by rotary windrower",no,no
+fittings,"ventilation of dwellings, decentralized, 6 x 120 m3/h",no,no
+rubber wheels,bicycle,no,no
+rubber wheels,"maintenance, motor scooter",no,no
+rubber wheels,used motor scooter,no,no
+rubber wheels,electric bicycle,no,no
+rubber wheels,used tyre,no,medium
+preserved fish,marine fish,medium,no
+preserved fish,"small pelagic fish, fresh",no,no match
+preserved fish,"fish freezing, small fish",medium,no
+preserved fish,trout,no,medium match
+preserved fish,"fishmeal, 63-65% protein",no,medium
+tinned fish,"fish curing, small fish",no,no match
+tinned fish,"trout feed, 42% protein",no,no
+tinned fish,"small pelagic fish, fresh",no,no match
+tinned fish,trout,no,no match
+tinned fish,"demersal fish, fresh",no,no
+"fish, salt-water","small pelagic fish, fresh",no,medium match
+"fish, salt-water","fish freezing, small fish",no,no match
+"fish, salt-water","demersal fish, fresh",medium,no
+"fish, salt-water",marine fish,high,high match
+"fish, salt-water",trout,no,no match
+drums,"silencer, steel, DN 125",no,no
+drums,lead,no,no
+drums,"toner module, laser printer, black/white",no,high
+drums,"used silencer steel, DN 125",no,no
+drums,"used silencer steel, DN 315",no,no
+precision balls,"swath, by rotary windrower",no,no
+precision balls,pitch,no,no
+precision balls,"laser machining, metal, with YAG-laser, 500W power",no,medium
+precision balls,"laser machining, metal, with YAG-laser, 330W power",no,medium
+precision balls,"laser machining, metal, with YAG-laser, 30W power",no,medium
+banana sweet potato,banana,no,high
+banana sweet potato,potato,high,high
+banana sweet potato,"potato seed, for setting",no,no
+banana sweet potato,cucumber,no,no
+banana sweet potato,palm kernel meal,no,no
+3d scanner,"laser machining, metal, with YAG-laser, 60W power",no,medium
+3d scanner,"deep drawing, steel, 38000 kN press, automode",no,no
+3d scanner,"laser machining, metal, with YAG-laser, 50W power",no,no
+3d scanner,"laser machining, metal, with YAG-laser, 30W power",no,medium
+3d scanner,"laser machining, metal, with YAG-laser, 40W power",no,medium
+soft drinks,green liquor dregs,no,no
+soft drinks,Distiller's Dried Grains with Solubles,no,no
+soft drinks,"soda ash, light",no,medium
+soft drinks,soybean beverage,no,no
+soft drinks,"soft solder, Sn97Cu3",no,no
+lubricating oil,lubricating oil,high,high
+lubricating oil,light fuel oil,no,medium
+lubricating oil,bilge oil,no,no
+lubricating oil,petroleum refinery,no,no
+lubricating oil,base oil,medium,high
+bags,paper sack,no,medium
+bags,"lorry with refrigeration machine, R134a as refrigerant, 16 metric ton",no,no
+bags,"lorry with refrigeration machine, carbon dioxide, liquid as refrigerant, 16 metric ton",no,no
+bags,"aircraft, belly freight, medium haul",no,no
+bags,folding boxboard carton,no,medium
+canned food,soybean meal,no,no
+canned food,"protein feed, 100% crude",no,no
+canned food,meat and bone meal,no,no
+canned food,"protein pea, feed, Swiss integrated production",no,medium
+canned food,cottonseed meal,no,medium
+batteries,"battery cell, Li-ion, LiMn2O4",medium,medium
+batteries,"battery, Li-ion, NMC811, rechargeable, prismatic",medium,high
+batteries,"battery, Li-ion, NMC111, rechargeable, prismatic",medium,high
+batteries,"battery, Li-ion, LiMn2O4, rechargeable, prismatic",medium,high
+batteries,"battery, Li-ion, NCA, rechargeable, prismatic",medium,high
+stainless steel ball valves,"exhaust air valve, in-wall housing, plastic/steel, DN 125",no,no
+stainless steel ball valves,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+stainless steel ball valves,"spiral-seam duct, steel, DN 125",no,no
+stainless steel ball valves,"spiral-seam duct, steel, DN 400",no,no
+stainless steel ball valves,"hot rolling, steel",no,no
+office machines,used desktop computer,no,no
+office machines,"computer, desktop, without screen",no,no
+office machines,"computer, laptop",no,no
+office machines,"machine, for treatment of waste electric and electronic equipment",no,no
+office machines,paper machine,no,no
+pneumatic system components,"electronic component, active, unspecified",no,no
+pneumatic system components,"maintenance, tram",no,no match
+pneumatic system components,used ventilation control and wiring decentralized unit,no,no
+pneumatic system components,"ventilation control and wiring, decentralized unit",no,medium
+pneumatic system components,ventilation components factory,no,no
+entry control system,"air filter, decentralized unit, 180-250 m3/h",no,medium
+entry control system,"air filter, decentralized unit, 250 m3/h",no,no
+entry control system,air separation facility,no,no
+entry control system,"control cabinet, heat and power co-generation unit, 160kW electrical",no,no
+entry control system,"ventilation control and wiring, decentralized unit",no,medium
+optical instruments,"pointing device, optical mouse, with cable",no,medium
+optical instruments,"optical brighteners, for paper production",no,no
+optical instruments,"silicon, single crystal, Czochralski process, photovoltaics",no,high
+optical instruments,"liquid crystal display, unmounted, mobile device",no,no
+optical instruments,"frit, for cathode ray tube display",no,no
+concrete formwork panels,"lightweight concrete block, polystyrene",no,no
+concrete formwork panels,"lightweight concrete block, expanded clay",no,medium
+concrete formwork panels,"lightweight concrete block, pumice",no,no
+concrete formwork panels,concrete roof tile,no,no
+concrete formwork panels,"lightweight concrete block, expanded perlite",no,medium
+bulk material,"titania slag, 85% titanium dioxide",no,no
+bulk material,"titania slag, 94% titanium dioxide",no,medium
+bulk material,"waste bulk iron, excluding reinforcement",no,medium
+bulk material,"wafer, fabricated, for integrated circuit",no,high
+bulk material,"bulk carrier, for dry goods",no,high
+screw compressor,"air compressor, screw-type compressor, 4kW",medium,high
+screw compressor,"air compressor, screw-type compressor, 300kW",medium,high
+screw compressor,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+screw compressor,"ventilation duct, steel, 100x50 mm",no,no
+screw compressor,"ventilation duct, connection piece, steel, 100x50 mm",no,no
+foristry,"forging, steel",no,no
+foristry,folpet,no,no
+foristry,"selective coat, copper sheet, sputter deposition",no,no
+foristry,"sputtering, indium tin oxide, for liquid crystal display",no,no
+foristry,"residues, MSWI[F]-WWT, WW from LCD backlight production",no,no
+light commercial vehicles,light commercial vehicle,medium,high
+light commercial vehicles,used light commercial vehicle,medium,medium
+light commercial vehicles,"maintenance, light commercial vehicle",no,high
+light commercial vehicles,"glider, passenger car",no,no
+light commercial vehicles,"transport, freight, light commercial vehicle",no,high
+binding,"zinc coat, coils",no,no
+binding,"selective coat, stainless steel sheet, black chrome",no,medium
+binding,ethane,no,no
+binding,"silver, unrefined",no,no
+binding,reinforcing steel,no,medium
+organic peroxides,"hydrogen peroxide, without water, in 50% solution state",medium,medium
+organic peroxides,hydrogen cyanide,no,no
+organic peroxides,carbon disulfide,no,no
+organic peroxides,"nitrate salts, for solar power application",no,no
+organic peroxides,"alkylketene dimer sizing agent, for paper production",no,medium
+metallurgy installations,"metal working, average for chromium steel product manufacturing",no,medium
+metallurgy installations,"metal working, average for steel product manufacturing",no,medium
+metallurgy installations,"metal working machine, unspecified",no,no
+metallurgy installations,metal working factory,no,no
+metallurgy installations,"metal working, average for copper product manufacturing",no,medium
+clean room processes,"cleaning consumables, without water, in 13.6% solution state",no,medium
+clean room processes,"operation, computer, desktop, with liquid crystal display, standby mode",no,no match
+clean room processes,"operation, computer, desktop, with liquid crystal display, off mode",no,no match
+clean room processes,"operation, computer, desktop, with liquid crystal display, active mode",no,no
+clean room processes,washing machine,no,no
+shipyards repairs,"maintenance, barge",no,no
+shipyards repairs,"maintenance, intermodal shipping container, 40-foot",no,no
+shipyards repairs,"trawler maintenance, steel",no,no match
+shipyards repairs,"maintenance, intermodal shipping container, 20-foot",no,no
+shipyards repairs,"maintenance, ferry",no,no
+"salvaging, scrap iron","iron scrap, unsorted",medium,high
+"salvaging, scrap iron","recultivation, iron mine",no,no
+"salvaging, scrap iron","iron scrap, sorted, pressed",medium,medium
+"salvaging, scrap iron",scrap copper,no,no
+"salvaging, scrap iron",scrap steel,no,no
+countersinks,clinker,no,no
+countersinks,tin concentrate,no,no
+countersinks,"sputtering, indium tin oxide, for liquid crystal display",no,no
+countersinks,"delimbing/sorting, excavator-based processor",no,no
+countersinks,"tempering, flat glass",no,no
+pharmaceutical products,refrigerant R134a,no,no
+pharmaceutical products,injection moulding,no,no
+pharmaceutical products,"protein feed, 100% crude",no,no
+pharmaceutical products,"protein pea, organic",no,no
+pharmaceutical products,"N,N-dimethylformamide",no,no
+development,"planning, cogen unit mini CHP plant",no,high
+development,irrigation,no,no
+development,planting,no,no
+development,pitch,no,no
+development,"building operation, hostel",no,no
+sludge treatment consulting,"sludge, NaCl electrolysis",no,no
+sludge treatment consulting,"sludge, NaCl electrolysis Hg",no,no
+sludge treatment consulting,"sewage sludge, 70% water, WWT, WW, average",no,no
+sludge treatment consulting,"sewage sludge, 75% water, WWT, WW, average",no,no
+sludge treatment consulting,"manual treatment facility, waste electric and electronic equipment",no,no
+milling technology,"laser machining, metal, with YAG-laser, 500W power",no,medium
+milling technology,"laser machining, metal, with YAG-laser, 200W power",no,medium
+milling technology,"laser machining, metal, with YAG-laser, 330W power",no,medium
+milling technology,"laser machining, metal, with YAG-laser, 50W power",no,medium
+milling technology,"laser machining, metal, with YAG-laser, 60W power",no,medium
+repair of speed reduction units,electronics scrap from control units,no,no
+repair of speed reduction units,manual dismantling of used electric passenger car,no,no
+repair of speed reduction units,manual dismantling of electric scooter,no,no
+repair of speed reduction units,manual dismantling of used passenger car with internal combustion engine,no,no
+repair of speed reduction units,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, low load factor",no,no
+rubber cutting operations,"deep drawing, steel, 38000 kN press, automode",no,no
+rubber cutting operations,"deep drawing, steel, 650 kN press, automode",no,no
+rubber cutting operations,"deep drawing, steel, 38000 kN press, single stroke",no,no
+rubber cutting operations,"deep drawing, steel, 3500 kN press, automode",no,no
+rubber cutting operations,synthetic rubber,no,no
+iron foundries installations,"cast iron removed by drilling, computer numerical controlled",no,no
+iron foundries installations,"cast iron removed by milling, large parts",no,no
+iron foundries installations,"cast iron removed by milling, dressing",no,no
+iron foundries installations,"cast iron removed by drilling, conventional",no,no
+iron foundries installations,"cast iron removed by turning, primarily roughing, computer numerical controlled",no,no
+punch shear combi machines,"delimbing/sorting, excavator-based processor",no,no
+punch shear combi machines,"swath, by rotary windrower",no,no
+punch shear combi machines,"mowing, by rotary mower",no,no
+punch shear combi machines,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+punch shear combi machines,"inductor, miniature radio frequency chip",no,no
+outsourcing of financial services,"operation, computer, desktop, office use",no,no
+outsourcing of financial services,"operation, computer, desktop, home use",no,no match
+outsourcing of financial services,"operation, computer, laptop, videoconference, electricity from renewable energy products",no,medium
+outsourcing of financial services,"operation, internet access equipment, electricity from renewable energy products",no,medium
+outsourcing of financial services,ferry,no,no
+dismantling of industrial plants,manual dismantling of used electric passenger car,no,no
+dismantling of industrial plants,manual dismantling of used passenger car with internal combustion engine,no,no
+dismantling of industrial plants,"recultivation, iron mine",no,no
+dismantling of industrial plants,manual dismantling of electric scooter,no,no
+dismantling of industrial plants,decommissioned chemical production facilities,no,medium
+chemical waste recycling,slag landfill,no,no
+chemical waste recycling,municipal waste collection service by 21 metric ton lorry,no,medium
+chemical waste recycling,"waste paper, sorted",no,high
+chemical waste recycling,"waste paperboard, sorted",no,high
+chemical waste recycling,waste polypropylene,no,no
+milling of plastic,"extrusion of plastic sheets and thermoforming, inline",no,no
+milling of plastic,thermoforming of plastic sheets,no,no
+milling of plastic,"sheet rolling, aluminium",no,no
+milling of plastic,"aluminium removed by turning, primarily roughing, computer numerical controlled",no,no
+milling of plastic,paper machine,no,no
+onshore services,onshore petroleum field infrastructure,no,no
+onshore services,port facilities,no,no
+onshore services,"trawler maintenance, steel",no,no match
+onshore services,"maintenance, ferry",no,no
+onshore services,"maintenance, transmission network, electricity, high voltage direct current subsea cable",no,no
+boring machines,paper machine,no,no
+boring machines,building machine,no,no
+boring machines,"machine operation, diesel, >= 74.57, underground mining",no,no
+boring machines,plastic tunnel,no,no
+boring machines,"metal working machine, unspecified",no,no
+motor vehicle cluches,decommissioned road,no,no
+motor vehicle cluches,"transport, passenger car, EURO 4",no,no
+motor vehicle cluches,"transport, passenger car, EURO 5",no,no
+motor vehicle cluches,"road wear emissions, passenger car",no,no
+motor vehicle cluches,"road wear emissions, lorry",no,no
+multimedia intranet services,"internet access, videoconference, 0.7 Mbit/s",no,no
+multimedia intranet services,"internet access, work, 0.2 Mbit/s",no,medium
+multimedia intranet services,internet access equipment,no,high
+multimedia intranet services,"cable, data cable in infrastructure",no,high
+multimedia intranet services,medium density fibreboard,no,no
+product for animal beauty,silicone product,no,no
+product for animal beauty,almond,no,high
+product for animal beauty,dairy,no,no
+product for animal beauty,"cattle for slaughtering, live weight",no,no
+product for animal beauty,nylon 6,no,no
+staff,"operation, computer, laptop, videoconference",no,no
+staff,"operation, computer, desktop, office use",no,no
+staff,"building operation, hostel",no,no
+staff,"operation, computer, desktop, with cathode ray tube display, standby mode",no,no match
+staff,"operation, computer, desktop, with cathode ray tube display, off mode",no,no match
+pedicure items,"textile, nonwoven polyester",no,no
+pedicure items,"textile, nonwoven polypropylene",no,no
+pedicure items,"textile, silk",no,no
+pedicure items,"fibre, silk, short",no,no
+pedicure items,"textile, kenaf",no,medium
+bijouterie,aubergine,no,no
+bijouterie,lignite briquettes,no,no
+bijouterie,bauxite,no,no
+bijouterie,"road wear emissions, passenger car",no,no
+bijouterie,"road wear emissions, lorry",no,no
+"foundries, brass","casting, brass",medium,high match
+"foundries, brass",brass,medium,high match
+"foundries, brass","brass removed by drilling, computer numerical controlled",no,no
+"foundries, brass","brass removed by turning, primarily roughing, computer numerical controlled",no,no
+"foundries, brass","brass removed by turning, average, computer numerical controlled",no,no
+new truck parts,"maintenance, motor scooter",no,no
+new truck parts,"maintenance, goods wagon",no,no
+new truck parts,"maintenance, bus",no,no
+new truck parts,"electronic component machinery, unspecified",no,no
+new truck parts,"chassis, internet access equipment",no,no
+powder disposal,waste preparation facility,no,no
+powder disposal,municipal waste incineration facility,no,no
+powder disposal,fraction 7 from naphtha separation,no,no
+powder disposal,"sorting facility, for construction waste",no,no
+powder disposal,hazardous waste incineration facility,no,no
+waste recycling machines,"waste paperboard, sorted",no,medium
+waste recycling machines,waste paper sorting facility,no,no
+waste recycling machines,"waste paper, sorted",no,high
+waste recycling machines,waste fibreboard,no,no
+waste recycling machines,waste paperboard,no,no
+gastronomic specialties,dairy,no,no
+gastronomic specialties,celery,no,no
+gastronomic specialties,glucose,no,medium
+gastronomic specialties,mustard,no,high
+gastronomic specialties,"ventilation system, decentralized, 6 x 120 m3/h, polyethylene ducts",no,no
+concrete constructions,concrete slab,no,high
+concrete constructions,"concrete, medium strength",no,high
+concrete constructions,"concrete, 37MPa",no,high
+concrete constructions,"waste concrete, not reinforced",no,no
+concrete constructions,concrete block,no,high
+business consultancy,"operation, computer, laptop, videoconference",no,no
+business consultancy,"building operation, upmarket hotel",no,no
+business consultancy,"operation, computer, desktop, office use",no,no
+business consultancy,"operation, computer, laptop, videoconference, electricity from renewable energy products",no,medium
+business consultancy,"operation, computer, desktop, home use",no,no
+goods procurement,"transport, freight, aircraft, unspecified",no,no
+goods procurement,"maintenance, goods wagon",no,no
+goods procurement,goods wagon,no,no
+goods procurement,"transport, passenger aircraft, unspecified",no,no
+goods procurement,folding boxboard carton,no,no
+waste transportation,municipal waste collection service by 21 metric ton lorry,no,high
+waste transportation,waste paper sorting facility,no,no
+waste transportation,"waste collection lorry, 21 metric ton",medium,medium
+waste transportation,"sorting facility, for construction waste",no,no
+waste transportation,municipal waste incineration facility,no,no
+treatment of industrial waste water,"manual treatment facility, waste electric and electronic equipment",no,no match
+treatment of industrial waste water,ion-exchanger for water treatment,no,no
+treatment of industrial waste water,"wastewater treatment facility, capacity 1.6E8l/year",no,no match
+treatment of industrial waste water,"wastewater treatment facility, capacity 1.1E10l/year",no,no
+treatment of industrial waste water,wastewater from potato starch production,no,no
+deep-drawn aluminium parts,"deep drawing, steel, 10000 kN press, automode",no,no
+deep-drawn aluminium parts,"deep drawing, steel, 3500 kN press, automode",no,no
+deep-drawn aluminium parts,"deep drawing, steel, 38000 kN press, automode",no,no
+deep-drawn aluminium parts,"deep drawing, steel, 650 kN press, automode",no,no
+deep-drawn aluminium parts,"aluminium removed by milling, large parts",no,no
+crockery,"printed wiring board, mounted mainboard, desktop computer, Pb containing",no,no
+crockery,"printed wiring board, mounted mainboard, laptop computer, Pb containing",no,no
+crockery,"printed wiring board, for through-hole mounting, Pb free surface",no,no
+crockery,"printed wiring board, for through-hole mounting, Pb containing surface",no,no
+crockery,"computer, desktop, without screen",no,no
+automobile - assistance,"maintenance, passenger car, electric, without battery",no,no
+automobile - assistance,"maintenance, electric scooter, without battery",no,medium
+automobile - assistance,passenger car maintenance,medium,medium
+automobile - assistance,ferry,no,no
+automobile - assistance,"maintenance, motor scooter",no,no
+repair garage services,"maintenance, light commercial vehicle",no,high
+repair garage services,"maintenance, bus",no,no
+repair garage services,"maintenance, motor scooter",no,no
+repair garage services,"maintenance, passenger car, electric, without battery",no,no
+repair garage services,passenger car maintenance,no,high
+"casting, steel","steel removed by drilling, computer numerical controlled",no,no
+"casting, steel","casting, brass",no,no
+"casting, steel","steel, chromium steel 18/8, hot rolled",medium,medium
+"casting, steel","steel removed by turning, primarily dressing, computer numerical controlled",no,no
+"casting, steel","steel removed by turning, average, computer numerical controlled",no,no
+food safety,protein pea,no,no
+food safety,"protein pea, Swiss integrated production",no,medium
+food safety,"protein pea, feed, Swiss integrated production",no,medium
+food safety,"protein feed, 100% crude",no,no
+food safety,dairy,no,no
+personal coach,propanal,no,no
+personal coach,lead,no,no
+personal coach,folpet,no,no
+personal coach,"operation, computer, laptop, videoconference",no,no
+personal coach,captan,no,no
+zinc electroplating,"zinc coat, pieces",no,medium
+zinc electroplating,"zinc coat, coils",no,medium
+zinc electroplating,"zinc coat, pieces, adjustment per micro-m",no,no
+zinc electroplating,zinc,no,medium
+zinc electroplating,"titanium zinc plate, without pre-weathering",no,no
+sheet metal handling,"section bar rolling, steel",no,no
+sheet metal handling,"sheet rolling, steel",no,no
+sheet metal handling,"steel removed by turning, average, computer numerical controlled",no,no
+sheet metal handling,"steel removed by turning, primarily roughing, computer numerical controlled",no,no
+sheet metal handling,"steel removed by turning, primarily dressing, computer numerical controlled",no,no
+automobile dealer,road vehicle factory,no,no
+automobile dealer,"maintenance, motor scooter",no,no
+automobile dealer,"maintenance, passenger car, electric, without battery",no,medium
+automobile dealer,"maintenance, light commercial vehicle",no,no
+automobile dealer,"road, company, internal",no,no
+refrigeration plant maintenance,"maintenance, refrigeration machine",no,medium
+refrigeration plant maintenance,"refrigeration machine, R134a as refrigerant",no,medium
+refrigeration plant maintenance,"maintenance, train, passenger, high-speed",no,no match
+refrigeration plant maintenance,"maintenance, transmission network, electricity, high voltage direct current aerial line",no,no
+refrigeration plant maintenance,"maintenance, mini CHP plant",no,no
+blasting media recovery machines,blasting,no,no
+blasting media recovery machines,rock crushing,no,no
+blasting media recovery machines,de-icer,no,no
+blasting media recovery machines,terrain chipper on forwarder,no,no
+blasting media recovery machines,"blast furnace dust, for recovery",no,medium
+sieving machines,internet access equipment,no,no
+sieving machines,"operation, internet access equipment",no,no
+sieving machines,"machine operation, diesel, < 18.64 kW, steady-state",no,no
+sieving machines,"delimbing/sorting, excavator-based processor",no,no
+sieving machines,"machine, for treatment of waste electric and electronic equipment",no,no
+stainless steel boilerwork for decoration,"spiral-seam duct, steel, DN 125",no,no
+stainless steel boilerwork for decoration,"spiral-seam duct, steel, DN 400",no,no
+stainless steel boilerwork for decoration,"contouring, brass",no,no match
+stainless steel boilerwork for decoration,"steel removed by turning, primarily dressing, computer numerical controlled",no,no match
+stainless steel boilerwork for decoration,"cladding, crossbar-pole, aluminium",no,no
+chip chandler,"inductor, miniature radio frequency chip",no,medium
+chip chandler,"inductor, low value multilayer chip",no,medium
+chip chandler,"wood chipping, forwarder with terrain chipper, in forest",no,no
+chip chandler,"wood chips, dry, measured as dry mass",no,medium
+chip chandler,castor bean,no,no
+automotive,"internal combustion engine, passenger car",no,medium
+automotive,road vehicle factory,no,high
+automotive,"used internal combustion engine, passenger car",no,no
+automotive,"road wear emissions, passenger car",no,no
+automotive,passenger car maintenance,no,high
+"substations, high-voltage","electricity, low voltage",no,no
+"substations, high-voltage","electricity, medium voltage",no,no
+"substations, high-voltage","electricity, high voltage",no,high
+"substations, high-voltage","transformer, high voltage use",no,high
+"substations, high-voltage","transformer, low voltage use",no,no
+street furniture,"furniture, wooden",medium,medium
+street furniture,"wood cladding, softwood",no,no
+street furniture,plywood,no,no
+street furniture,"wooden board factory, organic bonded boards",no,no
+street furniture,"sawnwood, softwood, raw",no,no
+special events communication,intral,no,no
+special events communication,"operation, computer, laptop, videoconference",no,high
+special events communication,television,no,no
+special events communication,captan,no,no
+special events communication,internet access equipment,no,high
+emergency pollution clearance service,"air filter, decentralized unit, 250 m3/h",no,no
+emergency pollution clearance service,"air filter, decentralized unit, 180-250 m3/h",no,medium
+emergency pollution clearance service,sanitary landfill facility,no,no
+emergency pollution clearance service,air separation facility,no,no
+emergency pollution clearance service,"used air filter decentralized unit, 250 m3/h",no,medium
+multiple plants,planting tree,no,no
+multiple plants,bamboo culm,no,no
+multiple plants,cauliflower,no,no
+multiple plants,"willow stem cutting, for planting",no,no
+multiple plants,"grass, organic",no,medium
+mechanically welded constructions,"welding, arc, steel",no,high
+mechanically welded constructions,"steel removed by turning, primarily dressing, computer numerical controlled",no,no
+mechanically welded constructions,"steel removed by turning, primarily roughing, computer numerical controlled",no,no
+mechanically welded constructions,"steel removed by drilling, computer numerical controlled",no,no
+mechanically welded constructions,"steel removed by turning, primarily roughing, conventional",no,no
+customised laser working,"laser machining, metal, with YAG-laser, 60W power",medium,medium
+customised laser working,"laser machining, metal, with YAG-laser, 30W power",medium,medium
+customised laser working,"laser machining, metal, with YAG-laser, 50W power",medium,high
+customised laser working,"laser machining, metal, with YAG-laser, 120W power",medium,high
+customised laser working,"laser machining, metal, with YAG-laser, 40W power",medium,medium
+biscuit consultant,breadcrumbs,no,no
+biscuit consultant,milking parlour,no,no
+biscuit consultant,"chipper, stationary, electric",no,no
+biscuit consultant,paraffin,no,no
+biscuit consultant,almond,no,no
+"foods, macrobiotic","protein feed, 100% crude",no,no
+"foods, macrobiotic","protein pea, organic",no,medium
+"foods, macrobiotic",meat and bone meal,no,no
+"foods, macrobiotic","fishmeal, 63-65% protein",no,no
+"foods, macrobiotic","fishmeal, 65-67% protein",no,no
+colour free preservative free drink,green liquor dregs,no,no match
+colour free preservative free drink,"soda ash, light",no,no match
+colour free preservative free drink,"fluorescent whitening agent, distyrylbiphenyl type",no,no match
+colour free preservative free drink,"alkyd paint, white, without water, in 60% solution state",no,no
+colour free preservative free drink,"ethylvinylacetate, foil",no,no match
+plastic filter nozzles,"air filter, in exhaust air valve",no,no
+plastic filter nozzles,"air filter, decentralized unit, 180-250 m3/h",no,medium
+plastic filter nozzles,"air filter, decentralized unit, 250 m3/h",no,medium
+plastic filter nozzles,used air filter in exhaust air valve,no,no
+plastic filter nozzles,"used air filter decentralized unit, 180-250 m3/h",no,no
+tar construction materials,coal tar,no,high
+tar construction materials,"steel removed by drilling, computer numerical controlled",no,no
+tar construction materials,"steel removed by drilling, conventional",no,no
+tar construction materials,"sawnwood, softwood, raw",no,no
+tar construction materials,scrap steel,no,no
+gold tokens,"gold, unrefined",no,medium
+gold tokens,"gold-silver, ingot",no,no
+gold tokens,gold,no,high
+gold tokens,bronze,no,no
+gold tokens,"silver, unrefined",no,no
+paper - art,"graphic paper, 100% recycled",no,no
+paper - art,kraft paper,no,no
+paper - art,paper machine,no,no
+paper - art,waste graphical paper,no,high
+paper - art,tissue paper,no,no
+fuel oils,light fuel oil,medium,medium
+fuel oils,heavy fuel oil,medium,high
+fuel oils,petroleum,no,no
+fuel oils,base oil,medium,medium
+fuel oils,"vegetable oil, refined",no,no
+metal shed,metal working factory,no,no
+metal shed,"metal working machine, unspecified",no,no
+metal shed,"metal working, average for copper product manufacturing",no,medium
+metal shed,"metal working, average for steel product manufacturing",no,high
+metal shed,scrap copper,no,no
+aromatic plants,"eucalyptus seedling, for planting",no,no
+aromatic plants,phenolic resin,no,no
+aromatic plants,"miscanthus rhizome, for planting",no,no
+aromatic plants,planting tree,no,no
+aromatic plants,green asparagus,no,no
+stainless steel pipe,chromium steel pipe,no,high
+stainless steel pipe,"drawing of pipe, steel",no,no
+stainless steel pipe,"spiral-seam duct, steel, DN 125",no,no match
+stainless steel pipe,"spiral-seam duct, steel, DN 400",no,medium
+stainless steel pipe,"welding, arc, steel",no,no
+"tile, porcelain",ceramic tile,medium,high
+"tile, porcelain",roof tile,no,no
+"tile, porcelain",cement tile,no,no
+"tile, porcelain",concrete roof tile,no,no
+"tile, porcelain","frit, for ceramic tile",no,medium
+"fish, frozen","fish freezing, small fish",medium,high match
+"fish, frozen","frozen fish sticks, hake",no,no match
+"fish, frozen","landed tuna, frozen, EPO",no,no match
+"fish, frozen","small pelagic fish, fresh",no,medium match
+"fish, frozen","trout feed, 42% protein",no,no
+photovoltaic module for boats,"photovoltaic module, building-integrated, for slanted-roof installation",medium,no
+photovoltaic module for boats,"photovoltaic mounting system, for 570kWp open ground module",no,no
+photovoltaic module for boats,"photovoltaic slanted-roof installation, 3kWp, single-Si, panel, mounted, on roof",no,no
+photovoltaic module for boats,"photovoltaic slanted-roof installation, 3kWp, a-Si, panel, mounted, on roof",no,no
+photovoltaic module for boats,"photovoltaics, electric installation for 3kWp module, at building",no,medium
+nuts,"wood chips and particles, willow",no,no
+nuts,"peanut seed, for sowing",no,no
+nuts,millet,no,no
+nuts,chickpea,no,no
+nuts,cashew,no,high
+writing envelopes,paper sack,no,no
+writing envelopes,printed paper,no,no
+writing envelopes,tissue paper,no,no
+writing envelopes,"paper, woodfree, uncoated",no,no
+writing envelopes,"paper, newsprint",no,high
+natural gas,coal gas,no,no
+natural gas,liquefied petroleum gas,no,no
+natural gas,"natural gas, liquefied",no,high
+natural gas,"natural gas, unprocessed, at extraction",no,high
+natural gas,"natural gas, vented",no,high
+"packaging materials, cardboard",waste packaging paper,no,medium
+"packaging materials, cardboard","packaging film, low density polyethylene",no,no
+"packaging materials, cardboard",packaging box factory,no,no
+"packaging materials, cardboard",folding boxboard carton,medium,medium
+"packaging materials, cardboard",kraft paper,no,medium
+stationary consumables,"straw, stand-alone production",no,medium
+stationary consumables,"straw, organic",no,no
+stationary consumables,"consumer electronics, mobile device, smartphone",no,high
+stationary consumables,"containerboard, fluting medium",no,no
+stationary consumables,"maintenance, intermodal shipping container, 40-foot, high-cube",no,no
+"cars, electrical parts","electric parts, heat and power co-generation unit, 160kW electrical",no,no
+"cars, electrical parts","electronic component machinery, unspecified",no,no
+"cars, electrical parts","electric parts, mini CHP plant",no,no
+"cars, electrical parts",electronics scrap from control units,no,no
+"cars, electrical parts","powertrain, for electric passenger car",no,medium
+seafood mix,"fish canning, large fish",no,no
+seafood mix,"fish canning, small fish",no,medium
+seafood mix,"trout feed, 42% protein",no,no
+seafood mix,"fishmeal, 63-65% protein",no,medium
+seafood mix,"fishmeal, 65-67% protein",no,medium
+lamps,ultraviolet lamp,no,high
+lamps,used fluorescent lamp,no,medium
+lamps,compact fluorescent lamp,medium,high
+lamps,inert gas for discharge lamps,no,high
+lamps,light emitting diode,no,high
+detergents,mustard,no,no
+detergents,mancozeb,no,no
+detergents,sodium,no,no
+detergents,refrigerant R134a,no,no
+detergents,"refrigeration machine, R134a as refrigerant",no,no
+trailers for industrial vehicles,agricultural trailer,no,no
+trailers for industrial vehicles,"fodder loading, by self-loading trailer",no,no
+trailers for industrial vehicles,liquid manure tank trailer,no,no
+trailers for industrial vehicles,"transport, tractor and trailer, agricultural",no,medium
+trailers for industrial vehicles,"maintenance, goods wagon",no,no
+titanium,"titanium, triple-melt",medium,medium
+titanium,titanium,high,high
+titanium,"titanium zinc plate, without pre-weathering",no,medium
+titanium,titanium tetrachloride,no,no
+titanium,titanium dioxide,no,high
+"coaches, building","building operation, hostel",no,no
+"coaches, building","maintenance, bus",no,no
+"coaches, building","maintenance, train, passenger, high-speed",no,no
+"coaches, building",building machine,no,no
+"coaches, building",bus,no,high
+"lorries, building","building operation, hostel",no,no
+"lorries, building","maintenance, goods wagon",no,no
+"lorries, building","maintenance, lorry 40 metric ton",no,medium
+"lorries, building","lorry, 40 metric ton",medium,medium
+"lorries, building","maintenance, lorry 16 metric ton",no,no
+wafers,"wafer, fabricated, for integrated circuit",medium,high
+wafers,multi-Si wafer,no,high
+wafers,wafer factory,no,high match
+wafers,"single-Si wafer, for electronics",medium,high
+wafers,"single-Si wafer, photovoltaic",medium,high
+horns,horn meal,no,high
+horns,brass,no,no
+horns,"electronic component, passive, mobile, earpiece and speaker",no,no
+horns,"contouring, brass",no,no
+horns,"solder, bar, Sn95.5Ag3.9Cu0.6, for electronics industry",no,no
+briquettes,lignite briquettes,no,high
+briquettes,lignite briquettes factory,no,no
+briquettes,aubergine,no,no
+briquettes,refrigerant R134a,no,no
+briquettes,polybutadiene,no,no
+provitamins,prosulfocarb,no,no
+provitamins,"power saw, without catalytic converter",no,no
+provitamins,"power saw, with catalytic converter",no,no
+provitamins,"silicon, solar grade",no,no
+provitamins,refrigerant R134a,no,no
+sharpening metals,"steel removed by turning, average, computer numerical controlled",no,no
+sharpening metals,"steel removed by turning, primarily roughing, computer numerical controlled",no,no
+sharpening metals,"steel removed by drilling, computer numerical controlled",no,no
+sharpening metals,"chromium steel removed by turning, primarily roughing, computer numerical controlled",no,no
+sharpening metals,"steel removed by turning, primarily dressing, computer numerical controlled",no,no
+platinum,platinum,high,high
+platinum,gold,no,no
+platinum,"gold-silver, ingot",no,no
+platinum,bronze,no,no
+platinum,silver,no,no
+hats,"yarn, kenaf",no,medium
+hats,"yarn, silk",no,medium
+hats,glass wool mat,no,no
+hats,"selective coat, copper sheet, black majic",no,no
+hats,"bleaching and dyeing, yarn",no,no
+anhydric acids,ascorbic acid,no,no match
+anhydric acids,anhydrite,no,high
+anhydric acids,adipic acid,medium,medium
+anhydric acids,acetic anhydride,no,high
+anhydric acids,phthalic anhydride,no,medium
+office furnishings,"furniture, wooden",medium,medium
+office furnishings,"wood cladding, softwood",no,no
+office furnishings,"shavings, hardwood, loose, measured as dry mass",no,no
+office furnishings,"joist, engineered wood",no,no
+office furnishings,"used door, inner, wood",no,no
+biogas,biogas,high,high
+biogas,"biogas, from grass",medium,high
+biogas,"biowaste, garden waste",no,medium
+biogas,"biowaste, kitchen and garden waste",no,medium
+biogas,"heat, central or small-scale, biomethane",no,medium
+pre-recorded audio,"electronic component, passive, mobile, earpiece and speaker",no,no
+pre-recorded audio,"printed wiring board, through-hole mounted, unspecified, Pb free",no,medium
+pre-recorded audio,"printed wiring board, through-hole mounted, unspecified, Pb containing",no,medium
+pre-recorded audio,"sound insulation, heat and power co-generation unit, 160kW electrical",no,no
+pre-recorded audio,"printed wiring board, surface mounted, unspecified, Pb free",no,medium
+storage tents,"shed, large, wood, non-insulated, fire-unprotected",no,medium
+storage tents,agricultural trailer,no,no
+storage tents,cocoons,no,no
+storage tents,"operation, dried roughage store, non ventilated",no,no match
+storage tents,air separation facility,no,no
+crushed ice,de-icer,no,no
+crushed ice,"gravel, crushed",no,no
+crushed ice,"impact extrusion of steel, warm, initial warming",no,no
+crushed ice,rock crushing,no,no
+crushed ice,"operation, reefer, freezing",no,high match
+ceramics for coatings,coating powder,no,no
+ceramics for coatings,sanitary ceramics,no,no
+ceramics for coatings,ceramic tile,no,medium
+ceramics for coatings,metal coating facility,no,no
+ceramics for coatings,"chromium oxide, flakes",no,no
+damaged cars,manual dismantling of used passenger car with internal combustion engine,no,no
+damaged cars,manual dismantling of used electric passenger car,no,no
+damaged cars,passenger car maintenance,no,no
+damaged cars,"maintenance, passenger car, electric, without battery",no,no
+damaged cars,"internal combustion engine, passenger car",no,high
+"meats, cured","red meat, live weight",medium,medium
+"meats, cured",meat and bone meal,no,no
+"meats, cured","chicken for slaughtering, live weight",no,medium
+"meats, cured","cattle for slaughtering, live weight",no,no
+"meats, cured","cheese, from cow milk, fresh, unripened",no,no
+"chocolates, filled",green liquor dregs,no,no
+"chocolates, filled","lime, hydrated, packed",no,no
+"chocolates, filled",white lined chipboard carton,no,medium
+"chocolates, filled",beverage carton converting,no,no
+"chocolates, filled",breadcrumbs,no,no
+gold ingots,"gold-silver, ingot",no,high
+gold ingots,"gold, unrefined",medium,high
+gold ingots,"mine infrastructure, gold-silver-zinc-lead-copper",no,no
+gold ingots,gold,no,high
+gold ingots,"mine infrastructure, gold and silver",no,no
+mushrooms,white asparagus,no,no
+mushrooms,iceberg lettuce,no,no
+mushrooms,flax husks,no,no
+mushrooms,green asparagus,no,no
+mushrooms,"zirconium sponge, nuclear-grade",no,no
+acacia honey,mango,no,medium
+acacia honey,"eucalyptus seedling, for planting",no,no
+acacia honey,jatropha seed,no,no
+acacia honey,"sawnwood, softwood, raw",no,no
+acacia honey,kiwi,no,no
+car cleaning product,manual dismantling of used passenger car with internal combustion engine,no,no
+car cleaning product,"maintenance, refrigeration machine",no,no
+car cleaning product,"brake wear emissions, passenger car",no,no
+car cleaning product,"road wear emissions, passenger car",no,no
+car cleaning product,"brake wear emissions, lorry",no,no
+"rods, threaded","cable, ribbon cable, 20-pin, with plugs",no,no
+"rods, threaded","aluminium around steel bi-metal stranded cable, 3x3.67mm external diameter wire",no,no
+"rods, threaded","aluminium around steel bi-metal wire, 3.67mm external diameter",no,no
+"rods, threaded","wire drawing, steel",no,medium
+"rods, threaded","electric connector, wire clamp",no,no
+lithium carbonate,lithium carbonate,high,high
+lithium carbonate,lithium sulfate,no,no
+lithium carbonate,"lithium brine, 6.7 % Li",no,no
+lithium carbonate,lithium manganese oxide,no,no
+lithium carbonate,lithium iron phosphate,no,no
+prototype textile,"textile, knit cotton",medium,medium
+prototype textile,"textile, woven cotton",medium,no
+prototype textile,"textile, nonwoven polyester",medium,no
+prototype textile,"textile, nonwoven polypropylene",medium,medium
+prototype textile,"finishing, textile, woven cotton",no,no
+medical laboratories,"electrode, positive, LaNi5",no,no
+medical laboratories,"electrode, negative, LiC6",no,no
+medical laboratories,uranium enrichment centrifuge facility,no,no
+medical laboratories,"electrode, negative, Ni",no,no
+medical laboratories,"operation, computer, laptop, videoconference",no,no
+salads,mustard,no,medium
+salads,rape meal,no,no
+salads,celery,no,medium
+salads,"tilapia feed, 24-28% protein",no,no
+salads,meat and bone meal,no,no
+plant health treatments,"weed control, by brush cutter, pasture",no,no
+plant health treatments,sunflower seed,no,no
+plant health treatments,mancozeb,no,no
+plant health treatments,green asparagus,no,no
+plant health treatments,fish curing plant,no,no
+riding clothes,"selective coat, copper sheet, black majic",no,no
+riding clothes,wood wool,no,no
+riding clothes,"textile, silk",no,no
+riding clothes,"textile, nonwoven polyester",no,no
+riding clothes,"yarn, silk",no,medium
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, single-Si, panel, mounted, on roof",no,no
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, ribbon-Si, panel, mounted, on roof",no,no
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, a-Si, panel, mounted, on roof",no,no
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, CIS, panel, mounted, on roof",no,medium
+photovoltaic panels,"photovoltaics, electric installation for 3kWp module, at building",medium,medium
+goats' cheeses,"cheese, from cow milk, fresh, unripened",medium,no
+goats' cheeses,"yogurt, from cow milk",no,no
+goats' cheeses,"sheep for slaughtering, live weight",no,no
+goats' cheeses,dairy,no,no
+goats' cheeses,"butter, from cow milk",no,no
+stacking frames for pallets,folding boxboard carton,no,medium
+stacking frames for pallets,"containerboard, linerboard",no,no
+stacking frames for pallets,three and five layered board,no,no
+stacking frames for pallets,EUR-flat pallet,no,high
+stacking frames for pallets,"mounting, through-hole technology, Pb-containing solder",no,medium
+wood - turned products,"wood preservation, hot/cold dipping, creosote, outdoor use, ground contact",no,no
+wood - turned products,"wood preservation, dipping/immersion method, water-based, indoor use, dry",no,no
+wood - turned products,"wood preservation, pressure vessel, creosote, outdoor use, ground contact",no,no
+wood - turned products,"wood chipping, industrial residual wood, stationary electric chipper",no,no
+wood - turned products,"wood preservation, dipping/immersion method, water-based, indoor use, occasionally wet",no,no
+polyethylene,"polyethylene pipe, corrugated, DN 75",medium,high
+polyethylene,"polyethylene pipe, DN 200, SDR 41",medium,high
+polyethylene,"polyethylene, linear low density, granulate",medium,medium
+polyethylene,"polyethylene, low density, granulate",medium,medium
+polyethylene,"polyethylene, high density, granulate",medium,high
+cartridges for clay pigeon shooting,"silencer, steel, DN 315, 50 mm",no,no
+cartridges for clay pigeon shooting,"used silencer steel, DN 125",no,no
+cartridges for clay pigeon shooting,"silencer, steel, DN 125",no,no
+cartridges for clay pigeon shooting,"used silencer steel, DN 315",no,no
+cartridges for clay pigeon shooting,wood pellet factory,no,no
+wooden cottages,"shed, large, wood, non-insulated, fire-unprotected",no,high
+wooden cottages,"sawlog and veneer log, meranti, debarked, measured as solid wood",no,no
+wooden cottages,"sawnwood, board, hardwood, dried (u=20%), planed",no,no
+wooden cottages,"wooden board factory, organic bonded boards",no,no
+wooden cottages,"sawnwood, board, hardwood, dried (u=10%), planed",no,no
+fresh parsley,"barley seed, for sowing",no,no
+fresh parsley,"carrot seed, for sowing",no,no
+fresh parsley,"linseed seed, for sowing",no,no
+fresh parsley,"oat seed, for sowing",no,no
+fresh parsley,"fava bean seed, for sowing",no,medium
+loudspeakers,"electronic component, passive, mobile, earpiece and speaker",no,medium
+loudspeakers,"sound insulation, heat and power co-generation unit, 160kW electrical",no,no
+loudspeakers,television,no,no
+loudspeakers,"silencer, steel, DN 125",no,no
+loudspeakers,"electricity, high voltage",no,no
+fresh fish fillets,"demersal fish, fresh",no,no match
+fresh fish fillets,"trout feed, 42% protein",no,no
+fresh fish fillets,"small pelagic fish, fresh",no,no match
+fresh fish fillets,"fish canning, small fish",no,no
+fresh fish fillets,"fish canning, large fish",no,no
+"stoves, heating","coal stove, 5-15kW",medium,medium
+"stoves, heating","auxiliary heating unit, electric, 5kW",medium,medium
+"stoves, heating","heat pump, 30kW",no,no
+"stoves, heating","heat distribution equipment, hydronic radiant floor heating, 150m2",no,medium
+"stoves, heating","furnace, wood chips, hardwood storage area, 50kW",no,medium
+corrugated pipes,"polyethylene pipe, corrugated, DN 75",no,high
+corrugated pipes,corrugated board box,no,no
+corrugated pipes,"polyethylene pipe, DN 200, SDR 41",no,no
+corrugated pipes,"sewer grid, rural",no,no
+corrugated pipes,"sewer grid, 1.6E8l/year, 6 km",no,no match
+plastic beads,"polymethyl methacrylate, beads",no,medium
+plastic beads,"glass fibre reinforced plastic, polyester resin, hand lay-up",no,no
+plastic beads,"nylon 6-6, glass-filled",no,no
+plastic beads,"glass tube, borosilicate",no,no
+plastic beads,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",no,no
+salt substitute,salt,high,medium
+salt substitute,potassium sulfate,no,no
+salt substitute,sodium hydrogen sulfate,no,no
+salt substitute,"sodium nitrate, unrefined",no,no
+salt substitute,potash salt,no,no
+fresh butchered products,"poultry manure, fresh",no,no
+fresh butchered products,"protein feed, 100% crude",no,no
+fresh butchered products,"chicken for slaughtering, live weight",medium,medium
+fresh butchered products,meat and bone meal,no,no
+fresh butchered products,"red meat, live weight",medium,medium
+speed reducers for industrial conveyor belts,"transformer, low voltage use",no,no match
+speed reducers for industrial conveyor belts,conveyor belt,no,medium
+speed reducers for industrial conveyor belts,"steel removed by milling, average",no,no
+speed reducers for industrial conveyor belts,"road wear emissions, lorry",no,no
+speed reducers for industrial conveyor belts,"transformer, high voltage use",no,no
+water meters,"water pump, 22kW",no,no
+water meters,"water works, capacity 1.1E10l/year",no,no
+water meters,"water works, capacity 6.23E10l/year",no,no
+water meters,water supply network,no,high
+water meters,"water pump operation, electric",no,no
+insulating sleeves,"sealing tape, aluminium/PE, 50 mm wide",no,no
+insulating sleeves,"insulation spiral-seam duct, rockwool, DN 400, 30 mm",no,medium
+insulating sleeves,"used sealing tape aluminium/PE, 50 mm wide",no,no
+insulating sleeves,polystyrene foam slab for perimeter insulation,no,no
+insulating sleeves,"anodising, aluminium sheet",no,no
+frames - armchair,"furniture, wooden",medium,medium
+frames - armchair,"window frame, wood, U=1.5 W/m2K",no,no
+frames - armchair,"door, outer, wood-aluminium",no,no
+frames - armchair,"window frame, aluminium, U=1.6 W/m2K",no,no
+frames - armchair,"window frame, wood-metal, U=1.6 W/m2K",no,medium
+vermouth wines,green liquor dregs,no,no
+vermouth wines,"tempering, flat glass",no,no
+vermouth wines,"glass cullet, for Saint-Gobain ISOVER SA",no,no
+vermouth wines,"glass tube, borosilicate",no,no
+vermouth wines,milking parlour,no,no
+food supplements based on essential oils,"mineral supplement, for beef cattle",no,no
+food supplements based on essential oils,"protein feed, 100% crude",no,no
+food supplements based on essential oils,"vegetable oil, refined",no,no
+food supplements based on essential oils,"tilapia feed, 24-28% protein",no,no
+food supplements based on essential oils,"diethyl ether, without water, in 99.95% solution state",no,no
+wire baskets,"trellis system, wooden poles, soft wood, tar impregnated",no,no
+wire baskets,"wire drawing, steel",no,medium
+wire baskets,floating collar cage,no,no
+wire baskets,"weaving, synthetic fibre",no,medium
+wire baskets,"aluminium around steel bi-metal stranded cable, 3x3.67mm external diameter wire",no,no
+large boilers,"oil boiler, 10kW",no,no
+large boilers,"oil boiler, 100kW",no,no
+large boilers,"steam generation system, solar tower power plant, 20 MW",no,no
+large boilers,gas boiler,no,medium
+large boilers,"coal stove, 5-15kW",no,no
+castors for furniture,castor bean,no,no
+castors for furniture,"cast iron removed by turning, primarily dressing, computer numerical controlled",no,no
+castors for furniture,cast iron,no,no
+castors for furniture,"cast iron removed by turning, primarily dressing, conventional",no,no
+castors for furniture,"cast iron removed by drilling, computer numerical controlled",no,no
+sesame seeds,sesame seed,high,high
+sesame seeds,sunflower seed,no,no
+sesame seeds,jatropha seed,no,no
+sesame seeds,"sunflower seed, for sowing",no,no
+sesame seeds,"peanut seed, for sowing",no,no
+pinot noir champagne,aubergine,no,no
+pinot noir champagne,apricot,no,no
+pinot noir champagne,"vinasse, from fermentation of sweet sorghum",no,no
+pinot noir champagne,"vinasse, from fermentation of sugar beet molasses",no,no match
+pinot noir champagne,"glass cullet, for Saint-Gobain ISOVER SA",no,no
+aqua-vitae,prosulfocarb,no,no
+aqua-vitae,"water, ultrapure",no,no
+aqua-vitae,trout,no,no
+aqua-vitae,fennel,no,no
+aqua-vitae,cork slab,no,no
+monster energy drink 500ml,"expansion vessel, 80l",no,no
+monster energy drink 500ml,green liquor dregs,no,no
+monster energy drink 500ml,foam glass,no,no
+monster energy drink 500ml,"expansion vessel, 25l",no,no
+monster energy drink 500ml,"gas motor, 206kW",no,no
+deep-frozen ready meals,meat and bone meal,no,no
+deep-frozen ready meals,"protein pea, feed, Swiss integrated production",no,medium
+deep-frozen ready meals,"frozen fish sticks, hake",no,no match
+deep-frozen ready meals,"protein pea, Swiss integrated production",no,medium
+deep-frozen ready meals,"tilapia feed, 24-28% protein",no,no
+"cb, citizens' band radios","electronic component, passive, mobile, earpiece and speaker",no,no
+"cb, citizens' band radios","inductor, miniature radio frequency chip",no,medium
+"cb, citizens' band radios","sound insulation, heat and power co-generation unit, 160kW electrical",no,no
+"cb, citizens' band radios","silencer, steel, DN 125",no,no
+"cb, citizens' band radios","electronic component, active, unspecified",no,no
+blowpipes,"swath, by rotary windrower",no,no
+blowpipes,"blower and heat exchange unit, central, 600-1200 m3/h",no,medium
+blowpipes,"ventilation duct, elbow 90°, steel, 100x50 mm",no,no
+blowpipes,"silencer, steel, DN 125",no,no
+blowpipes,"blower and heat exchange unit, KWL 250",no,no
+high-performance semiconductors,"inductor, low value multilayer chip",no,medium
+high-performance semiconductors,"cadmium, semiconductor-grade",no,high
+high-performance semiconductors,"cadmium sulfide, semiconductor-grade",no,high
+high-performance semiconductors,"gallium, semiconductor-grade",no,high
+high-performance semiconductors,"silicon, single crystal, Czochralski process, photovoltaics",no,high
+light alloy die-casting,"magnesium-alloy, AZ91, diecast",no,medium
+light alloy die-casting,iron-nickel-chromium alloy,no,no
+light alloy die-casting,"aluminium, cast alloy",no,high
+light alloy die-casting,"steel, chromium steel 18/8, hot rolled",no,no
+light alloy die-casting,"casting, bronze",no,no
+nitrogen generators,"nitrogen, liquid",no,no
+nitrogen generators,"organo-mineral nitrogen fertiliser, as N",no,medium
+nitrogen generators,"organic nitrogen fertiliser, as N",no,medium
+nitrogen generators,helium,no,no
+nitrogen generators,"venting of nitrogen, liquid",no,no
+piezoelectric components,"silicon, single crystal, Czochralski process, photovoltaics",no,no
+piezoelectric components,"electronic component, passive, mobile, earpiece and speaker",no,no
+piezoelectric components,"silicon, single crystal, Czochralski process, electronics",no,no
+piezoelectric components,"photovoltaic panel, multi-Si wafer",no,no
+piezoelectric components,"photovoltaic panel, single-Si wafer",no,no
+gruyere,aubergine,no,no
+gruyere,hoeing,no,no
+gruyere,whey,no,no
+gruyere,cobalt,no,no
+gruyere,folpet,no,no
+prestigious coffee selections for bars,"coffee, green bean",medium,high
+prestigious coffee selections for bars,green liquor dregs,no,no
+prestigious coffee selections for bars,coffee maker,no,no
+prestigious coffee selections for bars,"building, upmarket hotel",no,no
+prestigious coffee selections for bars,"building, budget hotel",no,no
+sowing machines,sowing,medium,high
+sowing machines,"mowing, by rotary mower",no,no
+sowing machines,"mowing, by motor mower",no,no
+sowing machines,"tillage, harrowing, by rotary harrow",no,no
+sowing machines,"tillage, harrowing, by offset disc harrow",no,no
+flour correctors,potato grading,no,no
+flour correctors,"delimbing/sorting, excavator-based processor",no,no
+flour correctors,breadcrumbs,no,no
+flour correctors,wheat flour mix,no,medium
+flour correctors,wheat flour,no,medium
+mass-produced precision parts,"metal working machine, unspecified",no,medium
+mass-produced precision parts,"casting, brass",no,no
+mass-produced precision parts,"chromium steel removed by milling, small parts",no,no
+mass-produced precision parts,"chromium steel removed by milling, large parts",no,no
+mass-produced precision parts,"laser machining, metal, with YAG-laser, 330W power",no,medium
+moped engines,"mowing, by motor mower",no,no
+moped engines,"mowing, by rotary mower",no,no
+moped engines,"machine operation, diesel, >= 74.57 kW, high load factor",no,no
+moped engines,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, high load factor",no,no
+moped engines,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, low load factor",no,no
+fulvic fertilizers,"fertilising, by stool splitter, sugarcane",no,medium
+fulvic fertilizers,"organo-mineral nitrogen fertiliser, as N",no,medium
+fulvic fertilizers,"fertilising, by broadcaster",no,no
+fulvic fertilizers,NPK (26-15-15) fertiliser,no,no
+fulvic fertilizers,NPK (15-15-15) fertiliser,no,no
+mezzanine floor,anhydrite floor,no,no
+mezzanine floor,mattress,no,no
+mezzanine floor,tram track,no,no
+mezzanine floor,cement cast plaster floor,no,no
+mezzanine floor,"spiral-seam duct, steel, DN 400",no,medium
+fresh plant pressed juice powder,sugar beet pulp,no,no
+fresh plant pressed juice powder,"zeolite, powder",no,high
+fresh plant pressed juice powder,grape,no,no
+fresh plant pressed juice powder,"mint seedling, for planting",no,no
+fresh plant pressed juice powder,palm fruit bunch,no,no
+model clothes hangers made of beech,"wood cladding, softwood",no,no
+model clothes hangers made of beech,plywood,no,no
+model clothes hangers made of beech,"sawlog and veneer log, softwood, debarked, measured as solid wood",no,no
+model clothes hangers made of beech,"sawlog and veneer log, paraná pine, measured as solid wood under bark",no,no
+model clothes hangers made of beech,"sawnwood, beam, hardwood, dried (u=20%), planed",no,no
+slate for coverings,roof tile,no,no
+slate for coverings,"cover plaster, mineral",no,no
+slate for coverings,fibre cement roof slate,no,high match
+slate for coverings,"printed wiring board, for surface mounting, Pb free surface",no,medium
+slate for coverings,"printed wiring board, for surface mounting, Pb containing surface",no,no
+thermal water treatment plants,"heat pump, 30kW",no,no
+thermal water treatment plants,"thermal storage system, solar thermal parabolic trough, 50 MW",no,no
+thermal water treatment plants,"heat, solar+electric, multiple-dwelling, for hot water",no,no
+thermal water treatment plants,"thermal storage system, solar tower power plant, 20 MW",no,no
+thermal water treatment plants,"heat pump, brine-water, 10kW",no,no
+mounting parts for precast concrete parts,printed wiring board mounting facility,no,no
+mounting parts for precast concrete parts,autoclaved aerated concrete block,no,no
+mounting parts for precast concrete parts,"printed wiring board, for through-hole mounting, Pb free surface",no,no
+mounting parts for precast concrete parts,"printed wiring board, for surface mounting, Pb free surface",no,medium
+mounting parts for precast concrete parts,"printed wiring board mounting facility, surface mounting line",no,medium
+trailer skips,"fodder loading, by self-loading trailer",no,no
+trailer skips,agricultural trailer,no,no
+trailer skips,"excavation, skid-steer loader",no,no
+trailer skips,"swath, by rotary windrower",no,no
+trailer skips,"maintenance, goods wagon",no,no
+cooling conveyors,"heat pump, diffusion absorption, 4kW, future",no,medium
+cooling conveyors,"heat transport fluid system, solar thermal parabolic trough, 50 MW",no,no
+cooling conveyors,"heat, diffusion absorption heat pump",no,no
+cooling conveyors,cooling energy,no,no
+cooling conveyors,"blower and heat exchange unit, central, 600-1200 m3/h",no,no
+solid door,"door, inner, wood",medium,high
+solid door,"door, inner, glass-wood",medium,medium
+solid door,"door, outer, wood-glass",medium,medium
+solid door,"door, outer, wood-aluminium",medium,medium
+solid door,"used door, inner, wood",medium,no
+heavy-load ball rollers,"hot rolling, steel",no,no
+heavy-load ball rollers,"section bar rolling, steel",no,no
+heavy-load ball rollers,"skidding, skidder",no,no
+heavy-load ball rollers,"maintenance, lorry 16 metric ton",no,no
+heavy-load ball rollers,"sheet rolling, steel",no,no
+protective tubes for temperature measurement,"ventilation duct, steel, 100x50 mm",no,no
+protective tubes for temperature measurement,"ventilation duct, connection piece, steel, 100x50 mm",no,no
+protective tubes for temperature measurement,"insulation spiral-seam duct, rockwool, DN 400, 30 mm",no,medium
+protective tubes for temperature measurement,"sealing tape, aluminium/PE, 50 mm wide",no,no
+protective tubes for temperature measurement,"ventilation of dwellings, decentralized, 6 x 120 m3/h",no,no
+precision broaching machines for metalworking,"metal working machine, unspecified",no,no
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 500W power",no,medium
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 330W power",no,medium
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 120W power",no,medium
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 50W power",no,medium
+progresivo,mecoprop,no,no
+progresivo,prosulfocarb,no,no
+progresivo,reformate,no,no
+progresivo,propanal,no,no
+progresivo,folpet,no,no
+hepa filter,"air filter, decentralized unit, 180-250 m3/h",no,medium
+hepa filter,"air filter, decentralized unit, 250 m3/h",no,medium
+hepa filter,"air filter, central unit, 600 m3/h",no,medium
+hepa filter,"used air filter decentralized unit, 250 m3/h",no,medium
+hepa filter,"used air filter decentralized unit, 180-250 m3/h",no,medium
+jet stream mixer,"absorption chiller, 100kW",no,no
+jet stream mixer,"flux, for wave soldering",no,no
+jet stream mixer,"inverter, 500kW",no,no
+jet stream mixer,"inverter, 0.5kW",no,no
+jet stream mixer,"blower and heat exchange unit, decentralized, 180-250 m3/h",no,no
+aviary,airport,no,no
+aviary,fennel,no,no
+aviary,helicopter,no,no
+aviary,cocoons,no,no
+aviary,almond,no,no
+tamper evident labelling,"fluorescent whitening agent, DAS1, triazinylaminostilben type",no,no
+tamper evident labelling,"fluorescent whitening agent, distyrylbiphenyl type",no,no
+tamper evident labelling,"printed wiring board, surface mounted, unspecified, Pb containing",no,medium
+tamper evident labelling,"printed wiring board, surface mounted, unspecified, Pb free",no,medium
+tamper evident labelling,"printed wiring board, through-hole mounted, unspecified, Pb free",no,medium
+xmas figurines,"contouring, bronze",no,no
+xmas figurines,gypsum plasterboard,no,no
+xmas figurines,apricot,no,no
+xmas figurines,peach,no,no
+xmas figurines,pomegranate,no,no
+glasswork,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",no,no
+glasswork,glass etching factory,no,no
+glasswork,"glass, for liquid crystal display",no,no
+glasswork,"glass cullet, from used cathode ray tube panels",no,no
+glasswork,glass from used cathode ray tube,no,no
+bulk hand railing products,"purse seiner maintenance, steel",no,no
+bulk hand railing products,"trawler maintenance, steel",no,no
+bulk hand railing products,"section bar rolling, steel",no,no
+bulk hand railing products,"wire drawing, steel",no,medium
+bulk hand railing products,"steel, low-alloyed",no,no
+terra-cotta crockery,gypsum plasterboard,no,no
+terra-cotta crockery,ceramic tile,no,no
+terra-cotta crockery,"wood cladding, softwood",no,no
+terra-cotta crockery,"furniture, wooden",no,no
+terra-cotta crockery,roof tile,no,no
+thin-film evaporator,de-icer,no,no
+thin-film evaporator,evaporation of milk,no,no
+thin-film evaporator,"purge gas, rich in sodium nitrate",no,no
+thin-film evaporator,waste x-ray film,no,no
+thin-film evaporator,"selective coat, copper sheet, physical vapour deposition",no,medium
+crown organica,cross-laminated timber,no,no
+crown organica,"harvesting, by complete harvester, beets",no,no
+crown organica,"grass, organic",no,medium
+crown organica,"fibre, cotton, organic",no,high
+crown organica,aclonifen,no,no
+floral crowns,cocoons,no,no
+floral crowns,"sawlog and veneer log, eucalyptus ssp., measured as solid wood under bark",no,no
+floral crowns,cauliflower,no,no
+floral crowns,horticultural fleece,no,no
+floral crowns,"funnel glass, for cathode ray tube display",no,no
+value added timber products,"sawnwood, hardwood, raw, dried (u=20%)",medium,medium
+value added timber products,"sawnwood, hardwood, raw, dried (u=10%)",medium,no
+value added timber products,cross-laminated timber,no,high
+value added timber products,"sawnwood, board, hardwood, raw, dried (u=10%)",medium,no
+value added timber products,"sawnwood, board, hardwood, raw, dried (u=20%)",medium,no
+reed diffusers,"inverter, 0.5kW",no,no
+reed diffusers,"inverter, 2.5kW",no,no
+reed diffusers,"panel glass, for cathode ray tube display",no,no
+reed diffusers,"swath, by rotary windrower",no,no
+reed diffusers,"used air filter decentralized unit, 250 m3/h",no,medium
+industrial burners,"coal stove, 5-15kW",no,no
+industrial burners,"industrial furnace, coal, 1-10MW",no,medium
+industrial burners,blast oxygen furnace converter,no,no
+industrial burners,"industrial furnace, 1MW, oil",no,medium
+industrial burners,"blower and heat exchange unit, Avent E 97",no,no
+poultry meat,"poultry manure, dried",no,no
+poultry meat,"poultry manure, fresh",no,medium
+poultry meat,"chicken for slaughtering, live weight",medium,high
+poultry meat,meat and bone meal,no,no
+poultry meat,"red meat, live weight",medium,no
+sensor,"electrode, positive, LaNi5",no,no
+sensor,"electrode, negative, LiC6",no,no
+sensor,"potentiometer, unspecified",no,no
+sensor,"pointing device, optical mouse, with cable",no,medium
+sensor,"polarizer, liquid crystals and colour filters, for liquid crystal display",no,no
+greenhouse plant,"greenhouse, glass walls and roof",no,high
+greenhouse plant,"greenhouse, plastic walls and roof",no,high
+greenhouse plant,"asparagus seedling, for planting",no,no
+greenhouse plant,planting,no,no
+greenhouse plant,"planting with starter fertiliser, by no till planter",no,medium
+industrial grease,mustard,no,no
+industrial grease,"electrolyte, KOH, LiOH additive",no,no
+industrial grease,"residue from mechanical treatment, laser printer",no,no
+industrial grease,scandium oxide,no,no
+industrial grease,copper oxide,no,no
+industrial brush,"shavings, hardwood, measured as dry mass",no,no
+industrial brush,dryer,no,no
+industrial brush,"shavings, softwood, measured as dry mass",no,no
+industrial brush,hair dryer,no,no
+industrial brush,"shavings, hardwood, loose, measured as dry mass",no,no
+softwood log,"sawnwood, softwood, raw",no,high
+softwood log,"wood preservation, dipping/immersion method, water-based, outdoor use, no ground contact",no,no
+softwood log,"sawlog and veneer log, softwood, measured as solid wood under bark",medium,high
+softwood log,"sawlog and veneer log, softwood, debarked, measured as solid wood",medium,high
+softwood log,"wood cladding, softwood",no,medium
+meat cutter,"chopping, maize",no,no
+meat cutter,meat and bone meal,no,no
+meat cutter,"chicken for slaughtering, live weight",no,no
+meat cutter,"red meat, live weight",no,medium
+meat cutter,"mowing, by rotary mower",no,no
+pulp (cellulose),cellulose fibre,medium,high
+pulp (cellulose),thermo-mechanical pulp,medium,medium
+pulp (cellulose),"pulpwood, softwood, measured as solid wood under bark",no,no
+pulp (cellulose),"pulpwood, hardwood, measured as solid wood under bark",no,no
+pulp (cellulose),sugar beet pulp,no,no
+plan,planing mill,no,high
+plan,core board,no,no
+plan,"planning, heat and power co-generation unit, 160kW electrical",no,no
+plan,"planning, cogen unit mini CHP plant",no,high
+plan,"swath, by rotary windrower",no,no
+plaster,base plaster,medium,high
+plaster,clay plaster,medium,high
+plaster,cement plaster,medium,medium
+plaster,gypsum plasterboard,no,no
+plaster,plaster mixing,medium,medium
+electric scooter,"electric scooter, without battery",medium,high match
+electric scooter,"charger, for electric scooter",no,no
+electric scooter,"electric motor, for electric scooter",medium,high
+electric scooter,"powertrain, for electric scooter",no,high
+electric scooter,"controller, for electric scooter",no,no match
+pre-ground steel,"steel removed by drilling, computer numerical controlled",no,no
+pre-ground steel,"steel removed by turning, primarily roughing, computer numerical controlled",no,no
+pre-ground steel,"steel removed by turning, primarily dressing, computer numerical controlled",no,no
+pre-ground steel,"steel removed by turning, primarily roughing, conventional",no,no
+pre-ground steel,"steel removed by drilling, conventional",no,no
+"fuels, liquid","hydrogen, liquid",no,no
+"fuels, liquid","petrol, 5% ethanol by volume from biomass",no,medium
+"fuels, liquid","petrol, 85% ethanol by volume from biomass",no,high
+"fuels, liquid","fuel cell, solid oxide, 125kW electrical, future",no,medium
+"fuels, liquid",natural gas liquids,no,high
+liquid fuel heaters,"heat pump, 30kW",no,no
+liquid fuel heaters,"heat pump, diffusion absorption, 4kW, future",no,no
+liquid fuel heaters,"heat storage, 2000l",no,no
+liquid fuel heaters,"coal stove, 5-15kW",no,no
+liquid fuel heaters,"heat pump, for mini CHP plant",no,no
+"iron, special grade","steel, chromium steel 18/8",medium,no
+"iron, special grade",iron-nickel-chromium alloy,no,no
+"iron, special grade","cast iron removed by drilling, computer numerical controlled",no,no
+"iron, special grade","chromium steel removed by milling, average",no,no
+"iron, special grade","cast iron removed by drilling, conventional",no,no
+performing arts,television,no,no
+performing arts,intral,no,no
+performing arts,"weaving, synthetic fibre",no,no
+performing arts,"mercerizing, textile",no,no
+performing arts,propanal,no,no
+common steels,"steel, chromium steel 18/8, hot rolled",medium,medium
+common steels,"steel, chromium steel 18/8",medium,medium
+common steels,"steel, low-alloyed",medium,medium
+common steels,"steel, low-alloyed, hot rolled",medium,medium
+common steels,"welding, arc, steel",no,high
+christmas gift packages,folding boxboard carton,no,medium
+christmas gift packages,tissue paper,no,medium
+christmas gift packages,paper sack,no,no
+christmas gift packages,breadcrumbs,no,no
+christmas gift packages,"packaging glass, green",no,medium
+ceramic floor tile,ceramic tile,medium,high
+ceramic floor tile,roof tile,no,no
+ceramic floor tile,concrete roof tile,no,no
+ceramic floor tile,cement tile,no,no
+ceramic floor tile,fibre cement facing tile,no,no
+truck parts,"maintenance, goods wagon",no,no
+truck parts,road vehicle factory,no,no
+truck parts,"maintenance, motor scooter",no,no
+truck parts,"maintenance, bus",no,no
+truck parts,"electronic component machinery, unspecified",no,no
+plastic film,"extrusion, plastic film",no,high
+plastic film,"tetrafluoroethylene film, on glass",no,medium
+plastic film,plastic tunnel,no,no
+plastic film,"packaging film, low density polyethylene",medium,high
+plastic film,"glass fibre reinforced plastic, polyester resin, hand lay-up",no,no
+modular building,"building, multi-storey",high,no
+modular building,"building operation, hostel",no,no
+modular building,"building, hall, steel construction",medium,high
+modular building,"building, hostel",medium,no
+modular building,"building, hall",medium,high
+compressed air tool,"compressed air, 1200 kPa gauge",no,high
+compressed air tool,"compressed air, 700 kPa gauge",no,high
+compressed air tool,"compressed air, 800 kPa gauge",no,high
+compressed air tool,"compressed air, 1000 kPa gauge",no,high
+compressed air tool,"compressed air, 600 kPa gauge",no,high
+water treatment plant,"water works, capacity 6.23E10l/year",no,high
+water treatment plant,"water works, capacity 1.1E10l/year",no,no
+water treatment plant,"water pump operation, electric",no,no
+water treatment plant,"wastewater treatment facility, capacity 1.6E8l/year",no,no
+water treatment plant,"wastewater treatment facility, capacity 1.1E10l/year",no,no

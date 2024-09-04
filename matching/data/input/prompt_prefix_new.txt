@@ -1,0 +1,47 @@
+I have a data frame with columns 'ecoinvent_prod' and 'input_prod'. Both the columns contain products that can be produced or sold by companies.
+
+Please assess row-wise whether a product from column 'ecoinvent_prod' is a 'high match', 'medium match' or 'no match' to the 'input_prod' in the same row.
+
+Use the following vocabulary:
+Q: What is a product?
+A: A product is a specific item, good, or commodity that can be manufactured, produced, or sold by a company. It is a tangible or intangible entity that is created or offered to meet a particular need or desire. 
+Example of Product: In the context of these examples, 'necklace,' 'timber,' and 'chalk' are individual products. These are distinct items that can be produced or sold by a company. For instance, a jewellery company can produce necklaces, a lumber company can provide timber, and a manufacturer can produce chalk.
+
+Q: What is an Attribute?
+A: An attribute is a specific characteristic or quality of a product, material, or production process that has a direct impact on the climate profile of a company, particularly in terms of carbon dioxide (CO2) equivalent emissions. 
+Example of Attribute: In the context of a company's climate profile, the attribute of a product like a gold necklace would be 'gold.' This means that the amount of gold used in necklace production directly affects the company's carbon emissions, as gold extraction and processing can have environmental impacts.
+
+Q: What is an Irrelevant attribute?
+A: Irrelevant attributes are characteristics or qualities of a product, material, or production process that do not significantly influence or impact the climate profile of a company. These attributes do not have a substantial effect on the company's carbon emissions.
+Example of Irrelevant attribute: In the same context, the source of timber, such as whether it's Bolivian timber or from another region, is considered an irrelevant attribute. The choice of timber source does not significantly alter the company's carbon emissions, as the primary concern for emissions in this case would likely be related to deforestation and transportation, rather than the specific origin of the timber.
+
+Q: What is a product category? 
+A: A product category is a higher-level grouping or classification that encompasses a set of related products with common characteristics or functions. It serves as a way to organize and categorize products based on shared attributes or purposes. 
+Example of product category: "fruits" is a product category. It represents a broader classification that includes various individual fruits like apples, bananas, and strawberries. These individual fruits share common characteristics of being edible, natural, and typically grown for consumption. Product categories help consumers, businesses, and marketers classify and understand products more broadly, making it easier to navigate and differentiate within a broader market.
+
+Use the following examples to assign a score of 'high match':
+1. Gold necklace (ecoinvent_prod) and Gold necklace (input_prod) have a match of 'high match' because the products plus the attributes of the products are the same for 'ecoinvent_prod' and 'input_prod'.
+2. Necklace (ecoinvent_prod) and Necklace (input_prod) have a match of 'high match' because the products of 'ecoinvent_prod' and 'input_prod' are the same. This also includes if the products are synonyms of each other.
+3. Structural Timber (ecoinvent_prod) and Bolivian Timber (input_prod) have a match of 'high match' because 'Structural' and 'Bolivian' are Irrelevant attributes which do not matter and hence, the matches are treated as not having attributes at all.
+4. Timber (ecoinvent_prod) and Bolivian Timber (input_prod) have a match of 'high match' because 'Bolivian' is an irrelevant attribute which does not matter and hence, the matches are treated as not having attributes at all.
+
+Use the following examples to assign a score of 'medium match':
+1. Necklace (ecoinvent_prod) and Gold necklace (input_prod) have a match of 'medium match' because 'Gold necklace'  is a specific product (with specific info on attribute) that can be attributed to the product category 'necklace', which has no specific attribute. 
+2. Organic nutrients (econvent_prod) and 'Protein Pea, organic' (input_prod) have a match of 'medium match' because 'Protein Pea, organic' is a specific product (with specific info on attribute) that can be attributed to product category 'organic nutrients' (i.e. general term without attribute).
+3. 'Protein Pea, organic' (ecoinvent_prod) and Organic nutrients (input_prod) have a match of 'medium match' because 'Organic nutrients' is the product category that can be matched to a specific product 'Protein Pea, organic' that is part of the category. 
+4. Gold Necklace (ecoinvent_prod) and Necklace (input_prod) have a match of 'medium match'  because 'gold necklace' is a specific product (with specific info on attribute) that can be attributed to product category 'necklace' (i.e. general term without attribute).
+5. 'Power Adapter, for Laptop' (ecoinvent_prod) and 'Adapters' have a 'medium match', because the product 'power adapters for laptops' falls under the category of adapters. 
+
+
+Use the following examples to assign a score of 'no' match:
+1. Limestone (ecoinvent_prod) and Chalk (input_prod) have a 'no match'  because Limestone is an input for the product Chalk. Matching products with their inputs involves too much uncertainty and hence should not be a match. 
+2. Chalk (ecoinvent_prod) and Limestone (input_prod) have a 'no match' because Limestone is an input for the product Chalk. Matching products with their inputs involves too much uncertainty and hence should not be a match. 
+3. Silver Necklace (ecoinvent_prod) and Gold Necklace (input_prod) have a 'no match' because the attributes of the products are relevant for their GHG emissions but are so different that the products are not the same.
+4. Necklace (ecoinvent_prod) and Gold (input_prod) have a 'no match' because too much uncertainty is involved when matching an input good 'Gold' to one out of many potential output goods 'Necklace'.
+5. Gold (ecoinvent_prod) and Necklace (input_prod) have a 'no match' because too much uncertainty is involved when matching an input good 'Gold' to one out of many potential output goods 'Necklace'.
+6. Hydraulic spring (ecoinvent_prod) and Hydraulic digger (input_prod) have a 'no match' because too much uncertainty is involved when matching an input good 'Hydraulic spring' to one out of many potential output goods 'Hydraulic digger'.
+7. Hydraulic digger (ecoinvent_prod) and Hydraulic spring (input_prod) have a 'no match' because too much uncertainty is involved when matching an input good 'Hydraulic spring' to one out of many potential output goods 'Hydraulic digger'.
+
+Give the matching score for each 'ecoinvent_prod' and 'input_prod' in the input table to the 'Result' key.
+
+Take a deep breath and answer my questions step by step. You are an amazing data scientist.

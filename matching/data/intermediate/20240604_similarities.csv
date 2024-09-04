@@ -1,0 +1,1486 @@
+clustered,ecoinvent_prod,model_similarity
+intermediate layers for cardboard boxes,three and five layered board,0.6577798509
+intermediate layers for cardboard boxes,gypsum fibreboard,0.6551782525
+intermediate layers for cardboard boxes,"containerboard, linerboard",0.6539625297
+intermediate layers for cardboard boxes,"bottom ash, MSWI[F]-WWT, WW from soft fibreboard production",0.6530403049
+intermediate layers for cardboard boxes,"fibreboard, soft, without adhesives",0.6525356589
+construction of flues,"ventilation duct, connection piece, steel, 100x50 mm",0.655996361
+construction of flues,"ventilation duct, steel, 100x50 mm",0.6557207523
+construction of flues,"ventilation system, central, 1 x 720 m3/h, steel ducts, with earth tube heat exchanger",0.6524482019
+construction of flues,"ventilation system, decentralized, 6 x 120 m3/h, steel ducts",0.6513938465
+construction of flues,"ventilation duct, elbow 90°, steel, 100x50 mm",0.6512862603
+athlete's diets,protein pea,0.6506082231
+athlete's diets,"protein pea, feed, Swiss integrated production",0.6487047053
+athlete's diets,glucose,0.6482867878
+athlete's diets,"protein pea, Swiss integrated production",0.6479288544
+athlete's diets,"tilapia feed, 24-28% protein",0.6475983261
+3d design,"deep drawing, steel, 38000 kN press, automode",0.6540090487
+3d design,"deep drawing, steel, 3500 kN press, automode",0.6518876404
+3d design,"deep drawing, steel, 10000 kN press, automode",0.6517562375
+3d design,"deep drawing, steel, 650 kN press, automode",0.6512004679
+3d design,"deep drawing, steel, 38000 kN press, single stroke",0.6499373007
+"machine tools, special","laser machining, metal, with YAG-laser, 330W power",0.6606199454
+"machine tools, special","machine operation, diesel, < 18.64 kW, high load factor",0.659958414
+"machine tools, special","metal working machine, unspecified",0.6598405748
+"machine tools, special","machine operation, diesel, < 18.64 kW, low load factor",0.6597608569
+"machine tools, special","laser machining, metal, with YAG-laser, 40W power",0.6596208877
+feasibility analysis,airport,0.6333403995
+feasibility analysis,"planning, heat and power co-generation unit, 160kW electrical",0.6331982443
+feasibility analysis,"deep drawing, steel, 38000 kN press, automode",0.6327756111
+feasibility analysis,clay pit infrastructure,0.6326120861
+feasibility analysis,"deep drawing, steel, 10000 kN press, automode",0.6321642355
+thermal profiling,"heat pump, diffusion absorption, 4kW, future",0.6522153629
+thermal profiling,"heat, diffusion absorption heat pump",0.6493875378
+thermal profiling,"heat, central or small-scale, Jakobsberg",0.6482419052
+thermal profiling,"selective coat, copper sheet, physical vapour deposition",0.6480431898
+thermal profiling,"selective coat, copper sheet, sputter deposition",0.6466850912
+profile grinding machines for woodworking,"metal working machine, unspecified",0.6528606237
+profile grinding machines for woodworking,"wood chipping, chipper, mobile, diesel, at forest road",0.6520070327
+profile grinding machines for woodworking,"steel removed by drilling, computer numerical controlled",0.6515261272
+profile grinding machines for woodworking,"wood chipping, industrial residual wood, stationary electric chipper",0.6512431834
+profile grinding machines for woodworking,"wood chipping, forwarder with terrain chipper, in forest",0.6509277508
+pipe working transfer lines,"transmission network, electricity, high voltage",0.649146175
+pipe working transfer lines,"distribution network, electricity, low voltage",0.6489614158
+pipe working transfer lines,"sewer grid, rural",0.6485173006
+pipe working transfer lines,"sewer grid, 1.6E8l/year, 6 km",0.648387338
+pipe working transfer lines,"transmission network, electricity, medium voltage",0.6482562488
+printing services,"printer, laser, colour",0.6629510722
+printing services,paper machine,0.6626385176
+printing services,"used printer, laser",0.6624435466
+printing services,"printer, laser, black/white",0.6619024732
+printing services,"paper mill, integrated",0.6615019463
+wine design,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",0.6450580406
+wine design,"packaging glass, green",0.6448177301
+wine design,"glass cullet, for Saint-Gobain ISOVER SA",0.6443289433
+wine design,"cork, raw",0.6441546153
+wine design,"purse seiner maintenance, wood",0.6440397979
+kitchen furniture design studios,"wood preservation facility, oscillating pressure method",0.646955387
+kitchen furniture design studios,"wood preservation facility, vacuum pressure method",0.6456292682
+kitchen furniture design studios,"joist, engineered wood",0.6427658966
+kitchen furniture design studios,"purse seiner maintenance, wood",0.6417160684
+kitchen furniture design studios,"sawnwood, hardwood, raw",0.6415788053
+flat products,flat glass factory,0.6675261013
+flat products,EUR-flat pallet,0.6666905933
+flat products,dairy,0.6615588321
+flat products,folding boxboard carton,0.6604927395
+flat products,"flat plate solar collector, Cu absorber",0.6599387584
+long products,"protein pea, feed, Swiss integrated production",0.6579753866
+long products,"used long liner, steel",0.6575721332
+long products,"protein feed, 100% crude",0.6564888542
+long products,"long liner, steel",0.6557830641
+long products,"protein pea, Swiss integrated production",0.6555208812
+mim products for medical technology,silicone product,0.6622738615
+mim products for medical technology,"inductor, low value multilayer chip",0.6602170189
+mim products for medical technology,"silicon, multi-Si, casted",0.656679978
+mim products for medical technology,"solder, paste, Sn63Pb37, for electronics industry",0.6550253332
+mim products for medical technology,"inductor, miniature radio frequency chip",0.6546631273
+rubber overmoulding machines,thermoforming of plastic sheets,0.6472398119
+rubber overmoulding machines,stretch blow moulding,0.6468178674
+rubber overmoulding machines,"extrusion of plastic sheets and thermoforming, inline",0.6439528125
+rubber overmoulding machines,"deep drawing, steel, 38000 kN press, automode",0.6425059508
+rubber overmoulding machines,paper machine,0.6423337668
+blasting technology,blasting,0.658752207
+blasting technology,blow moulding,0.6475344584
+blasting technology,blast furnace,0.6472852667
+blasting technology,"impact extrusion of steel, cold, initial surface treatment",0.6470884917
+blasting technology,titanium,0.6457058503
+citrus treatment,"orange, processing grade",0.6607091262
+citrus treatment,"orange, fresh grade",0.6605166052
+citrus treatment,lemon,0.6569228951
+citrus treatment,mustard,0.6551304374
+citrus treatment,"tomato, fresh grade",0.6538550991
+property valuers commercial,"land tenure, arable land, measured as carbon net primary productivity, annual crop",0.649228213
+property valuers commercial,"land tenure, arable land, measured as carbon net primary productivity, perennial crop",0.6474501583
+property valuers commercial,"operation, computer, desktop, home use",0.6419629588
+property valuers commercial,"tillage, harrowing, by offset disc harrow",0.6410642903
+property valuers commercial,"residues, MSWI[F]-WWT, WW, average",0.6410381149
+ultrasonic soldering iron,titanium,0.6501602874
+ultrasonic soldering iron,iron sinter,0.6472765748
+ultrasonic soldering iron,"cast iron removed by drilling, computer numerical controlled",0.6461946908
+ultrasonic soldering iron,"titanium, triple-melt",0.6460944577
+ultrasonic soldering iron,iron sulfate,0.6457182598
+coach rental,bus,0.6545496752
+coach rental,used bus,0.6501171809
+coach rental,"transport, passenger coach",0.6472906751
+coach rental,"maintenance, bus",0.6472313199
+coach rental,"maintenance, motor scooter",0.6442784385
+"foods, precooked","protein feed, 100% crude",0.6587409046
+"foods, precooked",meat and bone meal,0.6581146861
+"foods, precooked","fishmeal, 63-65% protein",0.6571558463
+"foods, precooked","protein pea, feed, Swiss integrated production",0.6568690047
+"foods, precooked","fishmeal, 65-67% protein",0.656737374
+"clothes, children's",waste yarn and waste textile,0.6558831512
+"clothes, children's","textile, nonwoven polypropylene",0.6556526649
+"clothes, children's","textile, nonwoven polyester",0.655526377
+"clothes, children's","yarn, silk",0.6554395424
+"clothes, children's","textile, knit cotton",0.655041504
+clothes,"textile, silk",0.6673720333
+clothes,"textile, nonwoven polyester",0.6664031169
+clothes,"textile, nonwoven polypropylene",0.662986769
+clothes,"textile, kenaf",0.6628368093
+clothes,"textile, knit cotton",0.6624568875
+precision machine shops,"metal working machine, unspecified",0.6537758284
+precision machine shops,"laser machining, metal, with YAG-laser, 500W power",0.6522634715
+precision machine shops,"laser machining, metal, with YAG-laser, 330W power",0.6521821957
+precision machine shops,"laser machining, metal, with YAG-laser, 200W power",0.6517469385
+precision machine shops,"laser machining, metal, with YAG-laser, 30W power",0.6515735527
+hotel,"building, budget hotel",0.6610846413
+hotel,"building, luxury hotel",0.6603409381
+hotel,"building operation, budget hotel",0.6598799937
+hotel,"building operation, luxury hotel",0.6567491038
+hotel,"building, upmarket hotel",0.6564347764
+hi-fi system,internet access equipment,0.6532108087
+hi-fi system,"electric connector, peripheral type buss",0.6496471619
+hi-fi system,"electric connector, peripheral component interconnect buss",0.6483698573
+hi-fi system,"electricity, medium voltage",0.647173528
+hi-fi system,"power adapter, for laptop",0.6467807952
+industrial piping,"sewer grid, rural",0.6545453193
+industrial piping,"polyethylene pipe, DN 200, SDR 41",0.6541610501
+industrial piping,"polyethylene pipe, corrugated, DN 75",0.6522382322
+industrial piping,"sewer grid, urban",0.6512707003
+industrial piping,"sewer grid, 4.7E10l/year, 583 km",0.6503089898
+insurance in spain,"transport, passenger car, small size, petrol, EURO 3",0.6462105899
+insurance in spain,"transport, passenger car, small size, natural gas, EURO 3",0.6461031192
+insurance in spain,"transport, passenger car, medium size, natural gas, EURO 5",0.6460896341
+insurance in spain,"transport, passenger car, medium size, petrol, EURO 3",0.6460832579
+insurance in spain,"transport, passenger car, medium size, natural gas, EURO 3",0.6460794548
+wood lacquering,"wood preservation facility, oscillating pressure method",0.6567254893
+wood lacquering,"wood preservation, dipping/immersion method, water-based, indoor use, occasionally wet",0.6550033864
+wood lacquering,"wood preservation, dipping/immersion method, water-based, outdoor use, no ground contact",0.6549029884
+wood lacquering,"wood preservation, dipping/immersion method, water-based, indoor use, dry",0.6546543132
+wood lacquering,"wood preservation, hot/cold dipping, creosote, outdoor use, ground contact",0.6536491381
+punching tools,keyboard,0.6502485667
+punching tools,"laser machining, metal, with YAG-laser, 500W power",0.6496592652
+punching tools,"laser machining, metal, with YAG-laser, 50W power",0.6491582254
+punching tools,"laser machining, metal, with YAG-laser, 330W power",0.6491540551
+punching tools,"laser machining, metal, with YAG-laser, 60W power",0.6490237226
+childcare articles,milking parlour,0.6492249553
+childcare articles,almond,0.6451592968
+childcare articles,"paper, melamine impregnated",0.6443924784
+childcare articles,dairy,0.6417565525
+childcare articles,nylon 6-6,0.6408857596
+excavation work,"excavation, skid-steer loader",0.6676639158
+excavation work,"excavation, hydraulic digger",0.663105336
+excavation work,"recultivation, dolomite mine",0.6529125201
+excavation work,"mine infrastructure, open cast, lignite",0.6517243918
+excavation work,dolomite quarry infrastructure,0.650999482
+rail vehicle interior fittings,"cladding, crossbar-pole, aluminium",0.6634926322
+rail vehicle interior fittings,"wood cladding, softwood",0.6621174651
+rail vehicle interior fittings,"door, outer, wood-aluminium",0.6565524416
+rail vehicle interior fittings,"used door, outer, wood-aluminium",0.6519299012
+rail vehicle interior fittings,"door, inner, wood",0.6506449459
+foam rubber case inserts,"door, inner, wood",0.6420876645
+foam rubber case inserts,"exhaust air valve, in-wall housing, plastic/steel, DN 125",0.641930508
+foam rubber case inserts,"sealing tape, aluminium/PE, 50 mm wide",0.6411209393
+foam rubber case inserts,"door, outer, wood-aluminium",0.6410052409
+foam rubber case inserts,plastic tunnel,0.6398189444
+farm vehicles,light commercial vehicle,0.6708304794
+farm vehicles,"transport, tractor and trailer, agricultural",0.6674915924
+farm vehicles,"maintenance, light commercial vehicle",0.6668205469
+farm vehicles,used light commercial vehicle,0.6658817051
+farm vehicles,agricultural trailer,0.6655118219
+plastic nets,"nylon 6, glass-filled",0.6518736424
+plastic nets,"sealing tape, aluminium/PE, 50 mm wide",0.6491556884
+plastic nets,"nylon 6-6, glass-filled",0.6491521785
+plastic nets,nylon 6,0.6489636666
+plastic nets,floating collar cage,0.6479640792
+pasteurisers,"metallization paste, front side",0.653116094
+pasteurisers,"metallization paste, back side",0.6527195175
+pasteurisers,"selective coat, copper sheet, sputter deposition",0.650310317
+pasteurisers,"metallization paste, back side, aluminium",0.6497425068
+pasteurisers,"printing ink, rotogravure, without solvent, in 55% toluene solution state",0.6497045509
+exotic plants,green asparagus,0.6651542757
+exotic plants,"asparagus seedling, for planting",0.6643919871
+exotic plants,"miscanthus rhizome, for planting",0.6627396999
+exotic plants,cauliflower,0.6614458246
+exotic plants,"willow stem cutting, for planting",0.6569609633
+customised beakers,"carbon fibre reinforced plastic, injection moulded",0.6388716554
+customised beakers,"exhaust air valve, in-wall housing, plastic/steel, DN 125",0.6386108389
+customised beakers,"used outside air intake stainless steel, DN 370",0.6377894603
+customised beakers,"used exhaust air valve in-wall housing, plastic/steel",0.6376441915
+customised beakers,clinker,0.6376355801
+made-to-measure lounge furniture,"furniture, wooden",0.6596630252
+made-to-measure lounge furniture,"wood cladding, softwood",0.6458307306
+made-to-measure lounge furniture,"glass fibre reinforced plastic, polyester resin, hand lay-up",0.6439852516
+made-to-measure lounge furniture,plywood,0.6432637044
+made-to-measure lounge furniture,"shavings, hardwood, loose, measured as dry mass",0.6430601353
+flavourings for cooking,celery,0.6643425494
+flavourings for cooking,"sweetening, natural gas",0.6619430219
+flavourings for cooking,mustard,0.6597966154
+flavourings for cooking,"buttermilk, from cow milk",0.6596452798
+flavourings for cooking,"used vegetable cooking oil, purified",0.6593628514
+recycled polyethylene terephtalate,"polystyrene foam slab with graphite, 6% recycled",0.6561161806
+recycled polyethylene terephtalate,"polyethylene terephthalate, granulate, amorphous, recycled",0.6532893799
+recycled polyethylene terephtalate,"polyethylene, high density, granulate, recycled",0.652923715
+recycled polyethylene terephtalate,"polystyrene foam slab, 10% recycled",0.6528119745
+recycled polyethylene terephtalate,"polyethylene terephthalate, granulate, bottle grade, recycled",0.6522883552
+marine propellers,marine electric motor,0.6455395857
+marine propellers,marine engine,0.6434018711
+marine propellers,helicopter,0.6421436636
+marine propellers,"wind turbine, 2MW, onshore",0.6418453545
+marine propellers,"wind turbine, 2.3MW, onshore",0.6417935706
+granular cocoa,cocoa bean,0.666691424
+granular cocoa,"activated carbon, granular",0.6609345416
+granular cocoa,barley grain,0.6569722767
+granular cocoa,glyphosate,0.6569107211
+granular cocoa,"polylactide, granulate",0.6565351862
+food argan,meat and bone meal,0.6667474024
+food argan,"fishmeal, 63-65% protein",0.6622888439
+food argan,"fishmeal, 65-67% protein",0.6620770803
+food argan,barley grain,0.6601018936
+food argan,refrigerator,0.6595563746
+cloves,stalk,0.6452975795
+cloves,atrazine,0.6437434173
+cloves,vanilla,0.6430094713
+cloves,lemon,0.6423895648
+cloves,"paper, melamine impregnated",0.642369146
+coconuts,"coconut, dehusked",0.6731773552
+coconuts,coconut husk,0.6726274965
+coconuts,"coconut oil, crude",0.6620581501
+coconuts,pineapple,0.6577048644
+coconuts,palm fruit bunch,0.6559662653
+oat milk powders,"skimmed milk, from cow milk",0.6724318316
+oat milk powders,"cream, from cow milk",0.6703884318
+oat milk powders,"buttermilk, from cow milk",0.6676566195
+oat milk powders,cow milk,0.6676282629
+oat milk powders,oat grain,0.6672367837
+linear bearing,"section bar rolling, steel",0.6480584246
+linear bearing,"impact extrusion of aluminium, deformation stroke",0.645501964
+linear bearing,"impact extrusion of aluminium, 1 stroke",0.6434359956
+linear bearing,"swath, by rotary windrower",0.64280688
+linear bearing,"impact extrusion of aluminium, 5 strokes",0.6423336616
+cartridge valves,"exhaust air valve, in-wall housing, plastic/steel, DN 125",0.6495537154
+cartridge valves,used air filter in exhaust air valve,0.6420883308
+cartridge valves,"ventilation duct, elbow 90°, steel, 100x50 mm",0.6408632134
+cartridge valves,"used exhaust air valve in-wall housing, plastic/steel",0.6408203668
+cartridge valves,"inductor, ring core choke type",0.6396285622
+pipes for petrochemicals,"extrusion, plastic pipes",0.6604452623
+pipes for petrochemicals,"polyethylene pipe, DN 200, SDR 41",0.6520941952
+pipes for petrochemicals,"borehole heat exchanger, 150m",0.6516159178
+pipes for petrochemicals,"pump, 40W",0.6498027966
+pipes for petrochemicals,wastewater from tube collector production,0.6495035316
+sectional rail couplings,"railway track, for high-speed train",0.6485532984
+sectional rail couplings,railway track,0.6482232555
+sectional rail couplings,"swath, by rotary windrower",0.6448807105
+sectional rail couplings,"electric connector, peripheral component interconnect buss",0.6430041736
+sectional rail couplings,"spiral-seam duct, steel, DN 125",0.6427119204
+glass mosaics,ceramic tile,0.6563191571
+glass mosaics,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",0.6556072238
+glass mosaics,"panel glass, for cathode ray tube display",0.6522822295
+glass mosaics,clay plaster,0.6507931888
+glass mosaics,roof tile,0.6498793391
+high-performance flat belts,"printed wiring board, mounted mainboard, laptop computer, Pb free",0.639220773
+high-performance flat belts,"calendering, rigid sheets",0.6379789162
+high-performance flat belts,"printed wiring board, mounted mainboard, desktop computer, Pb free",0.6378059659
+high-performance flat belts,"soft solder, Sn97Cu3",0.6375066728
+high-performance flat belts,"printed wiring board, mounted mainboard, mobile device, double-sided, Pb free",0.6374526235
+welding fittings,"welding, arc, steel",0.6539286723
+welding fittings,"welding, gas, steel",0.6511214942
+welding fittings,"welding, arc, aluminium",0.647063472
+welding fittings,"cladding, crossbar-pole, aluminium",0.6447914059
+welding fittings,"used room-connecting overflow element steel, approx. 40 m3/h",0.6447622237
+additives for engines,"electrolyte, KOH, LiOH additive",0.663094854
+additives for engines,"petrol, two-stroke blend",0.6565821517
+additives for engines,manual dismantling of used passenger car with internal combustion engine,0.6529203522
+additives for engines,"catalytic converter, oxidation, 20 litre",0.6516454127
+additives for engines,"diesel, burned in agricultural machinery",0.651458396
+mozzarellas,zucchini,0.6440359849
+mozzarellas,broccoli,0.640478163
+mozzarellas,breadcrumbs,0.6393261675
+mozzarellas,banana,0.6355697524
+mozzarellas,cucumber,0.6317468722
+organic beef,"cattle for slaughtering, live weight",0.6725143055
+organic beef,"soybean, Swiss integrated production",0.6687055503
+organic beef,"chicken for slaughtering, live weight",0.6680703184
+organic beef,"weaned heifers, live weight",0.6679911696
+organic beef,"soybean, organic",0.6678371084
+chain saws,"power saw, with catalytic converter",0.6583436624
+chain saws,"power sawing, with catalytic converter",0.6572307529
+chain saws,"power saw, without catalytic converter",0.652713724
+chain saws,"power sawing, without catalytic converter",0.6526124682
+chain saws,"wire drawing, steel",0.6519210458
+second-hand barrels,"sawlog and veneer log, softwood, debarked, measured as solid wood",0.6478787381
+second-hand barrels,"used silencer steel, DN 315",0.6473815586
+second-hand barrels,"sawlog and veneer log, azobe, debarked, measured as solid wood",0.6467099487
+second-hand barrels,"used silencer steel, DN 125",0.6460327607
+second-hand barrels,"sawlog and veneer log, meranti, debarked, measured as solid wood",0.645650389
+rum,green liquor dregs,0.6575811866
+rum,fatty alcohol,0.6542171526
+rum,"cork, raw",0.6527623018
+rum,fermentation filtrate,0.6516746033
+rum,Distiller's Dried Grains with Solubles,0.6516318171
+alloy,iron-nickel-chromium alloy,0.6694303146
+alloy,"aluminium, cast alloy",0.6691338772
+alloy,"magnesium-alloy, AZ91",0.6690913105
+alloy,"magnesium-alloy, AZ91, diecast",0.6685342258
+alloy,"aluminium alloy, AlLi",0.668189413
+tea bag,paper sack,0.656971056
+tea bag,"tea, dried",0.6520042283
+tea bag,white lined chipboard carton,0.6471580406
+tea bag,folding boxboard carton,0.646799044
+tea bag,"sugarcane transfer, by dump cart",0.6443027865
+artificial flowers,"willow stem cutting, for planting",0.6579112557
+artificial flowers,"asparagus seedling, for planting",0.6565855922
+artificial flowers,"onion seedling, for planting",0.6549511632
+artificial flowers,horticultural fleece,0.6544504225
+artificial flowers,planting tree,0.6541846532
+fittings,stretch blow moulding,0.640035983
+fittings,"door, outer, wood-aluminium",0.6392654272
+fittings,"cladding, crossbar-pole, aluminium",0.6388554877
+fittings,"swath, by rotary windrower",0.6376817912
+fittings,"ventilation of dwellings, decentralized, 6 x 120 m3/h",0.6374746809
+rubber wheels,bicycle,0.6572850286
+rubber wheels,"maintenance, motor scooter",0.6527787733
+rubber wheels,used motor scooter,0.6519725578
+rubber wheels,electric bicycle,0.6503031602
+rubber wheels,used tyre,0.6502193641
+preserved fish,marine fish,0.6649882555
+preserved fish,"small pelagic fish, fresh",0.6607949438
+preserved fish,"fish freezing, small fish",0.6601618891
+preserved fish,trout,0.6597747461
+preserved fish,"fishmeal, 63-65% protein",0.6580228242
+tinned fish,"fish curing, small fish",0.6680450419
+tinned fish,"trout feed, 42% protein",0.6670494382
+tinned fish,"small pelagic fish, fresh",0.6662583569
+tinned fish,trout,0.6655271408
+tinned fish,"demersal fish, fresh",0.6642644557
+"fish, salt-water","small pelagic fish, fresh",0.6810383007
+"fish, salt-water","fish freezing, small fish",0.6768195711
+"fish, salt-water","demersal fish, fresh",0.6764361758
+"fish, salt-water",marine fish,0.6750025649
+"fish, salt-water",trout,0.6736973552
+drums,"silencer, steel, DN 125",0.6345913278
+drums,lead,0.634031336
+drums,"toner module, laser printer, black/white",0.632091495
+drums,"used silencer steel, DN 125",0.6319272393
+drums,"used silencer steel, DN 315",0.6317407399
+precision balls,"swath, by rotary windrower",0.6422421523
+precision balls,pitch,0.6400970709
+precision balls,"laser machining, metal, with YAG-laser, 500W power",0.6391891371
+precision balls,"laser machining, metal, with YAG-laser, 330W power",0.6391133854
+precision balls,"laser machining, metal, with YAG-laser, 30W power",0.6388427698
+banana sweet potato,banana,0.6694781772
+banana sweet potato,potato,0.668649636
+banana sweet potato,"potato seed, for setting",0.6592628906
+banana sweet potato,cucumber,0.6589088614
+banana sweet potato,palm kernel meal,0.6586556763
+3d scanner,"laser machining, metal, with YAG-laser, 60W power",0.6480899372
+3d scanner,"deep drawing, steel, 38000 kN press, automode",0.6480485233
+3d scanner,"laser machining, metal, with YAG-laser, 50W power",0.6478010553
+3d scanner,"laser machining, metal, with YAG-laser, 30W power",0.647735333
+3d scanner,"laser machining, metal, with YAG-laser, 40W power",0.6477279953
+soft drinks,green liquor dregs,0.6645321658
+soft drinks,Distiller's Dried Grains with Solubles,0.6622559948
+soft drinks,"soda ash, light",0.6580901381
+soft drinks,soybean beverage,0.6564750556
+soft drinks,"soft solder, Sn97Cu3",0.6547885043
+lubricating oil,lubricating oil,0.6743952232
+lubricating oil,light fuel oil,0.6543019497
+lubricating oil,bilge oil,0.6511025511
+lubricating oil,petroleum refinery,0.6507253915
+lubricating oil,base oil,0.6503831739
+bags,paper sack,0.6637898136
+bags,"lorry with refrigeration machine, R134a as refrigerant, 16 metric ton",0.6530390343
+bags,"lorry with refrigeration machine, carbon dioxide, liquid as refrigerant, 16 metric ton",0.6515029676
+bags,"aircraft, belly freight, medium haul",0.6509438641
+bags,folding boxboard carton,0.6505007848
+canned food,soybean meal,0.6706924036
+canned food,"protein feed, 100% crude",0.6704947665
+canned food,meat and bone meal,0.6690048848
+canned food,"protein pea, feed, Swiss integrated production",0.6679613552
+canned food,cottonseed meal,0.6678114844
+batteries,"battery cell, Li-ion, LiMn2O4",0.6770284213
+batteries,"battery, Li-ion, NMC811, rechargeable, prismatic",0.6764685033
+batteries,"battery, Li-ion, NMC111, rechargeable, prismatic",0.6764483322
+batteries,"battery, Li-ion, LiMn2O4, rechargeable, prismatic",0.6757734106
+batteries,"battery, Li-ion, NCA, rechargeable, prismatic",0.6751710495
+stainless steel ball valves,"exhaust air valve, in-wall housing, plastic/steel, DN 125",0.6399047137
+stainless steel ball valves,"ventilation duct, elbow 90°, steel, 100x50 mm",0.6393928403
+stainless steel ball valves,"spiral-seam duct, steel, DN 125",0.6387578322
+stainless steel ball valves,"spiral-seam duct, steel, DN 400",0.6367413903
+stainless steel ball valves,"hot rolling, steel",0.6364020602
+office machines,used desktop computer,0.6702467037
+office machines,"computer, desktop, without screen",0.6690244143
+office machines,"computer, laptop",0.6686309743
+office machines,"machine, for treatment of waste electric and electronic equipment",0.6667060209
+office machines,paper machine,0.6666778271
+pneumatic system components,"electronic component, active, unspecified",0.6438160794
+pneumatic system components,"maintenance, tram",0.6432279443
+pneumatic system components,used ventilation control and wiring decentralized unit,0.6428518463
+pneumatic system components,"ventilation control and wiring, decentralized unit",0.642572601
+pneumatic system components,ventilation components factory,0.6421782447
+entry control system,"air filter, decentralized unit, 180-250 m3/h",0.6459486293
+entry control system,"air filter, decentralized unit, 250 m3/h",0.6458350846
+entry control system,air separation facility,0.6452417577
+entry control system,"control cabinet, heat and power co-generation unit, 160kW electrical",0.6446760602
+entry control system,"ventilation control and wiring, decentralized unit",0.6444466209
+optical instruments,"pointing device, optical mouse, with cable",0.6534146461
+optical instruments,"optical brighteners, for paper production",0.6497316637
+optical instruments,"silicon, single crystal, Czochralski process, photovoltaics",0.6471520651
+optical instruments,"liquid crystal display, unmounted, mobile device",0.6470863399
+optical instruments,"frit, for cathode ray tube display",0.6467197189
+concrete formwork panels,"lightweight concrete block, polystyrene",0.6586924686
+concrete formwork panels,"lightweight concrete block, expanded clay",0.6570566923
+concrete formwork panels,"lightweight concrete block, pumice",0.6561722617
+concrete formwork panels,concrete roof tile,0.6561295902
+concrete formwork panels,"lightweight concrete block, expanded perlite",0.6560145935
+bulk material,"titania slag, 85% titanium dioxide",0.6624839782
+bulk material,"titania slag, 94% titanium dioxide",0.661939539
+bulk material,"waste bulk iron, excluding reinforcement",0.6613522614
+bulk material,"wafer, fabricated, for integrated circuit",0.6596264034
+bulk material,"bulk carrier, for dry goods",0.6586134099
+screw compressor,"air compressor, screw-type compressor, 4kW",0.6761402083
+screw compressor,"air compressor, screw-type compressor, 300kW",0.6750177786
+screw compressor,"ventilation duct, elbow 90°, steel, 100x50 mm",0.653513555
+screw compressor,"ventilation duct, steel, 100x50 mm",0.6487642775
+screw compressor,"ventilation duct, connection piece, steel, 100x50 mm",0.6484865881
+foristry,"forging, steel",0.6457854266
+foristry,folpet,0.6444671965
+foristry,"selective coat, copper sheet, sputter deposition",0.6433827822
+foristry,"sputtering, indium tin oxide, for liquid crystal display",0.6410987594
+foristry,"residues, MSWI[F]-WWT, WW from LCD backlight production",0.6410757714
+light commercial vehicles,light commercial vehicle,0.694227951
+light commercial vehicles,used light commercial vehicle,0.685350468
+light commercial vehicles,"maintenance, light commercial vehicle",0.6777874916
+light commercial vehicles,"glider, passenger car",0.6707828344
+light commercial vehicles,"transport, freight, light commercial vehicle",0.6690385881
+binding,"zinc coat, coils",0.6400528923
+binding,"selective coat, stainless steel sheet, black chrome",0.6387081419
+binding,ethane,0.638249381
+binding,"silver, unrefined",0.6380868906
+binding,reinforcing steel,0.6370988855
+organic peroxides,"hydrogen peroxide, without water, in 50% solution state",0.6630689806
+organic peroxides,hydrogen cyanide,0.654979077
+organic peroxides,carbon disulfide,0.653650278
+organic peroxides,"nitrate salts, for solar power application",0.6531244685
+organic peroxides,"alkylketene dimer sizing agent, for paper production",0.6530498124
+metallurgy installations,"metal working, average for chromium steel product manufacturing",0.6665383495
+metallurgy installations,"metal working, average for steel product manufacturing",0.6643359144
+metallurgy installations,"metal working machine, unspecified",0.6639052281
+metallurgy installations,metal working factory,0.6630909509
+metallurgy installations,"metal working, average for copper product manufacturing",0.6630286175
+clean room processes,"cleaning consumables, without water, in 13.6% solution state",0.6566853446
+clean room processes,"operation, computer, desktop, with liquid crystal display, standby mode",0.6548358073
+clean room processes,"operation, computer, desktop, with liquid crystal display, off mode",0.6541149291
+clean room processes,"operation, computer, desktop, with liquid crystal display, active mode",0.6540213491
+clean room processes,washing machine,0.6528628628
+shipyards repairs,"maintenance, barge",0.6510528599
+shipyards repairs,"maintenance, intermodal shipping container, 40-foot",0.6486769475
+shipyards repairs,"trawler maintenance, steel",0.6486520575
+shipyards repairs,"maintenance, intermodal shipping container, 20-foot",0.6484376212
+shipyards repairs,"maintenance, ferry",0.6484291685
+"salvaging, scrap iron","iron scrap, unsorted",0.6680836331
+"salvaging, scrap iron","recultivation, iron mine",0.6655200588
+"salvaging, scrap iron","iron scrap, sorted, pressed",0.6634124988
+"salvaging, scrap iron",scrap copper,0.6624909042
+"salvaging, scrap iron",scrap steel,0.6619898505
+countersinks,clinker,0.643703348
+countersinks,tin concentrate,0.6428812824
+countersinks,"sputtering, indium tin oxide, for liquid crystal display",0.6427759434
+countersinks,"delimbing/sorting, excavator-based processor",0.6423957955
+countersinks,"tempering, flat glass",0.6414886845
+pharmaceutical products,refrigerant R134a,0.6635944548
+pharmaceutical products,injection moulding,0.6629887805
+pharmaceutical products,"protein feed, 100% crude",0.6629638748
+pharmaceutical products,"protein pea, organic",0.661978515
+pharmaceutical products,"N,N-dimethylformamide",0.6614447483
+development,"planning, cogen unit mini CHP plant",0.652301238
+development,irrigation,0.6504951822
+development,planting,0.6502430403
+development,pitch,0.6496481604
+development,"building operation, hostel",0.6475913702
+sludge treatment consulting,"sludge, NaCl electrolysis",0.6461061895
+sludge treatment consulting,"sludge, NaCl electrolysis Hg",0.644510164
+sludge treatment consulting,"sewage sludge, 70% water, WWT, WW, average",0.6444901664
+sludge treatment consulting,"sewage sludge, 75% water, WWT, WW, average",0.6440345245
+sludge treatment consulting,"manual treatment facility, waste electric and electronic equipment",0.6438065968
+milling technology,"laser machining, metal, with YAG-laser, 500W power",0.6590157986
+milling technology,"laser machining, metal, with YAG-laser, 200W power",0.6582809548
+milling technology,"laser machining, metal, with YAG-laser, 330W power",0.6581695297
+milling technology,"laser machining, metal, with YAG-laser, 50W power",0.6579996466
+milling technology,"laser machining, metal, with YAG-laser, 60W power",0.6579988397
+repair of speed reduction units,electronics scrap from control units,0.6529327054
+repair of speed reduction units,manual dismantling of used electric passenger car,0.651081649
+repair of speed reduction units,manual dismantling of electric scooter,0.6508451596
+repair of speed reduction units,manual dismantling of used passenger car with internal combustion engine,0.6498973321
+repair of speed reduction units,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, low load factor",0.6495466036
+rubber cutting operations,"deep drawing, steel, 38000 kN press, automode",0.6447874655
+rubber cutting operations,"deep drawing, steel, 650 kN press, automode",0.6447430625
+rubber cutting operations,"deep drawing, steel, 38000 kN press, single stroke",0.644456664
+rubber cutting operations,"deep drawing, steel, 3500 kN press, automode",0.6443402992
+rubber cutting operations,synthetic rubber,0.6442171064
+iron foundries installations,"cast iron removed by drilling, computer numerical controlled",0.6709775201
+iron foundries installations,"cast iron removed by milling, large parts",0.6676162935
+iron foundries installations,"cast iron removed by milling, dressing",0.6675822295
+iron foundries installations,"cast iron removed by drilling, conventional",0.6672296521
+iron foundries installations,"cast iron removed by turning, primarily roughing, computer numerical controlled",0.6670633326
+punch shear combi machines,"delimbing/sorting, excavator-based processor",0.6411667805
+punch shear combi machines,"swath, by rotary windrower",0.6398871509
+punch shear combi machines,"mowing, by rotary mower",0.634346709
+punch shear combi machines,"ventilation duct, elbow 90°, steel, 100x50 mm",0.6343328437
+punch shear combi machines,"inductor, miniature radio frequency chip",0.6337240917
+outsourcing of financial services,"operation, computer, desktop, office use",0.6523395995
+outsourcing of financial services,"operation, computer, desktop, home use",0.6517011518
+outsourcing of financial services,"operation, computer, laptop, videoconference, electricity from renewable energy products",0.6506129404
+outsourcing of financial services,"operation, internet access equipment, electricity from renewable energy products",0.6502663428
+outsourcing of financial services,ferry,0.6486089351
+dismantling of industrial plants,manual dismantling of used electric passenger car,0.6628348655
+dismantling of industrial plants,manual dismantling of used passenger car with internal combustion engine,0.6606877642
+dismantling of industrial plants,"recultivation, iron mine",0.6561024781
+dismantling of industrial plants,manual dismantling of electric scooter,0.6529259799
+dismantling of industrial plants,decommissioned chemical production facilities,0.6521431337
+chemical waste recycling,slag landfill,0.6609413976
+chemical waste recycling,municipal waste collection service by 21 metric ton lorry,0.6595747219
+chemical waste recycling,"waste paper, sorted",0.6590945723
+chemical waste recycling,"waste paperboard, sorted",0.6578605307
+chemical waste recycling,waste polypropylene,0.6573904918
+milling of plastic,"extrusion of plastic sheets and thermoforming, inline",0.6595689659
+milling of plastic,thermoforming of plastic sheets,0.6543272653
+milling of plastic,"sheet rolling, aluminium",0.6527537503
+milling of plastic,"aluminium removed by turning, primarily roughing, computer numerical controlled",0.6526603695
+milling of plastic,paper machine,0.6526184095
+onshore services,onshore petroleum field infrastructure,0.6587881025
+onshore services,port facilities,0.6557212174
+onshore services,"trawler maintenance, steel",0.6557207179
+onshore services,"maintenance, ferry",0.6524919706
+onshore services,"maintenance, transmission network, electricity, high voltage direct current subsea cable",0.6517797615
+boring machines,paper machine,0.6517709736
+boring machines,building machine,0.6493788524
+boring machines,"machine operation, diesel, >= 74.57, underground mining",0.64888439
+boring machines,plastic tunnel,0.648840003
+boring machines,"metal working machine, unspecified",0.6462672411
+motor vehicle cluches,decommissioned road,0.6438735763
+motor vehicle cluches,"transport, passenger car, EURO 4",0.6435622057
+motor vehicle cluches,"transport, passenger car, EURO 5",0.6430439452
+motor vehicle cluches,"road wear emissions, passenger car",0.6429791905
+motor vehicle cluches,"road wear emissions, lorry",0.6426625836
+multimedia intranet services,"internet access, videoconference, 0.7 Mbit/s",0.6623004303
+multimedia intranet services,"internet access, work, 0.2 Mbit/s",0.6605558663
+multimedia intranet services,internet access equipment,0.6595291184
+multimedia intranet services,"cable, data cable in infrastructure",0.6554679027
+multimedia intranet services,medium density fibreboard,0.655160947
+product for animal beauty,silicone product,0.662923659
+product for animal beauty,almond,0.6610444013
+product for animal beauty,dairy,0.6579700297
+product for animal beauty,"cattle for slaughtering, live weight",0.6578310453
+product for animal beauty,nylon 6,0.6570587381
+staff,"operation, computer, laptop, videoconference",0.657765682
+staff,"operation, computer, desktop, office use",0.6568108797
+staff,"building operation, hostel",0.6546324157
+staff,"operation, computer, desktop, with cathode ray tube display, standby mode",0.6540655339
+staff,"operation, computer, desktop, with cathode ray tube display, off mode",0.6536419786
+pedicure items,"textile, nonwoven polyester",0.6568657546
+pedicure items,"textile, nonwoven polypropylene",0.6549840769
+pedicure items,"textile, silk",0.6516179442
+pedicure items,"fibre, silk, short",0.6506751205
+pedicure items,"textile, kenaf",0.650663519
+bijouterie,aubergine,0.6444884271
+bijouterie,lignite briquettes,0.6391788877
+bijouterie,bauxite,0.635379067
+bijouterie,"road wear emissions, passenger car",0.6349181238
+bijouterie,"road wear emissions, lorry",0.6338862839
+"foundries, brass","casting, brass",0.671389608
+"foundries, brass",brass,0.6649323001
+"foundries, brass","brass removed by drilling, computer numerical controlled",0.6646996753
+"foundries, brass","brass removed by turning, primarily roughing, computer numerical controlled",0.6630179639
+"foundries, brass","brass removed by turning, average, computer numerical controlled",0.6629633804
+new truck parts,"maintenance, motor scooter",0.6575637669
+new truck parts,"maintenance, goods wagon",0.657528617
+new truck parts,"maintenance, bus",0.6564845013
+new truck parts,"electronic component machinery, unspecified",0.6538235248
+new truck parts,"chassis, internet access equipment",0.6537975615
+powder disposal,waste preparation facility,0.6496152358
+powder disposal,municipal waste incineration facility,0.6482004647
+powder disposal,fraction 7 from naphtha separation,0.6469494099
+powder disposal,"sorting facility, for construction waste",0.6468428601
+powder disposal,hazardous waste incineration facility,0.6460211849
+waste recycling machines,"waste paperboard, sorted",0.6617739821
+waste recycling machines,waste paper sorting facility,0.6613771912
+waste recycling machines,"waste paper, sorted",0.6603073635
+waste recycling machines,waste fibreboard,0.6598426811
+waste recycling machines,waste paperboard,0.6586532405
+gastronomic specialties,dairy,0.6524159793
+gastronomic specialties,celery,0.645956071
+gastronomic specialties,glucose,0.6450578747
+gastronomic specialties,mustard,0.6447675448
+gastronomic specialties,"ventilation system, decentralized, 6 x 120 m3/h, polyethylene ducts",0.6446236375
+concrete constructions,concrete slab,0.6681643271
+concrete constructions,"concrete, medium strength",0.6667042578
+concrete constructions,"concrete, 37MPa",0.6642414002
+concrete constructions,"waste concrete, not reinforced",0.6636731364
+concrete constructions,concrete block,0.6619060245
+business consultancy,"operation, computer, laptop, videoconference",0.6462423346
+business consultancy,"building operation, upmarket hotel",0.6455482009
+business consultancy,"operation, computer, desktop, office use",0.6453583478
+business consultancy,"operation, computer, laptop, videoconference, electricity from renewable energy products",0.6448809901
+business consultancy,"operation, computer, desktop, home use",0.6436019846
+goods procurement,"transport, freight, aircraft, unspecified",0.6498523965
+goods procurement,"maintenance, goods wagon",0.6492881787
+goods procurement,goods wagon,0.648813493
+goods procurement,"transport, passenger aircraft, unspecified",0.6487301586
+goods procurement,folding boxboard carton,0.6480385524
+waste transportation,municipal waste collection service by 21 metric ton lorry,0.6594297467
+waste transportation,waste paper sorting facility,0.6573724832
+waste transportation,"waste collection lorry, 21 metric ton",0.6572708843
+waste transportation,"sorting facility, for construction waste",0.6572217466
+waste transportation,municipal waste incineration facility,0.6564272572
+treatment of industrial waste water,"manual treatment facility, waste electric and electronic equipment",0.6666333216
+treatment of industrial waste water,ion-exchanger for water treatment,0.6665971385
+treatment of industrial waste water,"wastewater treatment facility, capacity 1.6E8l/year",0.6664350366
+treatment of industrial waste water,"wastewater treatment facility, capacity 1.1E10l/year",0.6662113464
+treatment of industrial waste water,wastewater from potato starch production,0.6653667164
+deep-drawn aluminium parts,"deep drawing, steel, 10000 kN press, automode",0.6447479555
+deep-drawn aluminium parts,"deep drawing, steel, 3500 kN press, automode",0.6443635438
+deep-drawn aluminium parts,"deep drawing, steel, 38000 kN press, automode",0.6442149118
+deep-drawn aluminium parts,"deep drawing, steel, 650 kN press, automode",0.6439111705
+deep-drawn aluminium parts,"aluminium removed by milling, large parts",0.6436722185
+crockery,"printed wiring board, mounted mainboard, desktop computer, Pb containing",0.6480681082
+crockery,"printed wiring board, mounted mainboard, laptop computer, Pb containing",0.6474442198
+crockery,"printed wiring board, for through-hole mounting, Pb free surface",0.6463819612
+crockery,"printed wiring board, for through-hole mounting, Pb containing surface",0.6461718055
+crockery,"computer, desktop, without screen",0.6456704445
+automobile - assistance,"maintenance, passenger car, electric, without battery",0.6458141957
+automobile - assistance,"maintenance, electric scooter, without battery",0.643460553
+automobile - assistance,passenger car maintenance,0.6433748961
+automobile - assistance,ferry,0.6427515664
+automobile - assistance,"maintenance, motor scooter",0.6425831846
+repair garage services,"maintenance, light commercial vehicle",0.658821321
+repair garage services,"maintenance, bus",0.6572898406
+repair garage services,"maintenance, motor scooter",0.6569748214
+repair garage services,"maintenance, passenger car, electric, without battery",0.6565713138
+repair garage services,passenger car maintenance,0.6562409027
+"casting, steel","steel removed by drilling, computer numerical controlled",0.6743039457
+"casting, steel","casting, brass",0.6740095828
+"casting, steel","steel, chromium steel 18/8, hot rolled",0.6735955096
+"casting, steel","steel removed by turning, primarily dressing, computer numerical controlled",0.6734970702
+"casting, steel","steel removed by turning, average, computer numerical controlled",0.672772396
+food safety,protein pea,0.6633877619
+food safety,"protein pea, Swiss integrated production",0.6604757508
+food safety,"protein pea, feed, Swiss integrated production",0.6600019865
+food safety,"protein feed, 100% crude",0.655458771
+food safety,dairy,0.6552740111
+personal coach,propanal,0.6353334549
+personal coach,lead,0.6340091274
+personal coach,folpet,0.6340052858
+personal coach,"operation, computer, laptop, videoconference",0.633920792
+personal coach,captan,0.6331342643
+zinc electroplating,"zinc coat, pieces",0.663141894
+zinc electroplating,"zinc coat, coils",0.6610527093
+zinc electroplating,"zinc coat, pieces, adjustment per micro-m",0.6607854185
+zinc electroplating,zinc,0.6606590981
+zinc electroplating,"titanium zinc plate, without pre-weathering",0.6600574199
+sheet metal handling,"section bar rolling, steel",0.6626424744
+sheet metal handling,"sheet rolling, steel",0.6619832438
+sheet metal handling,"steel removed by turning, average, computer numerical controlled",0.6608075983
+sheet metal handling,"steel removed by turning, primarily roughing, computer numerical controlled",0.660138696
+sheet metal handling,"steel removed by turning, primarily dressing, computer numerical controlled",0.6597356124
+automobile dealer,road vehicle factory,0.6508381726
+automobile dealer,"maintenance, motor scooter",0.6495621037
+automobile dealer,"maintenance, passenger car, electric, without battery",0.6451299973
+automobile dealer,"maintenance, light commercial vehicle",0.6450997534
+automobile dealer,"road, company, internal",0.6438685729
+refrigeration plant maintenance,"maintenance, refrigeration machine",0.6574169024
+refrigeration plant maintenance,"refrigeration machine, R134a as refrigerant",0.6473559301
+refrigeration plant maintenance,"maintenance, train, passenger, high-speed",0.6448250863
+refrigeration plant maintenance,"maintenance, transmission network, electricity, high voltage direct current aerial line",0.6445870383
+refrigeration plant maintenance,"maintenance, mini CHP plant",0.6444398205
+blasting media recovery machines,blasting,0.6409369429
+blasting media recovery machines,rock crushing,0.6408172147
+blasting media recovery machines,de-icer,0.6371312092
+blasting media recovery machines,terrain chipper on forwarder,0.6364521696
+blasting media recovery machines,"blast furnace dust, for recovery",0.6363046663
+sieving machines,internet access equipment,0.6405320596
+sieving machines,"operation, internet access equipment",0.6402041723
+sieving machines,"machine operation, diesel, < 18.64 kW, steady-state",0.637579882
+sieving machines,"delimbing/sorting, excavator-based processor",0.6373603764
+sieving machines,"machine, for treatment of waste electric and electronic equipment",0.6367072252
+stainless steel boilerwork for decoration,"spiral-seam duct, steel, DN 125",0.6509558686
+stainless steel boilerwork for decoration,"spiral-seam duct, steel, DN 400",0.6503831739
+stainless steel boilerwork for decoration,"contouring, brass",0.6492285084
+stainless steel boilerwork for decoration,"steel removed by turning, primarily dressing, computer numerical controlled",0.6473683656
+stainless steel boilerwork for decoration,"cladding, crossbar-pole, aluminium",0.6470899291
+chip chandler,"inductor, miniature radio frequency chip",0.6370669134
+chip chandler,"inductor, low value multilayer chip",0.6300771403
+chip chandler,"wood chipping, forwarder with terrain chipper, in forest",0.629977072
+chip chandler,"wood chips, dry, measured as dry mass",0.6286452321
+chip chandler,castor bean,0.6283827424
+automotive,"internal combustion engine, passenger car",0.663817805
+automotive,road vehicle factory,0.6557054233
+automotive,"used internal combustion engine, passenger car",0.6535863245
+automotive,"road wear emissions, passenger car",0.6531996181
+automotive,passenger car maintenance,0.6528794271
+"substations, high-voltage","electricity, low voltage",0.6653211893
+"substations, high-voltage","electricity, medium voltage",0.6646755633
+"substations, high-voltage","electricity, high voltage",0.6628298697
+"substations, high-voltage","transformer, high voltage use",0.6606349465
+"substations, high-voltage","transformer, low voltage use",0.6603316633
+street furniture,"furniture, wooden",0.6732212308
+street furniture,"wood cladding, softwood",0.6591544139
+street furniture,plywood,0.6550643116
+street furniture,"wooden board factory, organic bonded boards",0.6540322941
+street furniture,"sawnwood, softwood, raw",0.6525233164
+special events communication,intral,0.644755959
+special events communication,"operation, computer, laptop, videoconference",0.6434199181
+special events communication,television,0.6414707697
+special events communication,captan,0.6400321072
+special events communication,internet access equipment,0.637093479
+emergency pollution clearance service,"air filter, decentralized unit, 250 m3/h",0.6429216293
+emergency pollution clearance service,"air filter, decentralized unit, 180-250 m3/h",0.6425607731
+emergency pollution clearance service,sanitary landfill facility,0.6413177407
+emergency pollution clearance service,air separation facility,0.6394408889
+emergency pollution clearance service,"used air filter decentralized unit, 250 m3/h",0.6392980542
+multiple plants,planting tree,0.653976894
+multiple plants,bamboo culm,0.6539607686
+multiple plants,cauliflower,0.6535641101
+multiple plants,"willow stem cutting, for planting",0.6526996723
+multiple plants,"grass, organic",0.6520999676
+mechanically welded constructions,"welding, arc, steel",0.6588593908
+mechanically welded constructions,"steel removed by turning, primarily dressing, computer numerical controlled",0.6583823413
+mechanically welded constructions,"steel removed by turning, primarily roughing, computer numerical controlled",0.6583315641
+mechanically welded constructions,"steel removed by drilling, computer numerical controlled",0.6564730081
+mechanically welded constructions,"steel removed by turning, primarily roughing, conventional",0.6541958029
+customised laser working,"laser machining, metal, with YAG-laser, 60W power",0.6659690652
+customised laser working,"laser machining, metal, with YAG-laser, 30W power",0.665924801
+customised laser working,"laser machining, metal, with YAG-laser, 50W power",0.665712231
+customised laser working,"laser machining, metal, with YAG-laser, 120W power",0.6656689346
+customised laser working,"laser machining, metal, with YAG-laser, 40W power",0.6656302202
+biscuit consultant,breadcrumbs,0.6383132164
+biscuit consultant,milking parlour,0.6375839455
+biscuit consultant,"chipper, stationary, electric",0.6370325497
+biscuit consultant,paraffin,0.636161093
+biscuit consultant,almond,0.6349164084
+"foods, macrobiotic","protein feed, 100% crude",0.6755691041
+"foods, macrobiotic","protein pea, organic",0.6737517098
+"foods, macrobiotic",meat and bone meal,0.673592356
+"foods, macrobiotic","fishmeal, 63-65% protein",0.6730256978
+"foods, macrobiotic","fishmeal, 65-67% protein",0.6727841028
+colour free preservative free drink,green liquor dregs,0.6563607334
+colour free preservative free drink,"soda ash, light",0.6509565187
+colour free preservative free drink,"fluorescent whitening agent, distyrylbiphenyl type",0.6509183375
+colour free preservative free drink,"alkyd paint, white, without water, in 60% solution state",0.649154976
+colour free preservative free drink,"ethylvinylacetate, foil",0.6490735731
+plastic filter nozzles,"air filter, in exhaust air valve",0.6533027464
+plastic filter nozzles,"air filter, decentralized unit, 180-250 m3/h",0.6524423544
+plastic filter nozzles,"air filter, decentralized unit, 250 m3/h",0.6510435349
+plastic filter nozzles,used air filter in exhaust air valve,0.6503512874
+plastic filter nozzles,"used air filter decentralized unit, 180-250 m3/h",0.6493738321
+tar construction materials,coal tar,0.6647617198
+tar construction materials,"steel removed by drilling, computer numerical controlled",0.6530813767
+tar construction materials,"steel removed by drilling, conventional",0.6503465772
+tar construction materials,"sawnwood, softwood, raw",0.6497324537
+tar construction materials,scrap steel,0.649516358
+gold tokens,"gold, unrefined",0.6669363921
+gold tokens,"gold-silver, ingot",0.6613335336
+gold tokens,gold,0.6603999379
+gold tokens,bronze,0.6531583023
+gold tokens,"silver, unrefined",0.6522180107
+paper - art,"graphic paper, 100% recycled",0.677481702
+paper - art,kraft paper,0.6726937519
+paper - art,paper machine,0.6725531694
+paper - art,waste graphical paper,0.6715963103
+paper - art,tissue paper,0.6715064479
+fuel oils,light fuel oil,0.6744912782
+fuel oils,heavy fuel oil,0.6701057036
+fuel oils,petroleum,0.6653531945
+fuel oils,base oil,0.6651758218
+fuel oils,"vegetable oil, refined",0.662991883
+metal shed,metal working factory,0.6687964939
+metal shed,"metal working machine, unspecified",0.665375074
+metal shed,"metal working, average for copper product manufacturing",0.6634492959
+metal shed,"metal working, average for steel product manufacturing",0.6620322377
+metal shed,scrap copper,0.6613803864
+aromatic plants,"eucalyptus seedling, for planting",0.6538673676
+aromatic plants,phenolic resin,0.6519706102
+aromatic plants,"miscanthus rhizome, for planting",0.65069006
+aromatic plants,planting tree,0.6503121735
+aromatic plants,green asparagus,0.6495384844
+stainless steel pipe,chromium steel pipe,0.6570670243
+stainless steel pipe,"drawing of pipe, steel",0.651554058
+stainless steel pipe,"spiral-seam duct, steel, DN 125",0.6507261371
+stainless steel pipe,"spiral-seam duct, steel, DN 400",0.650676213
+stainless steel pipe,"welding, arc, steel",0.6473312326
+"tile, porcelain",ceramic tile,0.67877994
+"tile, porcelain",roof tile,0.6699302245
+"tile, porcelain",cement tile,0.6671094698
+"tile, porcelain",concrete roof tile,0.6658879855
+"tile, porcelain","frit, for ceramic tile",0.6651797639
+"fish, frozen","fish freezing, small fish",0.6782902933
+"fish, frozen","frozen fish sticks, hake",0.6725219003
+"fish, frozen","landed tuna, frozen, EPO",0.6697151083
+"fish, frozen","small pelagic fish, fresh",0.6651948185
+"fish, frozen","trout feed, 42% protein",0.6633698389
+photovoltaic module for boats,"photovoltaic module, building-integrated, for slanted-roof installation",0.6681396124
+photovoltaic module for boats,"photovoltaic mounting system, for 570kWp open ground module",0.6662054762
+photovoltaic module for boats,"photovoltaic slanted-roof installation, 3kWp, single-Si, panel, mounted, on roof",0.6654180156
+photovoltaic module for boats,"photovoltaic slanted-roof installation, 3kWp, a-Si, panel, mounted, on roof",0.6645785794
+photovoltaic module for boats,"photovoltaics, electric installation for 3kWp module, at building",0.6641456476
+nuts,"wood chips and particles, willow",0.6598099902
+nuts,"peanut seed, for sowing",0.6576246996
+nuts,millet,0.6572169684
+nuts,chickpea,0.6555788518
+nuts,cashew,0.6552148443
+writing envelopes,paper sack,0.654889194
+writing envelopes,printed paper,0.6529288326
+writing envelopes,tissue paper,0.6528795568
+writing envelopes,"paper, woodfree, uncoated",0.6519651571
+writing envelopes,"paper, newsprint",0.6494335779
+natural gas,coal gas,0.6728855412
+natural gas,liquefied petroleum gas,0.6705278872
+natural gas,"natural gas, liquefied",0.6702409368
+natural gas,"natural gas, unprocessed, at extraction",0.669674554
+natural gas,"natural gas, vented",0.6695982317
+"packaging materials, cardboard",waste packaging paper,0.6708054949
+"packaging materials, cardboard","packaging film, low density polyethylene",0.6695340208
+"packaging materials, cardboard",packaging box factory,0.6669805554
+"packaging materials, cardboard",folding boxboard carton,0.6661135146
+"packaging materials, cardboard",kraft paper,0.66419042
+stationary consumables,"straw, stand-alone production",0.6519230974
+stationary consumables,"straw, organic",0.6456300101
+stationary consumables,"consumer electronics, mobile device, smartphone",0.6436840475
+stationary consumables,"containerboard, fluting medium",0.6434453688
+stationary consumables,"maintenance, intermodal shipping container, 40-foot, high-cube",0.6433885063
+"cars, electrical parts","electric parts, heat and power co-generation unit, 160kW electrical",0.6684859054
+"cars, electrical parts","electronic component machinery, unspecified",0.6674459897
+"cars, electrical parts","electric parts, mini CHP plant",0.6673219341
+"cars, electrical parts",electronics scrap from control units,0.6647811192
+"cars, electrical parts","powertrain, for electric passenger car",0.6647807112
+seafood mix,"fish canning, large fish",0.6580389623
+seafood mix,"fish canning, small fish",0.6578895855
+seafood mix,"trout feed, 42% protein",0.6545336918
+seafood mix,"fishmeal, 63-65% protein",0.6541551557
+seafood mix,"fishmeal, 65-67% protein",0.6541145321
+lamps,ultraviolet lamp,0.6669383241
+lamps,used fluorescent lamp,0.6644754072
+lamps,compact fluorescent lamp,0.6626943888
+lamps,inert gas for discharge lamps,0.6594629692
+lamps,light emitting diode,0.6527011942
+detergents,mustard,0.6577365191
+detergents,mancozeb,0.6550694316
+detergents,sodium,0.654389472
+detergents,refrigerant R134a,0.6540455781
+detergents,"refrigeration machine, R134a as refrigerant",0.6533514584
+trailers for industrial vehicles,agricultural trailer,0.6644568665
+trailers for industrial vehicles,"fodder loading, by self-loading trailer",0.6643422262
+trailers for industrial vehicles,liquid manure tank trailer,0.6624171027
+trailers for industrial vehicles,"transport, tractor and trailer, agricultural",0.6590913152
+trailers for industrial vehicles,"maintenance, goods wagon",0.6571982852
+titanium,"titanium, triple-melt",0.6762359622
+titanium,titanium,0.6742071918
+titanium,"titanium zinc plate, without pre-weathering",0.6725961807
+titanium,titanium tetrachloride,0.6639353426
+titanium,titanium dioxide,0.6633507059
+"coaches, building","building operation, hostel",0.6508168037
+"coaches, building","maintenance, bus",0.6495397001
+"coaches, building","maintenance, train, passenger, high-speed",0.6459831065
+"coaches, building",building machine,0.6451726319
+"coaches, building",bus,0.6451639253
+"lorries, building","building operation, hostel",0.6597832576
+"lorries, building","maintenance, goods wagon",0.65824802
+"lorries, building","maintenance, lorry 40 metric ton",0.6563300849
+"lorries, building","lorry, 40 metric ton",0.6563026533
+"lorries, building","maintenance, lorry 16 metric ton",0.6559765441
+wafers,"wafer, fabricated, for integrated circuit",0.6639567233
+wafers,multi-Si wafer,0.6564253989
+wafers,wafer factory,0.6563965427
+wafers,"single-Si wafer, for electronics",0.6504885909
+wafers,"single-Si wafer, photovoltaic",0.6475542827
+horns,horn meal,0.6471012625
+horns,brass,0.6403762805
+horns,"electronic component, passive, mobile, earpiece and speaker",0.6402500649
+horns,"contouring, brass",0.6372886383
+horns,"solder, bar, Sn95.5Ag3.9Cu0.6, for electronics industry",0.6365635436
+briquettes,lignite briquettes,0.655270323
+briquettes,lignite briquettes factory,0.649254283
+briquettes,aubergine,0.6468197062
+briquettes,refrigerant R134a,0.6374874108
+briquettes,polybutadiene,0.6374412948
+provitamins,prosulfocarb,0.6495707524
+provitamins,"power saw, without catalytic converter",0.6431636247
+provitamins,"power saw, with catalytic converter",0.6423722833
+provitamins,"silicon, solar grade",0.6411858517
+provitamins,refrigerant R134a,0.6411174372
+sharpening metals,"steel removed by turning, average, computer numerical controlled",0.6645593782
+sharpening metals,"steel removed by turning, primarily roughing, computer numerical controlled",0.6634438276
+sharpening metals,"steel removed by drilling, computer numerical controlled",0.6634128566
+sharpening metals,"chromium steel removed by turning, primarily roughing, computer numerical controlled",0.6626533045
+sharpening metals,"steel removed by turning, primarily dressing, computer numerical controlled",0.6625897544
+platinum,platinum,0.6891574647
+platinum,gold,0.6614128329
+platinum,"gold-silver, ingot",0.6517660385
+platinum,bronze,0.6501968237
+platinum,silver,0.6488386384
+hats,"yarn, kenaf",0.6481668949
+hats,"yarn, silk",0.6462589477
+hats,glass wool mat,0.6458019186
+hats,"selective coat, copper sheet, black majic",0.6449258046
+hats,"bleaching and dyeing, yarn",0.6440017462
+anhydric acids,ascorbic acid,0.6639970656
+anhydric acids,anhydrite,0.6633685611
+anhydric acids,adipic acid,0.6626729004
+anhydric acids,acetic anhydride,0.6626643901
+anhydric acids,phthalic anhydride,0.6624565634
+office furnishings,"furniture, wooden",0.6756572048
+office furnishings,"wood cladding, softwood",0.6667715927
+office furnishings,"shavings, hardwood, loose, measured as dry mass",0.6575902914
+office furnishings,"joist, engineered wood",0.6566021756
+office furnishings,"used door, inner, wood",0.6562765459
+biogas,biogas,0.6824440891
+biogas,"biogas, from grass",0.6709522044
+biogas,"biowaste, garden waste",0.6606545825
+biogas,"biowaste, kitchen and garden waste",0.6593556028
+biogas,"heat, central or small-scale, biomethane",0.6579830956
+pre-recorded audio,"electronic component, passive, mobile, earpiece and speaker",0.6467664678
+pre-recorded audio,"printed wiring board, through-hole mounted, unspecified, Pb free",0.6410497719
+pre-recorded audio,"printed wiring board, through-hole mounted, unspecified, Pb containing",0.6399897006
+pre-recorded audio,"sound insulation, heat and power co-generation unit, 160kW electrical",0.6399780285
+pre-recorded audio,"printed wiring board, surface mounted, unspecified, Pb free",0.6396436949
+storage tents,"shed, large, wood, non-insulated, fire-unprotected",0.655575372
+storage tents,agricultural trailer,0.6462994631
+storage tents,cocoons,0.6456239094
+storage tents,"operation, dried roughage store, non ventilated",0.6446643596
+storage tents,air separation facility,0.6440232604
+crushed ice,de-icer,0.6557183755
+crushed ice,"gravel, crushed",0.649397691
+crushed ice,"impact extrusion of steel, warm, initial warming",0.6492747057
+crushed ice,rock crushing,0.6472829674
+crushed ice,"operation, reefer, freezing",0.6472485042
+ceramics for coatings,coating powder,0.6639207877
+ceramics for coatings,sanitary ceramics,0.663840943
+ceramics for coatings,ceramic tile,0.6622755167
+ceramics for coatings,metal coating facility,0.661322905
+ceramics for coatings,"chromium oxide, flakes",0.6591077376
+damaged cars,manual dismantling of used passenger car with internal combustion engine,0.6588376638
+damaged cars,manual dismantling of used electric passenger car,0.6575765139
+damaged cars,passenger car maintenance,0.6551588442
+damaged cars,"maintenance, passenger car, electric, without battery",0.6503564573
+damaged cars,"internal combustion engine, passenger car",0.6491952963
+"meats, cured","red meat, live weight",0.6787469686
+"meats, cured",meat and bone meal,0.6772445721
+"meats, cured","chicken for slaughtering, live weight",0.6713145143
+"meats, cured","cattle for slaughtering, live weight",0.667548333
+"meats, cured","cheese, from cow milk, fresh, unripened",0.6662472959
+"chocolates, filled",green liquor dregs,0.655808776
+"chocolates, filled","lime, hydrated, packed",0.6532852497
+"chocolates, filled",white lined chipboard carton,0.6532064621
+"chocolates, filled",beverage carton converting,0.652189499
+"chocolates, filled",breadcrumbs,0.6509290943
+gold ingots,"gold-silver, ingot",0.6665951885
+gold ingots,"gold, unrefined",0.6582261026
+gold ingots,"mine infrastructure, gold-silver-zinc-lead-copper",0.654647155
+gold ingots,gold,0.6524486171
+gold ingots,"mine infrastructure, gold and silver",0.6521480231
+mushrooms,white asparagus,0.6519840438
+mushrooms,iceberg lettuce,0.6494342988
+mushrooms,flax husks,0.6493228113
+mushrooms,green asparagus,0.6484028443
+mushrooms,"zirconium sponge, nuclear-grade",0.6481673386
+acacia honey,mango,0.6468097455
+acacia honey,"eucalyptus seedling, for planting",0.6460520912
+acacia honey,jatropha seed,0.6455186365
+acacia honey,"sawnwood, softwood, raw",0.6423810205
+acacia honey,kiwi,0.6421436022
+car cleaning product,manual dismantling of used passenger car with internal combustion engine,0.6637870382
+car cleaning product,"maintenance, refrigeration machine",0.6607375166
+car cleaning product,"brake wear emissions, passenger car",0.6599499902
+car cleaning product,"road wear emissions, passenger car",0.6598372869
+car cleaning product,"brake wear emissions, lorry",0.6587241651
+"rods, threaded","cable, ribbon cable, 20-pin, with plugs",0.6589994084
+"rods, threaded","aluminium around steel bi-metal stranded cable, 3x3.67mm external diameter wire",0.6546261628
+"rods, threaded","aluminium around steel bi-metal wire, 3.67mm external diameter",0.6514608819
+"rods, threaded","wire drawing, steel",0.6504075649
+"rods, threaded","electric connector, wire clamp",0.6501722784
+lithium carbonate,lithium carbonate,0.6835111068
+lithium carbonate,lithium sulfate,0.6728405173
+lithium carbonate,"lithium brine, 6.7 % Li",0.6703289522
+lithium carbonate,lithium manganese oxide,0.6694935228
+lithium carbonate,lithium iron phosphate,0.6694659882
+prototype textile,"textile, knit cotton",0.6713850464
+prototype textile,"textile, woven cotton",0.6695185579
+prototype textile,"textile, nonwoven polyester",0.6691131516
+prototype textile,"textile, nonwoven polypropylene",0.6686377189
+prototype textile,"finishing, textile, woven cotton",0.6684464247
+medical laboratories,"electrode, positive, LaNi5",0.6525013987
+medical laboratories,"electrode, negative, LiC6",0.6442059236
+medical laboratories,uranium enrichment centrifuge facility,0.6402008245
+medical laboratories,"electrode, negative, Ni",0.6392416489
+medical laboratories,"operation, computer, laptop, videoconference",0.6368185568
+salads,mustard,0.6533447885
+salads,rape meal,0.6530203127
+salads,celery,0.6523726992
+salads,"tilapia feed, 24-28% protein",0.6517929994
+salads,meat and bone meal,0.6504680793
+plant health treatments,"weed control, by brush cutter, pasture",0.6501439232
+plant health treatments,sunflower seed,0.6492143133
+plant health treatments,mancozeb,0.6486234805
+plant health treatments,green asparagus,0.6483704748
+plant health treatments,fish curing plant,0.6482128954
+riding clothes,"selective coat, copper sheet, black majic",0.6505804479
+riding clothes,wood wool,0.6473612248
+riding clothes,"textile, silk",0.6472858676
+riding clothes,"textile, nonwoven polyester",0.6466592829
+riding clothes,"yarn, silk",0.6465227397
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, single-Si, panel, mounted, on roof",0.6752244236
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, ribbon-Si, panel, mounted, on roof",0.6748438956
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, a-Si, panel, mounted, on roof",0.6744215418
+photovoltaic panels,"photovoltaic slanted-roof installation, 3kWp, CIS, panel, mounted, on roof",0.6742031028
+photovoltaic panels,"photovoltaics, electric installation for 3kWp module, at building",0.6740763477
+goats' cheeses,"cheese, from cow milk, fresh, unripened",0.6766113181
+goats' cheeses,"yogurt, from cow milk",0.667861919
+goats' cheeses,"sheep for slaughtering, live weight",0.6637027503
+goats' cheeses,dairy,0.6636781261
+goats' cheeses,"butter, from cow milk",0.6625374568
+stacking frames for pallets,folding boxboard carton,0.6609844644
+stacking frames for pallets,"containerboard, linerboard",0.657342445
+stacking frames for pallets,three and five layered board,0.6543328909
+stacking frames for pallets,EUR-flat pallet,0.6543214499
+stacking frames for pallets,"mounting, through-hole technology, Pb-containing solder",0.6539970933
+wood - turned products,"wood preservation, hot/cold dipping, creosote, outdoor use, ground contact",0.6700529283
+wood - turned products,"wood preservation, dipping/immersion method, water-based, indoor use, dry",0.6680296285
+wood - turned products,"wood preservation, pressure vessel, creosote, outdoor use, ground contact",0.6677616046
+wood - turned products,"wood chipping, industrial residual wood, stationary electric chipper",0.6674707981
+wood - turned products,"wood preservation, dipping/immersion method, water-based, indoor use, occasionally wet",0.6674654978
+polyethylene,"polyethylene pipe, corrugated, DN 75",0.6691234385
+polyethylene,"polyethylene pipe, DN 200, SDR 41",0.667423653
+polyethylene,"polyethylene, linear low density, granulate",0.6650617792
+polyethylene,"polyethylene, low density, granulate",0.6645539358
+polyethylene,"polyethylene, high density, granulate",0.6634312894
+cartridges for clay pigeon shooting,"silencer, steel, DN 315, 50 mm",0.6526518428
+cartridges for clay pigeon shooting,"used silencer steel, DN 125",0.6519043736
+cartridges for clay pigeon shooting,"silencer, steel, DN 125",0.6490784041
+cartridges for clay pigeon shooting,"used silencer steel, DN 315",0.6490055177
+cartridges for clay pigeon shooting,wood pellet factory,0.6477050158
+wooden cottages,"shed, large, wood, non-insulated, fire-unprotected",0.6481181426
+wooden cottages,"sawlog and veneer log, meranti, debarked, measured as solid wood",0.6480503418
+wooden cottages,"sawnwood, board, hardwood, dried (u=20%), planed",0.6477905589
+wooden cottages,"wooden board factory, organic bonded boards",0.6477504084
+wooden cottages,"sawnwood, board, hardwood, dried (u=10%), planed",0.6477471096
+fresh parsley,"barley seed, for sowing",0.6546764171
+fresh parsley,"carrot seed, for sowing",0.6544336864
+fresh parsley,"linseed seed, for sowing",0.6543899724
+fresh parsley,"oat seed, for sowing",0.6538937428
+fresh parsley,"fava bean seed, for sowing",0.6537927608
+loudspeakers,"electronic component, passive, mobile, earpiece and speaker",0.6463679229
+loudspeakers,"sound insulation, heat and power co-generation unit, 160kW electrical",0.6424308039
+loudspeakers,television,0.6347319632
+loudspeakers,"silencer, steel, DN 125",0.6332286246
+loudspeakers,"electricity, high voltage",0.631664725
+fresh fish fillets,"demersal fish, fresh",0.679741728
+fresh fish fillets,"trout feed, 42% protein",0.6752554923
+fresh fish fillets,"small pelagic fish, fresh",0.6741294294
+fresh fish fillets,"fish canning, small fish",0.6730694327
+fresh fish fillets,"fish canning, large fish",0.6725936438
+"stoves, heating","coal stove, 5-15kW",0.673248706
+"stoves, heating","auxiliary heating unit, electric, 5kW",0.6663031588
+"stoves, heating","heat pump, 30kW",0.6640988299
+"stoves, heating","heat distribution equipment, hydronic radiant floor heating, 150m2",0.6640831722
+"stoves, heating","furnace, wood chips, hardwood storage area, 50kW",0.6623587007
+corrugated pipes,"polyethylene pipe, corrugated, DN 75",0.6632193326
+corrugated pipes,corrugated board box,0.6534559303
+corrugated pipes,"polyethylene pipe, DN 200, SDR 41",0.6524563504
+corrugated pipes,"sewer grid, rural",0.6522519724
+corrugated pipes,"sewer grid, 1.6E8l/year, 6 km",0.6494782431
+plastic beads,"polymethyl methacrylate, beads",0.6618870896
+plastic beads,"glass fibre reinforced plastic, polyester resin, hand lay-up",0.6463462285
+plastic beads,"nylon 6-6, glass-filled",0.644664045
+plastic beads,"glass tube, borosilicate",0.6445987751
+plastic beads,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",0.644045526
+salt substitute,salt,0.6710346665
+salt substitute,potassium sulfate,0.6655586097
+salt substitute,sodium hydrogen sulfate,0.6642397837
+salt substitute,"sodium nitrate, unrefined",0.6640186997
+salt substitute,potash salt,0.6634374904
+fresh butchered products,"poultry manure, fresh",0.6699351675
+fresh butchered products,"protein feed, 100% crude",0.6680110507
+fresh butchered products,"chicken for slaughtering, live weight",0.6674691724
+fresh butchered products,meat and bone meal,0.6673384818
+fresh butchered products,"red meat, live weight",0.6657703965
+speed reducers for industrial conveyor belts,"transformer, low voltage use",0.648361743
+speed reducers for industrial conveyor belts,conveyor belt,0.6477798186
+speed reducers for industrial conveyor belts,"steel removed by milling, average",0.6473253107
+speed reducers for industrial conveyor belts,"road wear emissions, lorry",0.6469555787
+speed reducers for industrial conveyor belts,"transformer, high voltage use",0.6464615037
+water meters,"water pump, 22kW",0.6558251189
+water meters,"water works, capacity 1.1E10l/year",0.655617456
+water meters,"water works, capacity 6.23E10l/year",0.655556336
+water meters,water supply network,0.6554065288
+water meters,"water pump operation, electric",0.6520266973
+insulating sleeves,"sealing tape, aluminium/PE, 50 mm wide",0.6486332961
+insulating sleeves,"insulation spiral-seam duct, rockwool, DN 400, 30 mm",0.643100946
+insulating sleeves,"used sealing tape aluminium/PE, 50 mm wide",0.6427846061
+insulating sleeves,polystyrene foam slab for perimeter insulation,0.6427554731
+insulating sleeves,"anodising, aluminium sheet",0.6401679345
+frames - armchair,"furniture, wooden",0.6493436665
+frames - armchair,"window frame, wood, U=1.5 W/m2K",0.6412791213
+frames - armchair,"door, outer, wood-aluminium",0.6410856899
+frames - armchair,"window frame, aluminium, U=1.6 W/m2K",0.6406413789
+frames - armchair,"window frame, wood-metal, U=1.6 W/m2K",0.6403166894
+vermouth wines,green liquor dregs,0.6417801528
+vermouth wines,"tempering, flat glass",0.6413657468
+vermouth wines,"glass cullet, for Saint-Gobain ISOVER SA",0.6411043505
+vermouth wines,"glass tube, borosilicate",0.6398822283
+vermouth wines,milking parlour,0.6396085754
+food supplements based on essential oils,"mineral supplement, for beef cattle",0.6632646941
+food supplements based on essential oils,"protein feed, 100% crude",0.662444246
+food supplements based on essential oils,"vegetable oil, refined",0.6614675734
+food supplements based on essential oils,"tilapia feed, 24-28% protein",0.6609432441
+food supplements based on essential oils,"diethyl ether, without water, in 99.95% solution state",0.6607887019
+wire baskets,"trellis system, wooden poles, soft wood, tar impregnated",0.6471246171
+wire baskets,"wire drawing, steel",0.6457773987
+wire baskets,floating collar cage,0.645024012
+wire baskets,"weaving, synthetic fibre",0.6438560556
+wire baskets,"aluminium around steel bi-metal stranded cable, 3x3.67mm external diameter wire",0.6437564526
+large boilers,"oil boiler, 10kW",0.6622585204
+large boilers,"oil boiler, 100kW",0.6621857179
+large boilers,"steam generation system, solar tower power plant, 20 MW",0.6588496335
+large boilers,gas boiler,0.6587235819
+large boilers,"coal stove, 5-15kW",0.6579893624
+castors for furniture,castor bean,0.647973268
+castors for furniture,"cast iron removed by turning, primarily dressing, computer numerical controlled",0.64569317
+castors for furniture,cast iron,0.6444101359
+castors for furniture,"cast iron removed by turning, primarily dressing, conventional",0.6442933184
+castors for furniture,"cast iron removed by drilling, computer numerical controlled",0.6440754691
+sesame seeds,sesame seed,0.6705673432
+sesame seeds,sunflower seed,0.6526060425
+sesame seeds,jatropha seed,0.6523796028
+sesame seeds,"sunflower seed, for sowing",0.6485018141
+sesame seeds,"peanut seed, for sowing",0.6464394282
+pinot noir champagne,aubergine,0.6440631562
+pinot noir champagne,apricot,0.6438462848
+pinot noir champagne,"vinasse, from fermentation of sweet sorghum",0.6432105058
+pinot noir champagne,"vinasse, from fermentation of sugar beet molasses",0.6429534536
+pinot noir champagne,"glass cullet, for Saint-Gobain ISOVER SA",0.6428517762
+aqua-vitae,prosulfocarb,0.644134049
+aqua-vitae,"water, ultrapure",0.6405329203
+aqua-vitae,trout,0.6395371624
+aqua-vitae,fennel,0.6377121183
+aqua-vitae,cork slab,0.6375458037
+monster energy drink 500ml,"expansion vessel, 80l",0.6464646685
+monster energy drink 500ml,green liquor dregs,0.6454361522
+monster energy drink 500ml,foam glass,0.6431306969
+monster energy drink 500ml,"expansion vessel, 25l",0.6430448909
+monster energy drink 500ml,"gas motor, 206kW",0.6417923253
+deep-frozen ready meals,meat and bone meal,0.6513314746
+deep-frozen ready meals,"protein pea, feed, Swiss integrated production",0.6500392913
+deep-frozen ready meals,"frozen fish sticks, hake",0.6498201578
+deep-frozen ready meals,"protein pea, Swiss integrated production",0.6488100422
+deep-frozen ready meals,"tilapia feed, 24-28% protein",0.6481572822
+"cb, citizens' band radios","electronic component, passive, mobile, earpiece and speaker",0.6428926852
+"cb, citizens' band radios","inductor, miniature radio frequency chip",0.6427666587
+"cb, citizens' band radios","sound insulation, heat and power co-generation unit, 160kW electrical",0.6397915072
+"cb, citizens' band radios","silencer, steel, DN 125",0.637653878
+"cb, citizens' band radios","electronic component, active, unspecified",0.6336673054
+blowpipes,"swath, by rotary windrower",0.6409228701
+blowpipes,"blower and heat exchange unit, central, 600-1200 m3/h",0.6382731173
+blowpipes,"ventilation duct, elbow 90°, steel, 100x50 mm",0.6376325745
+blowpipes,"silencer, steel, DN 125",0.6371363156
+blowpipes,"blower and heat exchange unit, KWL 250",0.6364874306
+high-performance semiconductors,"inductor, low value multilayer chip",0.6636789946
+high-performance semiconductors,"cadmium, semiconductor-grade",0.6620121626
+high-performance semiconductors,"cadmium sulfide, semiconductor-grade",0.6606763389
+high-performance semiconductors,"gallium, semiconductor-grade",0.6602210581
+high-performance semiconductors,"silicon, single crystal, Czochralski process, photovoltaics",0.6601695915
+light alloy die-casting,"magnesium-alloy, AZ91, diecast",0.66462851
+light alloy die-casting,iron-nickel-chromium alloy,0.6616552881
+light alloy die-casting,"aluminium, cast alloy",0.6609791988
+light alloy die-casting,"steel, chromium steel 18/8, hot rolled",0.6592234371
+light alloy die-casting,"casting, bronze",0.6589979511
+nitrogen generators,"nitrogen, liquid",0.6489579137
+nitrogen generators,"organo-mineral nitrogen fertiliser, as N",0.6481317055
+nitrogen generators,"organic nitrogen fertiliser, as N",0.6456621012
+nitrogen generators,helium,0.6454722931
+nitrogen generators,"venting of nitrogen, liquid",0.6453528649
+piezoelectric components,"silicon, single crystal, Czochralski process, photovoltaics",0.6504743499
+piezoelectric components,"electronic component, passive, mobile, earpiece and speaker",0.6481403355
+piezoelectric components,"silicon, single crystal, Czochralski process, electronics",0.6471956784
+piezoelectric components,"photovoltaic panel, multi-Si wafer",0.6470669132
+piezoelectric components,"photovoltaic panel, single-Si wafer",0.6468636345
+gruyere,aubergine,0.6335312704
+gruyere,hoeing,0.6321402761
+gruyere,whey,0.6306659413
+gruyere,cobalt,0.6301393149
+gruyere,folpet,0.6299843815
+prestigious coffee selections for bars,"coffee, green bean",0.6514698467
+prestigious coffee selections for bars,green liquor dregs,0.6491615181
+prestigious coffee selections for bars,coffee maker,0.6486120911
+prestigious coffee selections for bars,"building, upmarket hotel",0.648146373
+prestigious coffee selections for bars,"building, budget hotel",0.6458085414
+sowing machines,sowing,0.6651641142
+sowing machines,"mowing, by rotary mower",0.6563769089
+sowing machines,"mowing, by motor mower",0.6533271892
+sowing machines,"tillage, harrowing, by rotary harrow",0.6485645669
+sowing machines,"tillage, harrowing, by offset disc harrow",0.6474439325
+flour correctors,potato grading,0.6496421868
+flour correctors,"delimbing/sorting, excavator-based processor",0.6484280727
+flour correctors,breadcrumbs,0.647344879
+flour correctors,wheat flour mix,0.6438855248
+flour correctors,wheat flour,0.6429572192
+mass-produced precision parts,"metal working machine, unspecified",0.6590290853
+mass-produced precision parts,"casting, brass",0.6583198088
+mass-produced precision parts,"chromium steel removed by milling, small parts",0.6580526622
+mass-produced precision parts,"chromium steel removed by milling, large parts",0.6576013029
+mass-produced precision parts,"laser machining, metal, with YAG-laser, 330W power",0.6575002347
+moped engines,"mowing, by motor mower",0.6539680717
+moped engines,"mowing, by rotary mower",0.6531554591
+moped engines,"machine operation, diesel, >= 74.57 kW, high load factor",0.6493123965
+moped engines,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, high load factor",0.6491880421
+moped engines,"machine operation, diesel, >= 18.64 kW and < 74.57 kW, low load factor",0.648915495
+fulvic fertilizers,"fertilising, by stool splitter, sugarcane",0.6633595995
+fulvic fertilizers,"organo-mineral nitrogen fertiliser, as N",0.662708373
+fulvic fertilizers,"fertilising, by broadcaster",0.6620109164
+fulvic fertilizers,NPK (26-15-15) fertiliser,0.6604066452
+fulvic fertilizers,NPK (15-15-15) fertiliser,0.657579692
+mezzanine floor,anhydrite floor,0.6536839669
+mezzanine floor,mattress,0.6461288761
+mezzanine floor,tram track,0.6436280857
+mezzanine floor,cement cast plaster floor,0.6433705723
+mezzanine floor,"spiral-seam duct, steel, DN 400",0.642802921
+fresh plant pressed juice powder,sugar beet pulp,0.6545391605
+fresh plant pressed juice powder,"zeolite, powder",0.6529892299
+fresh plant pressed juice powder,grape,0.6529540744
+fresh plant pressed juice powder,"mint seedling, for planting",0.6524173547
+fresh plant pressed juice powder,palm fruit bunch,0.6519659015
+model clothes hangers made of beech,"wood cladding, softwood",0.6545775094
+model clothes hangers made of beech,plywood,0.6542306059
+model clothes hangers made of beech,"sawlog and veneer log, softwood, debarked, measured as solid wood",0.6537504333
+model clothes hangers made of beech,"sawlog and veneer log, paraná pine, measured as solid wood under bark",0.6528853145
+model clothes hangers made of beech,"sawnwood, beam, hardwood, dried (u=20%), planed",0.6524622411
+slate for coverings,roof tile,0.6614770039
+slate for coverings,"cover plaster, mineral",0.6592350403
+slate for coverings,fibre cement roof slate,0.6588206865
+slate for coverings,"printed wiring board, for surface mounting, Pb free surface",0.6570439704
+slate for coverings,"printed wiring board, for surface mounting, Pb containing surface",0.6555905142
+thermal water treatment plants,"heat pump, 30kW",0.6671204995
+thermal water treatment plants,"thermal storage system, solar thermal parabolic trough, 50 MW",0.6648537304
+thermal water treatment plants,"heat, solar+electric, multiple-dwelling, for hot water",0.664755871
+thermal water treatment plants,"thermal storage system, solar tower power plant, 20 MW",0.6646988931
+thermal water treatment plants,"heat pump, brine-water, 10kW",0.6646266224
+mounting parts for precast concrete parts,printed wiring board mounting facility,0.6535682559
+mounting parts for precast concrete parts,autoclaved aerated concrete block,0.6516626622
+mounting parts for precast concrete parts,"printed wiring board, for through-hole mounting, Pb free surface",0.6513447117
+mounting parts for precast concrete parts,"printed wiring board, for surface mounting, Pb free surface",0.6505613698
+mounting parts for precast concrete parts,"printed wiring board mounting facility, surface mounting line",0.6505554728
+trailer skips,"fodder loading, by self-loading trailer",0.6482935722
+trailer skips,agricultural trailer,0.6444263244
+trailer skips,"excavation, skid-steer loader",0.6428542461
+trailer skips,"swath, by rotary windrower",0.6402106131
+trailer skips,"maintenance, goods wagon",0.6369090813
+cooling conveyors,"heat pump, diffusion absorption, 4kW, future",0.6466946961
+cooling conveyors,"heat transport fluid system, solar thermal parabolic trough, 50 MW",0.6451150458
+cooling conveyors,"heat, diffusion absorption heat pump",0.6437204521
+cooling conveyors,cooling energy,0.6436034633
+cooling conveyors,"blower and heat exchange unit, central, 600-1200 m3/h",0.6434988406
+solid door,"door, inner, wood",0.6757637485
+solid door,"door, inner, glass-wood",0.6714206799
+solid door,"door, outer, wood-glass",0.6690311043
+solid door,"door, outer, wood-aluminium",0.6682062435
+solid door,"used door, inner, wood",0.6650625269
+heavy-load ball rollers,"hot rolling, steel",0.642671414
+heavy-load ball rollers,"section bar rolling, steel",0.6421841615
+heavy-load ball rollers,"skidding, skidder",0.6418612968
+heavy-load ball rollers,"maintenance, lorry 16 metric ton",0.6415971739
+heavy-load ball rollers,"sheet rolling, steel",0.6412011926
+protective tubes for temperature measurement,"ventilation duct, steel, 100x50 mm",0.640198206
+protective tubes for temperature measurement,"ventilation duct, connection piece, steel, 100x50 mm",0.6394559019
+protective tubes for temperature measurement,"insulation spiral-seam duct, rockwool, DN 400, 30 mm",0.6390777068
+protective tubes for temperature measurement,"sealing tape, aluminium/PE, 50 mm wide",0.638562073
+protective tubes for temperature measurement,"ventilation of dwellings, decentralized, 6 x 120 m3/h",0.6379456471
+precision broaching machines for metalworking,"metal working machine, unspecified",0.6638801345
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 500W power",0.6631112331
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 330W power",0.6630633729
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 120W power",0.66291522
+precision broaching machines for metalworking,"laser machining, metal, with YAG-laser, 50W power",0.6628442262
+progresivo,mecoprop,0.6502668199
+progresivo,prosulfocarb,0.6443583862
+progresivo,reformate,0.63940511
+progresivo,propanal,0.6387386606
+progresivo,folpet,0.638033698
+hepa filter,"air filter, decentralized unit, 180-250 m3/h",0.6545415153
+hepa filter,"air filter, decentralized unit, 250 m3/h",0.6543840281
+hepa filter,"air filter, central unit, 600 m3/h",0.6513897838
+hepa filter,"used air filter decentralized unit, 250 m3/h",0.6503256541
+hepa filter,"used air filter decentralized unit, 180-250 m3/h",0.6500200606
+jet stream mixer,"absorption chiller, 100kW",0.6419718933
+jet stream mixer,"flux, for wave soldering",0.6352119404
+jet stream mixer,"inverter, 500kW",0.635000062
+jet stream mixer,"inverter, 0.5kW",0.6345049892
+jet stream mixer,"blower and heat exchange unit, decentralized, 180-250 m3/h",0.6341046583
+aviary,airport,0.641497054
+aviary,fennel,0.6401307195
+aviary,helicopter,0.6397601393
+aviary,cocoons,0.6394919249
+aviary,almond,0.6361507183
+tamper evident labelling,"fluorescent whitening agent, DAS1, triazinylaminostilben type",0.6511497781
+tamper evident labelling,"fluorescent whitening agent, distyrylbiphenyl type",0.6481759595
+tamper evident labelling,"printed wiring board, surface mounted, unspecified, Pb containing",0.6454791893
+tamper evident labelling,"printed wiring board, surface mounted, unspecified, Pb free",0.6452126882
+tamper evident labelling,"printed wiring board, through-hole mounted, unspecified, Pb free",0.6447025193
+xmas figurines,"contouring, bronze",0.648025388
+xmas figurines,gypsum plasterboard,0.6427311918
+xmas figurines,apricot,0.6417514307
+xmas figurines,peach,0.6392759834
+xmas figurines,pomegranate,0.6392130225
+glasswork,"glass wool mat, uncoated, Saint-Gobain ISOVER SA",0.668647709
+glasswork,glass etching factory,0.6661042838
+glasswork,"glass, for liquid crystal display",0.6658581106
+glasswork,"glass cullet, from used cathode ray tube panels",0.6654716547
+glasswork,glass from used cathode ray tube,0.6643469558
+bulk hand railing products,"purse seiner maintenance, steel",0.6480612174
+bulk hand railing products,"trawler maintenance, steel",0.6474658749
+bulk hand railing products,"section bar rolling, steel",0.6445267788
+bulk hand railing products,"wire drawing, steel",0.644319563
+bulk hand railing products,"steel, low-alloyed",0.6441589785
+terra-cotta crockery,gypsum plasterboard,0.645117168
+terra-cotta crockery,ceramic tile,0.644812523
+terra-cotta crockery,"wood cladding, softwood",0.6442918759
+terra-cotta crockery,"furniture, wooden",0.643263503
+terra-cotta crockery,roof tile,0.6410067332
+thin-film evaporator,de-icer,0.6461509604
+thin-film evaporator,evaporation of milk,0.6453221057
+thin-film evaporator,"purge gas, rich in sodium nitrate",0.644954212
+thin-film evaporator,waste x-ray film,0.6443169316
+thin-film evaporator,"selective coat, copper sheet, physical vapour deposition",0.6436384891
+crown organica,cross-laminated timber,0.6504380786
+crown organica,"harvesting, by complete harvester, beets",0.6449178552
+crown organica,"grass, organic",0.6448751282
+crown organica,"fibre, cotton, organic",0.644642889
+crown organica,aclonifen,0.6444378013
+floral crowns,cocoons,0.6385659646
+floral crowns,"sawlog and veneer log, eucalyptus ssp., measured as solid wood under bark",0.6382091555
+floral crowns,cauliflower,0.637774946
+floral crowns,horticultural fleece,0.6368806837
+floral crowns,"funnel glass, for cathode ray tube display",0.6366533188
+value added timber products,"sawnwood, hardwood, raw, dried (u=20%)",0.6679001824
+value added timber products,"sawnwood, hardwood, raw, dried (u=10%)",0.6678277153
+value added timber products,cross-laminated timber,0.6677290715
+value added timber products,"sawnwood, board, hardwood, raw, dried (u=10%)",0.6676127212
+value added timber products,"sawnwood, board, hardwood, raw, dried (u=20%)",0.6676122303
+reed diffusers,"inverter, 0.5kW",0.6384309661
+reed diffusers,"inverter, 2.5kW",0.6370671868
+reed diffusers,"panel glass, for cathode ray tube display",0.63648345
+reed diffusers,"swath, by rotary windrower",0.6363255266
+reed diffusers,"used air filter decentralized unit, 250 m3/h",0.6356347537
+industrial burners,"coal stove, 5-15kW",0.6610484528
+industrial burners,"industrial furnace, coal, 1-10MW",0.6591942826
+industrial burners,blast oxygen furnace converter,0.6586319532
+industrial burners,"industrial furnace, 1MW, oil",0.6574688273
+industrial burners,"blower and heat exchange unit, Avent E 97",0.6565342916
+poultry meat,"poultry manure, dried",0.6944437922
+poultry meat,"poultry manure, fresh",0.6899130329
+poultry meat,"chicken for slaughtering, live weight",0.6869261936
+poultry meat,meat and bone meal,0.6786531019
+poultry meat,"red meat, live weight",0.6754987851
+sensor,"electrode, positive, LaNi5",0.6554760177
+sensor,"electrode, negative, LiC6",0.6550338152
+sensor,"potentiometer, unspecified",0.6532032994
+sensor,"pointing device, optical mouse, with cable",0.6508322344
+sensor,"polarizer, liquid crystals and colour filters, for liquid crystal display",0.6507371047
+greenhouse plant,"greenhouse, glass walls and roof",0.6708935178
+greenhouse plant,"greenhouse, plastic walls and roof",0.6700026957
+greenhouse plant,"asparagus seedling, for planting",0.6598554898
+greenhouse plant,planting,0.6587841752
+greenhouse plant,"planting with starter fertiliser, by no till planter",0.6565531642
+industrial grease,mustard,0.651914164
+industrial grease,"electrolyte, KOH, LiOH additive",0.6512172512
+industrial grease,"residue from mechanical treatment, laser printer",0.6498221456
+industrial grease,scandium oxide,0.6495196492
+industrial grease,copper oxide,0.6487106167
+industrial brush,"shavings, hardwood, measured as dry mass",0.652486478
+industrial brush,dryer,0.6514823798
+industrial brush,"shavings, softwood, measured as dry mass",0.6514058439
+industrial brush,hair dryer,0.6508176532
+industrial brush,"shavings, hardwood, loose, measured as dry mass",0.650639908
+softwood log,"sawnwood, softwood, raw",0.6586246629
+softwood log,"wood preservation, dipping/immersion method, water-based, outdoor use, no ground contact",0.6559391987
+softwood log,"sawlog and veneer log, softwood, measured as solid wood under bark",0.6546641967
+softwood log,"sawlog and veneer log, softwood, debarked, measured as solid wood",0.654371958
+softwood log,"wood cladding, softwood",0.6539924061
+meat cutter,"chopping, maize",0.6578044611
+meat cutter,meat and bone meal,0.6567928565
+meat cutter,"chicken for slaughtering, live weight",0.6532221546
+meat cutter,"red meat, live weight",0.6531492887
+meat cutter,"mowing, by rotary mower",0.6496513208
+pulp (cellulose),cellulose fibre,0.6676520994
+pulp (cellulose),thermo-mechanical pulp,0.6654338632
+pulp (cellulose),"pulpwood, softwood, measured as solid wood under bark",0.6643944198
+pulp (cellulose),"pulpwood, hardwood, measured as solid wood under bark",0.6633803338
+pulp (cellulose),sugar beet pulp,0.6609817632
+plan,planing mill,0.6469994819
+plan,core board,0.6467348577
+plan,"planning, heat and power co-generation unit, 160kW electrical",0.6461022295
+plan,"planning, cogen unit mini CHP plant",0.6440239163
+plan,"swath, by rotary windrower",0.6435605081
+plaster,base plaster,0.677368634
+plaster,clay plaster,0.6700145879
+plaster,cement plaster,0.6694759149
+plaster,gypsum plasterboard,0.6642095806
+plaster,plaster mixing,0.6588798825
+electric scooter,"electric scooter, without battery",0.6626830478
+electric scooter,"charger, for electric scooter",0.6619593772
+electric scooter,"electric motor, for electric scooter",0.657208512
+electric scooter,"powertrain, for electric scooter",0.6567745405
+electric scooter,"controller, for electric scooter",0.656674749
+pre-ground steel,"steel removed by drilling, computer numerical controlled",0.667622456
+pre-ground steel,"steel removed by turning, primarily roughing, computer numerical controlled",0.6674438221
+pre-ground steel,"steel removed by turning, primarily dressing, computer numerical controlled",0.6649404932
+pre-ground steel,"steel removed by turning, primarily roughing, conventional",0.6648961272
+pre-ground steel,"steel removed by drilling, conventional",0.6640908479
+"fuels, liquid","hydrogen, liquid",0.6596556256
+"fuels, liquid","petrol, 5% ethanol by volume from biomass",0.6594524321
+"fuels, liquid","petrol, 85% ethanol by volume from biomass",0.6590688068
+"fuels, liquid","fuel cell, solid oxide, 125kW electrical, future",0.6588070872
+"fuels, liquid",natural gas liquids,0.6587552598
+liquid fuel heaters,"heat pump, 30kW",0.6630976663
+liquid fuel heaters,"heat pump, diffusion absorption, 4kW, future",0.6599394432
+liquid fuel heaters,"heat storage, 2000l",0.6597062222
+liquid fuel heaters,"coal stove, 5-15kW",0.6574394289
+liquid fuel heaters,"heat pump, for mini CHP plant",0.6572164528
+"iron, special grade","steel, chromium steel 18/8",0.6744280082
+"iron, special grade",iron-nickel-chromium alloy,0.6731687611
+"iron, special grade","cast iron removed by drilling, computer numerical controlled",0.6707164826
+"iron, special grade","chromium steel removed by milling, average",0.6703405013
+"iron, special grade","cast iron removed by drilling, conventional",0.6703236919
+performing arts,television,0.6507074875
+performing arts,intral,0.6373086719
+performing arts,"weaving, synthetic fibre",0.6372920066
+performing arts,"mercerizing, textile",0.6369430442
+performing arts,propanal,0.6360072957
+common steels,"steel, chromium steel 18/8, hot rolled",0.6715134825
+common steels,"steel, chromium steel 18/8",0.669998681
+common steels,"steel, low-alloyed",0.668673892
+common steels,"steel, low-alloyed, hot rolled",0.6674013154
+common steels,"welding, arc, steel",0.6643505625
+christmas gift packages,folding boxboard carton,0.650261285
+christmas gift packages,tissue paper,0.6499018976
+christmas gift packages,paper sack,0.6489207008
+christmas gift packages,breadcrumbs,0.6469820481
+christmas gift packages,"packaging glass, green",0.6467102189
+ceramic floor tile,ceramic tile,0.6896927599
+ceramic floor tile,roof tile,0.6789639614
+ceramic floor tile,concrete roof tile,0.6759543214
+ceramic floor tile,cement tile,0.6751511376
+ceramic floor tile,fibre cement facing tile,0.6722872749
+truck parts,"maintenance, goods wagon",0.6682621448
+truck parts,road vehicle factory,0.6638975333
+truck parts,"maintenance, motor scooter",0.6635034999
+truck parts,"maintenance, bus",0.6616972688
+truck parts,"electronic component machinery, unspecified",0.66080228
+plastic film,"extrusion, plastic film",0.6642404473
+plastic film,"tetrafluoroethylene film, on glass",0.6574752189
+plastic film,plastic tunnel,0.65479066
+plastic film,"packaging film, low density polyethylene",0.6545581023
+plastic film,"glass fibre reinforced plastic, polyester resin, hand lay-up",0.6536739407
+modular building,"building, multi-storey",0.65894252
+modular building,"building operation, hostel",0.6547482436
+modular building,"building, hall, steel construction",0.6539451005
+modular building,"building, hostel",0.6529798512
+modular building,"building, hall",0.6518955266
+compressed air tool,"compressed air, 1200 kPa gauge",0.6490136426
+compressed air tool,"compressed air, 700 kPa gauge",0.6480966015
+compressed air tool,"compressed air, 800 kPa gauge",0.6479398797
+compressed air tool,"compressed air, 1000 kPa gauge",0.6475535165
+compressed air tool,"compressed air, 600 kPa gauge",0.6472303008
+water treatment plant,"water works, capacity 6.23E10l/year",0.6740722411
+water treatment plant,"water works, capacity 1.1E10l/year",0.6737311492
+water treatment plant,"water pump operation, electric",0.6686610795
+water treatment plant,"wastewater treatment facility, capacity 1.6E8l/year",0.6684539998
+water treatment plant,"wastewater treatment facility, capacity 1.1E10l/year",0.6677310181
